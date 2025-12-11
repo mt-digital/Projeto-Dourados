@@ -1,0 +1,80 @@
+# project:
+#   type: website
+
+# website:
+#   title: "Projeto Dourados"
+#   navbar:
+#     left:
+#       - href: index.qmd
+#         text: Home
+#       - about.qmd
+
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
+#     toc: true
+
+
+
+## ULTIMO RASCUNHO ANTES DE FAZER O COMMIT INICIAL, ABAIXO ##
+project:
+  type: website
+
+
+website:
+  title: "Projeto Dourados"
+
+  # navbar:
+  #   left:
+  #     - href: pt/index.qmd
+  #       text: Início
+  #     - href: pt/oportunidades.qmd
+  #       text: Oportunidades
+  #     - href: pt/time.qmd
+  #       text: Time
+  #     - href: pt/doadores.qmd
+  #       text: Doadores
+
+
+languages:
+  pt:
+    name: Português
+    dir: pt
+    default: true
+    # language: pt-BR
+
+  en:
+    name: English
+    dir: en
+    # language: en-US
+        
+# languages:
+  # pt:
+    # language: pt
+    # name: Português (Brasil)
+    # default: true
+  # en:
+    # name: English (USA)
+    # language: en
+      
+
+format:
+  html:
+    toc: true
+    number-sections: false
+    include-in-header: header.html
+    theme: 
+      light:
+        - theme-light.scss
+        - styles.scss
+      dark:
+        - darkly 
+        - theme-dark.scss
+        - styles.scss
+    fontsize: 1.0em
+    linestretch: 1.2
+    number-depth: 3
+

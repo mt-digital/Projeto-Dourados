@@ -1,0 +1,699 @@
+/*-- scss:rules --*/
+
+.normal-form-table {
+  td,
+  th {
+    padding: 0.5em 1.25em;
+    text-align: center;           // center-align by default
+    border: none;                 // clear any default table borders
+  }
+
+  /* Row label cells */
+  td:first-child {
+    text-align: right;            // right-align: Low, High, etc.
+    border-right: 1px solid black;
+    padding-right: 1.5em;
+  }
+
+  /* Top-left "Focal" cell stays left-aligned */
+  th:first-child {
+    text-align: left;
+//    border-right: 1px solid black;
+    padding-right: 1.5em;
+  }
+
+  /* Horizontal line above payoff block */
+  tr.top-border td {
+  border-top: 1px solid black;
+  padding-top: 0.75em;
+  }
+  tr.top-border td:first-child {
+    border-top: none;
+  }
+  /* Remove vertical border in header area — second row, first cell */
+  tr:nth-child(2) td:first-child {
+    border-right: none;
+  }
+  
+}
+
+
+/* Tighten top two rows */
+.normal-form-table tr:nth-child(1) th,
+.normal-form-table tr:nth-child(2) td {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+/* Tighten bottom three rows */
+.normal-form-table tr:nth-child(4),
+.normal-form-table tr:nth-child(5),
+.normal-form-table tr:nth-child(6) {
+  td {
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+  }
+}
+
+
+/* Normalize font sizing and alignment */
+.normal-form-table td,
+.normal-form-table th {
+  font-size: 1rem;
+  vertical-align: middle;
+}
+
+/* Prevent table from stretching out in standalone */
+.normal-form-table {
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  max-width: 100%;
+}
+
+/* Ensure math is consistent with KaTeX scale in books */
+.normal-form-table td > span.katex {
+  font-size: 1em;
+}
+
+.quarto-float.anchored.table:has(.normal-form-table) {
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+
+.normal-form-table {
+  margin-top: 1.1em; // creates space between caption and table
+}
+
+/* Remove top border of the header row */
+:where(table) > thead > tr:first-child > th {
+  border-top: none !important;
+}
+
+/* Remove bottom border of the last body row */
+:where(table) > tbody > tr:last-child > td {
+  border-bottom: none !important;
+}
+
+$title-bg: #4f7d9d;
+$title-bg: #4a789b;
+$title-fg: #fdfaf6;
+$title-fg: #e6a8b1;
+$subtitle-fg: #e6a8b1;
+$subtitle-fg: #fdfaf6;
+
+.quarto-title {
+  background-color: $title-bg;
+  padding: 2rem;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+
+  h1.title {
+    color: $title-fg;
+    margin-top: 0;
+    text-align: left;
+    font-size: 2.25rem
+  }
+
+  p.subtitle {
+    color: $subtitle-fg;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+}
+
+
+// Color palette
+// $heading-color: #4f7d9d;
+$heading-color: #849972;
+$title-fg: #e6a8b1;
+$title-fg: #fdfaf6;
+$title-fg: #fcecef;
+$subtitle-fg: #f8dce1;
+
+// Title block styling
+.quarto-title {
+  background-color: $title-bg;
+  padding: 0.5rem;
+  border-radius: 2px;
+  margin-bottom: 0rem;
+
+  h1.title {
+    color: $title-fg;
+    margin-top: 0;
+    text-align: left;
+  }
+
+  p.subtitle {
+    color: $subtitle-fg;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+}
+.quarto-title-block {
+  background-color: $title-bg;
+}
+// Headings (in body content)
+h1, h2, h3 {
+  color: $heading-color;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color: #5d94be;
+  }
+}
+
+.title-block-banner .quarto-title-authors,
+.title-block-banner .quarto-title-date {
+  background-color: #4a789b; // same as your banner background
+  color: #f4d3e1;            // soft pink foreground
+  padding: 0.25em 0.75em;
+  margin-top: 0.5em;
+  display: inline-block;
+  border-radius: 0.3em;
+  font-weight: 500;
+}
+
+/* Full title block background and padding */
+.quarto-title-block {
+  background-color: $title-bg;
+  padding: 0.8rem;
+  border-radius: 2px;
+  margin-bottom: 0.5rem;
+  color: #f4d3e1;  // soft pink as default text color
+}
+
+/* Make sure individual elements don’t override this */
+.quarto-title-block .quarto-title-authors,
+.quarto-title-block .quarto-title-date {
+  color: #f4d3e1; // ensure all are pink
+}
+.quarto-title-block .quarto-title-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.quarto-title-block .quarto-title-author {
+  flex: 1 1 auto;
+}
+
+.quarto-title-block .quarto-title-date {
+  flex: 0 0 auto;
+  margin-left: auto;
+  text-align: right;
+}
+
+
+
+$inline-code-purple: #a277ff;
+
+:not(pre) > code {
+  color: $inline-code-purple;
+}
+
+.substack-background {
+  background-color: #ED7135;
+  color: #ED7135
+}
+
+/* Change navbar background color */
+.navbar {
+  background-color: #4a789b; /* light blue  */
+}
+
+/* Change navbar link text color */
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important; /* Gold hover */
+}
+
+/* Optional: change hover effect */
+.navbar .navbar-nav .nav-link:hover {
+  color: #f4d3e1 !important;
+}
+
+.navbar .navbar-brand:hover {
+  color: #f4d3e1 !important;
+}
+
+.navbar {
+  padding: 3px 3px;
+}
+
+.quarto-title-breadcrumbs .breadcrumb li a {
+  color: white;
+  font-weight: 300;
+}
+
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a {
+  color: white;
+  font-weight: 600;
+}
+
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a:hover {
+  color: #f4d3e1;
+  font-weight: 600;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  color: #ffffff; /* Change to any color you like */
+}
+
+.breadcrumb {
+  background-color: #4a789b;
+}
+
+
+
+.enroll-container {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+
+.enroll-help-btn {
+  color: #ed7135;
+  background-color: white;
+  border: 2px solid #ed7135;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1;
+  margin-left: 0.5rem;
+  transition: all 0.25s ease;
+}
+
+.enroll-help-btn:hover,
+.enroll-help-btn:focus {
+  background-color: #ed7135;
+  color: white;
+  border-color: #ed7135;
+}
+
+.separator::before {
+  content: "•";
+  margin: 0 0.5rem;
+  color: #888;
+}
+
+.enroll-button {
+  text-decoration: none;
+  display: inline-block;       /* Ensure box sizing like a button */
+  padding: 0.5rem 1rem;
+  border: 2px solid #ed7135;
+  background-color: #ed7135;
+  color: white;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.enroll-button:hover {
+  background-color: white;
+  color: #ed7135;
+  text-decoration: none;       /* Ensure no underline on hover */
+}
+
+
+/* Put this in styles.css and reference it in your .qmd with format: html: css: styles.css */
+table tbody tr {
+  border-bottom: none !important;
+}
+
+table tbody td {
+  border-bottom: none !important;
+}
+
+table td, table th {
+  vertical-align: middle;   /* options: top | middle | bottom */
+}
+
+table.weekly-topics {
+  width: 100%;
+  border-collapse: collapse;
+
+  th, td {
+    padding: 0.5em;
+    text-align: left;
+  }
+
+  th:nth-child(1), td:nth-child(1) { width: 8%; }
+  th:nth-child(2), td:nth-child(2) { width: 15%; }
+  th:nth-child(3), td:nth-child(3) { width: 20%; }
+  th:nth-child(4), td:nth-child(4) { width: 57%; }
+}
+
+
+
+// Force breadcrumb link color
+nav.quarto-page-breadcrumbs .breadcrumb-item {
+  color: #4a789b !important;
+  background-color: white !important;
+  &:hover {
+    color: #0d2a40 !important;
+  }
+}
+
+nav.quarto-secondary-nav {
+  background: white !important;
+}
+
+#quarto-header > nav.quarto-secondary-nav > div > nav > ol {
+  background-color: white !important;
+}
+
+
+/* -------------------------------------- */
+/* REMOVE DEFAULT QUARTO PAGE TITLE BLOCK */
+/* -------------------------------------- */
+.quarto-title-block {
+  display: none !important;
+}
+
+
+
+/* ============================================
+   HERO HEADER — Projeto Dourados (FINAL VERSION)
+   ============================================ */
+
+/* Highlight variable (unused but ready) */
+:root {
+  --highlight: #f7d45c;
+}
+
+/* Remove Quarto title block completely */
+.quarto-title-block {
+  display: none !important;
+}
+
+/* Responsive full hero container -------------------------------------- */
+.hero-header {
+  width: 100%;
+  height: 32vh;                 /* responsive height */
+  min-height: 240px;
+  max-height: 420px;
+
+  background-image: url("images/image-photo-only-for-header.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  position: relative;
+  padding-top: 3rem;
+}
+
+/* Title + entrance animation ------------------------------------------ */
+.hero-title {
+  font-size: 4rem;
+  font-weight: 300;
+  color: #ffffff;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.55);
+  letter-spacing: 0.04em;
+  margin-bottom: 0.75rem;
+
+  opacity: 0;
+  transform: translateY(-8px);
+  animation: titleFade 1.2s ease-out 0.2s forwards;
+}
+
+@keyframes titleFade {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Nav aligned at the bottom of the hero ------------------------------- */
+// .hero-nav {
+//   position: absolute;
+//   bottom: 1.2rem;
+
+//   display: flex;
+//   gap: 2.5rem;
+
+//   opacity: 0;
+//   transform: translateY(12px);
+//   animation: navRise 0.9s ease-out 0.15s forwards;
+// }
+.hero-nav {
+  position: absolute;
+  bottom: 1.2rem;
+
+  width: 80%;                    /* <— spreads the nav items */
+  display: flex;
+  justify-content: space-between;/* <— evenly distributes them */
+  align-items: center;
+
+  opacity: 0;
+  transform: translateY(12px);
+  animation: navRise 0.9s ease-out 0.15s forwards;
+}
+
+
+@keyframes navRise {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-nav a {
+  font-size: 1.55rem;
+  font-weight: 200;
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.5);
+}
+
+/* Fade shadow behind bottom nav -------------------------------------- */
+.hero-header::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+
+  width: 100%;
+  height: 55px;
+
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0) 0%,
+    rgba(0,0,0,0.25) 70%,
+    rgba(0,0,0,0.45) 100%
+  );
+  pointer-events: none;
+}
+
+/* Mobile 2-column nav -------------------------------------------------- */
+@media (max-width: 600px) {
+  .hero-nav {
+    position: absolute;
+    bottom: 1rem;
+
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 0.8rem 1.2rem;
+    text-align: center;
+  }
+
+  .hero-nav a:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    justify-self: center;
+  }
+}
+
+/* Hide Quarto-generated navbar since we replaced it ------------------- */
+.navbar,
+.navbar-container,
+#quarto-header {
+  display: none !important;
+}
+
+/* Serious UNESCO-like typography for hero and headings */
+.hero-title,
+.hero-nav a,
+.hero-lang a,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Serif Pro", serif !important;
+  font-weight: 200;
+}
+
+p { 
+  font-family: "Inter";
+  color: black;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #849972;
+  font-weight: 400;
+}
+// .hero-nav a {
+//   font-weight: 200 !important;
+// }
+.hero-title {
+  font-weight: 200 !important;
+  letter-spacing: 0.05em;
+}
+
+.sidebar nav .nav-link,
+.sidebar nav .nav-link .nav-link-text,
+.sidebar  > a,
+.sidebar  > a .nav-link-text,
+.quarto-sidebar .sidebar-item > .sidebar-link,
+.quarto-sidebar .sidebar-item > .sidebar-link .nav-link-text {
+  color: darkgrey;
+}
+
+/* Force active TOC link color in margin sidebar */
+.sidebar nav .nav-link.active,
+.sidebar nav .nav-link.active .nav-link-text,
+.sidebar .active > a,
+.sidebar .active > a .nav-link-text,
+.quarto-sidebar .sidebar-item .active > .sidebar-link,
+.quarto-sidebar .sidebar-item .active > .sidebar-link .nav-link-text {
+  color: #b9c3a8 !important;   /* lighter header color */
+  fill: #b9c3a8 !important;    /* some themes use SVG fills */
+}
+
+/* Also override Bootstrap's link-primary that Quarto often applies */
+.sidebar nav .nav-link.active.link-primary,
+.sidebar nav .nav-link.active.link-primary:hover {
+  color: #b9c3a8 !important;
+}
+
+/* Micro-scoped override: only the active item in the margin TOC */
+#quarto-margin-sidebar .nav-link.active {
+  --toc-active-color: #849972;   /* your lighter header color */
+  color: var(--toc-active-color) !important;
+}
+
+/* Keep hover consistent only for the active TOC entry */
+#quarto-margin-sidebar .nav-link.active:hover {
+  color: var(--toc-active-color) !important;
+}
+
+/* Hover state: active TOC link uses darker header color */
+#quarto-margin-sidebar .nav-link.active:hover {
+  color: #849972 !important;   /* darker header color */
+}
+
+/* Remove Quarto's blue bar and replace with subtle grey */
+#quarto-margin-sidebar .nav-link.active {
+  border-left: 0.5px solid #e5e5e5 !important;   /* subtle grey line */
+  padding-left: 0.6rem !important;               /* preserve spacing */
+}
+
+/* Mostra menu PT quando html.lang = pt-BR */
+html[lang="pt"] .nav-en { display: none; }
+html[lang="pt"] .nav-pt { display: flex; }
+
+/* Mostra menu EN quando html.lang = en-US */
+html[lang="en"] .nav-pt { display: none; }
+html[lang="en"] .nav-en { display: flex; }
+
+.hero-lang-switch {
+  margin-top: 0.0rem;
+  text-align: right;
+  font-size: 0.9rem;
+  font-weight: 200;
+}
+
+.hero-lang-switch a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.hero-lang-switch a:hover {
+  text-decoration: underline;
+}
+
+.hero-lang-switch .sep {
+  margin: 0 0.25rem;
+  color: #fff;
+}
+
+/* ------------------------------------------
+   LANGUAGE SWITCHER – DESKTOP (default)
+-------------------------------------------*/
+.hero-lang-switch {
+  position: absolute;
+  top: 12px;           /* ajustável */
+  right: 20px;         /* ajustável */
+  font-size: 0.9rem;
+  font-weight: 300;
+  color: #eee;
+  display: flex;
+  gap: 0.3rem;
+}
+
+.hero-lang-switch a {
+  color: #eee;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.hero-lang-switch a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.hero-lang-switch .sep {
+  color: #eee;
+}
+
+
+/* ------------------------------------------
+   MOBILE SWITCHER – centered under title
+-------------------------------------------*/
+@media (max-width: 700px) {
+  .hero-lang-switch {
+    position: static;
+    margin-top: 0.4rem;
+    justify-content: center;
+    color: #eee;
+  }
+}
+
+
+html[lang="pt"] .hero-lang-switch [data-lang="pt"],
+html[lang="en"] .hero-lang-switch [data-lang="en"] {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+

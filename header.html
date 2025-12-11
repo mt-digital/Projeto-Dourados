@@ -1,0 +1,100 @@
+<!-- header.html -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Source+Code+Pro:wght@400;500;600;700&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const buttons = document.querySelectorAll('[data-bs-toggle="popover"]');
+
+  buttons.forEach(btn => {
+    const url = btn.getAttribute('data-url');
+
+    if (url) {
+      fetch(url)
+        .then(response => response.text())
+        .then(html => {
+          btn.setAttribute('data-bs-content', html);
+
+          // Create the popover AFTER content is loaded
+          new bootstrap.Popover(btn);
+        });
+    } else {
+      // Fallback for inline content
+      new bootstrap.Popover(btn);
+    }
+  });
+});
+</script>
+
+<!-- HERO HEADER -->
+<div class="hero-header">
+  <div class="hero-title">Projeto Dourados</div>
+
+  <!-- NAVIGATION INSIDE HERO 
+  <nav class="hero-nav">
+    <a href="index.html">Home</a>
+    <a href="opportunities.html">Opportunities</a>
+    <a href="team.html">Team</a>
+    <a href="donors.html">Donors</a>
+  </nav> -->
+<nav class="hero-nav nav-pt">
+  <a href="/index.html">Início</a>
+  <a href="/oportunidades.html">Oportunidades</a>
+  <a href="/time.html">Time</a>
+  <a href="/doadores.html">Doadores</a>
+</nav>
+
+<nav class="hero-nav nav-en">
+  <a href="/en/index.html">Home</a>
+  <a href="/en/oportunidades.html">Opportunities</a>
+  <a href="/en/time.html">Team</a>
+  <a href="/en/doadores.html">Donors</a>
+</nav>
+
+<div class="hero-lang-switch">
+  <a id="switch-pt" data-lang="pt">Português 🇧🇷</a>
+  <span class="sep">|</span>
+  <a id="switch-en" data-lang="en">English 🇺🇸</a>
+</div>
+
+
+  
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  
+  function currentPath() {
+    return window.location.pathname;
+  }
+  
+  // Switch to PT
+  document.querySelector("#switch-pt").addEventListener("click", function (e) {
+    e.preventDefault();
+    // Get the last .html file from the current URL
+    const lastPart = window.location.pathname.split("/").pop();
+
+    // Build an absolute URL using the current domain (localhost or production)
+    const newUrl = `${window.location.origin}/pt/${lastPart}`;
+
+    // Navigate to the new URL
+    window.location.href = newUrl;
+  });
+
+  // Switch to EN
+  document.querySelector("#switch-en").addEventListener("click", function (e) {
+    e.preventDefault();
+    // Get the last .html file from the current URL
+    const lastPart = window.location.pathname.split("/").pop();
+
+    // Build an absolute URL using the current domain (localhost or production)
+    const newUrl = `${window.location.origin}/en/${lastPart}`;
+
+    // Navigate to the new URL
+    window.location.href = newUrl;
+  });
+});
+</script>
+
+</div>
+
