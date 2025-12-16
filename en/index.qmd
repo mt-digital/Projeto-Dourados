@@ -6,9 +6,33 @@ lang: en
 
 ### to Promote Indigenous Health in the Western Hemisphere {style="color: darkgrey;" id="index-subtitle"}
 
+_Projeto Dourados_, or The Dourados Project, began when researchers from South
+and North of the Equator met at the Universidade Federal de Grande Dourados,
+Mato Grosso do Sul, Brazil. Our goal: improve the quality of pandmic preparedness for the Indigenous
+peoples who reside in the _Reserva Indígena de Dourados_ that is separated from
+the city of Dourados by only a road. The
+researchers who gathered came from diverse research fieldstypically-separate fields of molecular
+epidemiology and social science.
+
 
 The territory of the Indigenous Reserve of Dourados, in Mato Grosso do Sul, Brazil, borders 
 the city of Dourados. But every day, residents of the Reserve travel to the city
 to work, seek alms, visit the hospital or other doctors if the Reserve's
 hospital cannot meet a person's needs. This mobility is an economic necessity,
-but for 
+but for...
+
+
+
+
+# How to Contribute
+
+We have opportunities for students in epidemiology, social sciences, political science, international relations, and related fields. We are looking for students interested in contributing to the project during the upcoming academic year.
+
+If you have a research idea that aligns with the goals of the project, are interested in working with us, or would simply like more information, please contact us at:
+[contato@projeto-dourados.org](mailto:contato@projeto-dourados.org).
+
+
+# Our Team
+
+
+
