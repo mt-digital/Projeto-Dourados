@@ -1,0 +1,57 @@
+---
+lang: en
+---
+
+# Student Opportunities
+
+**Learn and contribute to professional research with practical impacts**
+
+
+We may be able to accept several motivated students to assist with this project
+either on the side of...
+
+
+## Goals and Learning Outcomes
+
+**Learn by doing**
+
+### All Students
+
+1. Learn about Indigenous public health.
+1. Learn about epidemiology, social science, storytelling, and communicating
+  new and complex research topics for a general audience.
+
+### Documentation, Storytelling, and Outreach
+
+1. Learn Indigenous languages of the Reserve: Guaraní and Terena.
+1. Learn the history of the Dorados Indigenous Reserve and the Indigenous Reserve
+   system.
+1. Learn about how Indigenous public health works in different context in
+   Brazil, especially in Amazónas and Bahia. 
+   - Amazónas has the most Indigenous residents of any state, followed by Bahia,
+     with Mato Grosso do Sul (Dourados' home state) with the third most
+     Indigenous residents. In Amazónas, Indigenous Reserves and other Indigenous
+     communities are far apart from one another and from urban centers, unlike
+     in Dourados where the city and Reserve neighbor each other, separated only 
+     by a road. 
+   - In Bahia, the situation is rather different: Indigenous peoples are more
+     socially integrated with non-Indigenous peoples than in Dourados. 
+   - If we study these three cases we will therefore produce case studies for 
+     three extremes of 
+
+### Social Science- and Epidemiology-Backed Decision Support Tool Development
+
+1. Learn R programming
+1. Learn to create, manage, and publish websites using Quarto, and data
+   dashboards using
+1. Learn about using mathematics to describe epidemiological outbreaks
+1. Use Bayesian statistics to infer how much various social and epidemiological
+   factors matter, starting by considering three different ones: (1) the town in which an Indigenous person lived; (2) their ethnicity; and (3) which COVID-19 variant was spreading.
+
+
+## Stay Notified
+
+Soon we will officially announce project opportunities on this page. If you
+would like to receive updates about opportunities by email, please answer the
+following questions. Note we also invite you to subscribe to our email 
+newsletter to receive Projeto Dourados updates. 

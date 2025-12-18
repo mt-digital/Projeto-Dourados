@@ -1,7 +1,28 @@
 <!-- header.html -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Source+Code+Pro:wght@400;500;600;700&display=swap">
-<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;350;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const normalize = p => p.replace(/\/$/, "/index.html");
+  const currentPath = normalize(location.pathname);
+
+  document.querySelectorAll(".hero-nav a").forEach(link => {
+    try {
+      const linkPath = normalize(new URL(link.href).pathname);
+      if (linkPath === currentPath) {
+        link.classList.add("active");
+      }
+    } catch (e) {
+      // ignore malformed URLs
+    }
+  });
+});
+</script>
+
+
 
 
 <script>
@@ -30,37 +51,31 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <!-- HERO HEADER -->
 <div class="hero-header">
+  
   <div class="hero-title">Projeto Dourados</div>
-
-  <!-- NAVIGATION INSIDE HERO 
-  <nav class="hero-nav">
-    <a href="index.html">Home</a>
-    <a href="opportunities.html">Opportunities</a>
-    <a href="team.html">Team</a>
-    <a href="donors.html">Donors</a>
-  </nav> -->
-<nav class="hero-nav nav-pt">
-  <a href="/index.html">Início</a>
-  <a href="/oportunidades.html">Oportunidades</a>
-  <a href="/time.html">Time</a>
-  <a href="/doadores.html">Doadores</a>
-</nav>
-
-<nav class="hero-nav nav-en">
-  <a href="/en/index.html">Home</a>
-  <a href="/en/oportunidades.html">Opportunities</a>
-  <a href="/en/time.html">Team</a>
-  <a href="/en/doadores.html">Donors</a>
-</nav>
-
-<div class="hero-lang-switch">
-  <a id="switch-pt" data-lang="pt">Português 🇧🇷</a>
-  <span class="sep">|</span>
-  <a id="switch-en" data-lang="en">English 🇺🇸</a>
+ 
+  <nav class="hero-nav nav-pt">
+    <a href="/pt/index.html">Início</a>
+    <a href="/pt/oportunidades.html">Oportunidades</a>
+    <a href="/pt/pesquisa.html">Pesquisa</a>
+    <!-- <a href="/pt/doadores.html">Doadores</a> -->
+  </nav>
+  
+  <nav class="hero-nav nav-en">
+    <a href="/en/index.html">Home</a>
+    <a href="/en/oportunidades.html">Opportunities</a>
+    <a href="/en/pesquisa.html">Research</a>
+    <!-- <a href="/en/doadores.html">Donors</a> -->
+  </nav>
+  
+  <div class="hero-lang-switch">
+    <a id="switch-pt" data-lang="pt">Português 🇧🇷</a>
+    <span class="sep">|</span>
+    <a id="switch-en" data-lang="en">English 🇺🇸</a>
+  </div>
+  
 </div>
 
-
-  
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   

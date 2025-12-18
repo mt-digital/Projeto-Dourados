@@ -2,29 +2,68 @@
 lang: en
 ---
 
-# A Cultural Exchange Program {id="index-title"}
+# A Cultural Exchange Program {#index-title .unnumbered}
 
-### to Promote Indigenous Health in the Western Hemisphere {style="color: darkgrey;" id="index-subtitle"}
-
-_Projeto Dourados_, or The Dourados Project, began when researchers from South
-and North of the Equator met at the Universidade Federal de Grande Dourados,
-Mato Grosso do Sul, Brazil. Our goal: improve the quality of pandmic preparedness for the Indigenous
-peoples who reside in the _Reserva Indígena de Dourados_ that is separated from
-the city of Dourados by only a road. The
-researchers who gathered came from diverse research fieldstypically-separate fields of molecular
-epidemiology and social science.
+::: {#index-subtitle}
+[**To Promote Indigenous Health in the Western Hemisphere**]{.smallcaps}
+:::
 
 
-The territory of the Indigenous Reserve of Dourados, in Mato Grosso do Sul, Brazil, borders 
-the city of Dourados. But every day, residents of the Reserve travel to the city
-to work, seek alms, visit the hospital or other doctors if the Reserve's
-hospital cannot meet a person's needs. This mobility is an economic necessity,
-but for...
+_Projeto_ (Project) _Dourados_—pronounced _doe-RAH-doose_, meaning _golden_—began when researchers from South
+and North of the Equator met at the Universidade Federal de Grande Dourados
+(UFGD), Mato Grosso do Sul, Brazil. 
+
+We saw the need for new efforts to bring together epidemiologists and social scientists, and to bring together researchers from
+Brazil and the United States to learn from one another and strengthen scientific
+ties as the two largest democracies in the Americas with rich Indigenous
+cultural heritage. 
+
+In both countries, unfortunately, Indigenous peoples have
+historically suffered more acutely from disease than colonial
+arrivals for a variety of reasons—and continue to suffer more, as we saw during
+the COVID-19 pandemic.
+
+In response to this need, we have deveoped a new
+educational and research exchange program to connect South and North American
+scientists, starting with our two institutions, UFGD and Stanford University.
+
+The project aims to showcase and build on the public health 
+partnerships and research deveoped by Prof. Simone Simionatto, her students, and
+colleagues at UFSC and beyond that has advanced the science and practice of 
+public health in her community: the city of Dourados and the 
+neighboring Dourados Indigenous Reserve. 
+
+**We are currently recruiting students at UFGD to work remotely with researchers in the
+United States**, possibly with visits from researchers from Stanford University
+during the upcoming 2026 academic year. 
+
+**Some participants will help tell the
+story of Prof. Simionatto's work**—including adding Guaraní- and Terena-language
+translations of this website and other Projeto documentary and research
+materials.
+
+**Other participants
+will advance the interdisciplinary science of how social behavior affects
+disease spread for improved pandemic preparedness** and public health 
+in the context of the Dourados Reserve and the city of Dourados.
 
 
+### More on Project Goals
 
+We have two primary short-term goals for project outputs over the next few 
+years: 
 
-# How to Contribute
+1. **Document the public health situation at the Dourados Reserve and how Prof.
+   Simionatto puts science to use for public health there.** During the COVID-19
+   pandemic, Prof. Simionatto tracked the spread of different . In ongoing work,
+   she coordinates with a team of hospital epidemiologists 
+   monitoring and researching the origins and trajectories of the latest outbreaks
+   so they can act fast if the next COVID-19—or worse—emerges.
+2. **Develop computational decision-support tools for public health interventions for
+   pandemic preparedness** that explicitly model the effect that various 
+   socio-economic factors have on the spread of disease.
+
+### How to Contribute
 
 We have opportunities for students in epidemiology, social sciences, political science, international relations, and related fields. We are looking for students interested in contributing to the project during the upcoming academic year.
 
@@ -32,7 +71,27 @@ If you have a research idea that aligns with the goals of the project, are inter
 [contato@projeto-dourados.org](mailto:contato@projeto-dourados.org).
 
 
-# Our Team
+#### Timeline and Deliverables
+
+- **Q1 2026:** Recruit UFGD student participants, introductions, begin projects.
+- **Q2 2026:** First drafts of journal articles, premiere some documentary short
+  films about the Reserve and our research (3-minute videos or less produced
+  with phone video cameras), publish first translations and other web content.
+- **Q3 2026:** 
+- **Q4 2026:**
+- **2027 and beyond:**
 
 
+
+### Our Team
+
+
+
+### Foundational Support
+
+Founding Projeto Dourados was made possible by the support of Mrs. Jill
+Freidenrich, whose funding provided Rezende and Turner with fellowships for
+salary support and research funds at the Pandemic Preparedness Hub at Stanford
+Medicine. This enabled Rezende to initiate her project with Simionatto, with
+Turner joining after Rezende updated Mrs. Freidenrich and Pandemic Preparedness Hub colleagues during one of our regular meetings—it was clear this was the perfect project for working to advance the practical use of social science for epidemiology. 
 
