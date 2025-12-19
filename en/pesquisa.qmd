@@ -10,23 +10,18 @@ Our group of international researchers came together following an article by Bra
 
 This research will first help residents of the Dourados Indigenous Reserve. The lessons we learn will help prepare for and prevent the spread of infectious diseases in other Indigenous communities in Brazil and around the world.
 
-## Unanswered Questions 
+## Unanswered Questions
 
 **About COVID-19 in the Dourados Reserve**
 
 It is necessary to come into contact with other people in order to contract a disease such as COVID-19, or other illnesses that spread through respiration in close social interaction. Others may be transmitted through blood or sexual contact.
 
-Therefore, if we want to prepare for the next pandemic — or, even better, *prevent* it — we need to better understand how people organize themselves and interact socially.
+Therefore, if we want to prepare for the next pandemic — or, even better, *prevent* it — we need to better understand how people organize themselves and interact socially.![](images/clipboard-2719146699.png)
 
 On the other hand, social scientists know that there are opportunities to apply advanced theories from multiple disciplines within the social sciences. However, it is difficult to learn enough epidemiology to contribute directly to improvements in Indigenous health — or, similarly, to other problems and contexts beyond the social sciences.
 
 ## Other Research Questions
 
-
-- **How does the distribution in household size affect disease spread?** We
-  could again use Bayesian data analysis to We can use our parameterized models in agent-based models that could
-  explicitly incorporate social networks.
-
+-   **How does the distribution in household size affect disease spread?** We could again use Bayesian data analysis to We can use our parameterized models in agent-based models that could explicitly incorporate social networks.
 
 ## Long-term Vision
-
