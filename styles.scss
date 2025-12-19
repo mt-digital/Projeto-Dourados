@@ -18,7 +18,7 @@ $title-bg: #4f7d9d;
 $title-bg: #4a789b;
 $title-fg: #fdfaf6;
 $title-fg: #e6a8b1;
-$title-fg: #FFEC58;
+// $title-fg: #fff;
 $subtitle-fg: #e6a8b1;
 $subtitle-fg: #fdfaf6;
 
@@ -139,7 +139,8 @@ nav.quarto-secondary-nav {
 div.hero-title {
   font-size: 4.5rem;
   /* color: #ffffff; */
-  color: #FFEC58;
+  // color: #FFEC58;
+  color: #fff;
   text-shadow: 0 4px 12px rgba(0,0,0,0.5);
   letter-spacing: 0.04em;
   margin-top: 2.9rem;
@@ -326,12 +327,13 @@ html[lang="en"] .nav-en { display: flex; }
   margin-top: 0.0rem;
   text-align: right;
   font-size: 0.9rem;
-  font-weight: 300;
+  font-weight: 300 !important;
 }
 
 .hero-lang-switch a {
-  color: #fff;
+  color: #fff !important;
   text-decoration: none;
+  font-weight: 400 !important;
 }
 
 .hero-lang-switch a:hover {

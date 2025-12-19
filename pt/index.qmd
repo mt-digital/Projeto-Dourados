@@ -1,4 +1,5 @@
 ---
+title: Início
 lang: pt
 ---
 
@@ -12,7 +13,7 @@ O território da Reserva Indígena de Dourados, no Mato Grosso do Sul, Brasil, f
 
 # Quem Somos
 
-![](/images/clipboard-3055226108.png){width=500px fig-align=center}
+![](/imagens/clipboard-3055226108.png){width=500px fig-align=center}
 
 # Dourados: A Reserva, a Cidade e Nossa Pesquisa
 

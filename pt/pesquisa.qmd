@@ -1,4 +1,5 @@
 ---
+title: Pesquisa
 lang: pt
 ---
 
@@ -10,7 +11,7 @@ Nosso grupo de pesquisadores internacionais se formou a partir de um artigo das 
 
 Essa pesquisa ajudará, em primeiro lugar, os moradores da Reserva Indígena de Dourados. As lições que aprendermos ajudarão a preparar e prevenir a propagação de doenças transmissíveis em outras comunidades indígenas no Brasil e no mundo.
 
-![Em (a), da esquerda para a direita: Dr. Paulo, juntamente com o padre da igreja católica próxima ao hospital, atrás do Dr. Paulo, Prof. Simionatto e Cais Simionelli.](/images/clipboard-1663480214.png){width="1000"}
+![**Um passeio pela Reserva.** Em frente ao hospital da Reserva (a), da esquerda para a direita: Dr. Paulo, juntamente com o padre da igreja católica próxima ao hospital; atrás do Dr. Paulo, Prof. Simionatto e Cais Simionelli. O hospital tem uma capela cristã ao lado de uma estrutura cerimonial indígena com fogueira ritual (b).”](/imagens/clipboard-1663480214.png){width="1000"}
 
 ## O Projeto de Hoje
 

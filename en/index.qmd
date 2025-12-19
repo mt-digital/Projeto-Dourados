@@ -1,4 +1,5 @@
 ---
+title: Home
 lang: en
 ---
 
@@ -86,6 +87,7 @@ If you have a research idea that aligns with the goals of the project, are inter
 ### Our Team
 
 
+![](/imagens/clipboard-3055226108.png){width=500px fig-align=center}
 
 ### Foundational Support
 
