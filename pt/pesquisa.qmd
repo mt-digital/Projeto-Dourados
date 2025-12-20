@@ -5,43 +5,77 @@ lang: pt
 
 # Um Programa para Melhorar a Saúde Indígena
 
-Os povos indígenas sofreram mais com doenças epidemiológicas e com condições de saúde precárias do que qualquer outro grupo populacional.
+Povos indígenas têm sofrido mais com doenças epidêmicas e condições de saúde
+precárias do que outros grupos — e a COVID-19 não foi exceção [@Simionatto2020].
+Nosso grupo se formou a partir de um artigo de Albuquerque, Rezende e
+Simionatto, entre outros, que acompanhou diferentes variantes do SARS-CoV-2 à
+medida que se espalhavam pela Reserva Indígena de Dourados
+[@AlbuquerqueRezende2023].
 
-Nosso grupo de pesquisadores internacionais se formou a partir de um artigo das pesquisadoras brasileiras Laís Albuquerque e da professora Simone Simionatto, da Universidade Federal da Grande Dourados (UFGD), e da Dr. Izabela de Rezende, da *Stanford University*, nos Estados Unidos.
+Esta pesquisa pode, em primeiro lugar, ajudar os moradores da Reserva Indígena
+de Dourados a se prepararem para futuras pandemias, ao fornecer uma ferramenta
+para avaliar computacionalmente estratégias de intervenção por meio de
+simulação. 
 
-Essa pesquisa ajudará, em primeiro lugar, os moradores da Reserva Indígena de Dourados. As lições que aprendermos ajudarão a preparar e prevenir a propagação de doenças transmissíveis em outras comunidades indígenas no Brasil e no mundo.
+Gestores de saúde pública podem usar os resultados de estratégias de
+intervenção simuladas para selecionar e implementar aquela que promove a saúde
+de forma mais eficiente, salva vidas e conserva recursos de saúde pública em
+caso de emergências subsequentes. 
 
-# O Projeto de Hoje
+As lições aprendidas ajudarão a preparar e
+prevenir a disseminação de doenças infecciosas em outras comunidades indígenas
+no Brasil e ao redor do mundo.
 
-É preciso entrar em contato com outras pessoas para contrair uma doença como a COVID-19, ou outras que se espalham pela respiração no convívio com os outros. Outras podem ser transmitidas pelo sangue ou pelo contato sexual.
 
-Portanto, se quisermos nos preparar para a próxima pandemia — ou, ainda melhor, *preveni-la* — é preciso compreender melhor como as pessoas se organizam e interagem socialmente.
+### A Reserva Indígena de Dourados
 
-Por outro lado, cientistas sociais sabem que existem oportunidades para aplicar teorias mais avançadas de várias disciplinas das ciências sociais. No entanto, é difícil aprender o suficiente sobre epidemiologia para contribuir diretamente para a melhoria da saúde indígena — ou, de forma semelhante, para outros problemas e contextos além das ciências sociais.
+- A Reserva Indígena de Dourados abriga cerca de 18.000 residentes, com uma
+  diversidade de etnias, vivendo em duas aldeias distintas: Bororó e Jaguapiru.
+  Jaguapiru é a maior delas, com aproximadamente o dobro da população de Bororó.
+- Dois grupos étnicos possuem os maiores contingentes populacionais na Reserva:
+  Guarani Kaiowá e Terena.
 
-![**Um passeio pela Reserva:** Em frente ao hospital da Reserva (a), da esquerda para a direita: Dr. Paulo, juntamente com o padre da igreja católica próxima ao hospital; atrás do Dr. Paulo, Prof. Simionatto e Cais Simionelli. O hospital tem uma capela cristã ao lado de uma estrutura cerimonial indígena com fogueira ritual (b).”](/imagens/clipboard-1663480214.png){width="1000"}
+![**Um passeio pela Reserva:** Em frente ao hospital da Reserva (a), da esquerda
+para a direita: Dr. Paulo, juntamente com o padre da igreja católica próxima ao
+hospital; atrás do Dr. Paulo, Prof. Simionatto e Cais Simionelli. O hospital tem
+uma capela cristã ao lado de uma estrutura cerimonial indígena com fogueira
+ritual (b). Servícios públicos de saúde são disponíveis às estações distribuido
+pela Reserva (c,d—veja o mapa abaixo para ver a localização das estações).
+Na Reserva, existem muitas lojas e outros pontos da atividade economica como a _Mercearia
+Conquista_ (e).](/imagens/clipboard-1663480214.png){width="1000"}
 
-# A Visão do Projeto no Futuro
 
----
-title: Pesquisa
-lang: pt
----
+![**Mapa da Reserva Indígena de Dourados e da cidade no contexto do Brasil,** com detalhes adicionais mostrando a localização do Brasil nas Américas; a geografia das aldeias da Reserva, Bororó e Jaguapiru, em relação entre si e à cidade de Dourados; e os pontos de coleta de amostras. Mapas combinados a partir de @Cavalcante2019 para o mapa topográfico subjacente e @Schnaufer2023 para as camadas de aldeias, cidade e pontos de coleta de amostras (clínicas). O mapa das Américas é de domínio público; o mapa do Brasil é do [InfoEscola](https://www.infoescola.com/geografia/mapa-do-brasil/). Clique na imagem para ampliar e aplicar zoom.](../en/images/clipboard-1309800952.png){width="750px" .lightbox}
 
-# Um Programa para Melhorar a Saúde Indígena
+## Como a Estrutura Social Moldou a COVID-19 na Reserva
 
-Os povos indígenas sofreram mais com doenças epidemiológicas e com condições de saúde precárias do que qualquer outro grupo populacional.
 
-Nosso grupo de pesquisadores internacionais se formou a partir de um artigo das pesquisadoras brasileiras Laís Albuquerque e da professora Simone Simionatto, da Universidade Federal da Grande Dourados (UFGD), e da Dr. Izabela de Rezende, da *Stanford University*, nos Estados Unidos.
+![**Série temporal da disseminação da COVID-19 na Reserva Indígena de
+Dourados,** com eventos significativos destacados. Os primeiros casos da
+variante B.1.1 foram introduzidos pela etnia Guarani (1), seguidos cerca de um
+mês depois por um rápido aumento de casos em Jaguapiru entre a etnia Terena (2);
+vários meses depois, um rápido aumento em Bororó foi causado por um crescimento
+acelerado entre os Guarani (3). A variante Zeta foi introduzida no final de 2020
+(4), com um aumento rápido em torno do período de festas, especialmente em
+Jaguapiru entre os Guarani (5); posteriormente, em fevereiro, os casos
+aumentaram em Bororó entre os Terena (6).](../en/images/clipboard-2719146699.png){width="800"}
 
-Essa pesquisa ajudará, em primeiro lugar, os moradores da Reserva Indígena de Dourados. As lições que aprendermos ajudarão a preparar e prevenir a propagação de doenças transmissíveis em outras comunidades indígenas no Brasil e no mundo.
 
-## O Projeto de Hoje
+## Projeto de Pesquisa Corrente
 
-É preciso entrar em contato com outras pessoas para contrair uma doença como a COVID-19, ou outras que se espalham pela respiração no convívio com os outros. Outras podem ser transmitidas pelo sangue ou pelo contato sexual.
+![**Sketch of the mobility, social mixing, and interaction model for
+epidemiological dynamics.** The symbols $c_{gg'}$ indicate how frequnetly
+members from different groups $g$ and $g'$ interact—grouped by town residency or ethnicity.
+$\gamma_g$ indicates how frequenly each group travels to the city of
+Dourados.](../en/images/clipboard-2581785424.png){width=650}
 
-Portanto, se quisermos nos preparar para a próxima pandemia — ou, ainda melhor, *preveni-la* — é preciso compreender melhor como as pessoas se organizam e interagem socialmente.
+We hypothesize that the 
 
-Por outro lado, cientistas sociais sabem que existem oportunidades para aplicar teorias mais avançadas de várias disciplinas das ciências sociais. No entanto, é difícil aprender o suficiente sobre epidemiologia para contribuir diretamente para a melhoria da saúde indígena — ou, de forma semelhante, para outros problemas e contextos além das ciências sociais.
+![**Sketches of model outcomes for the current project to plan a public health
+intervention under limited
+resources.** Groups will benefit differently to a quarantine
+public health intervention that targets all groups equally, and assuming zero
+reinfections (a). Intervention strategies can be tuned to achieve more efficient
+and equitable outcomes, even if that means unequitable allocation of resources
+(b).](../en/images/clipboard-721006767.png){width=750 .lightbox}
 
-## O Projeto de Amanhã

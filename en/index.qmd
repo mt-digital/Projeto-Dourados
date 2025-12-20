@@ -3,7 +3,7 @@ title: Home
 lang: en
 editor: 
   markdown: 
-    wrap: 72
+    wrap: 80
 ---
 
 # A Cultural Exchange Program {#index-title .unnumbered}
@@ -139,4 +139,8 @@ science in epidemiology.
 
 <br>
 
-![](/imagens/clipboard-3055226108.png){width="500px" fig-align="center"}
+![**From left: Laís Albuquerque, Caio Simonelli, Simone Simionatto, and Matt
+Turner** at the Dourados Indigenous Reserve Hospital—the sign above us
+explains that the government health program SUS operates the hosopital to
+provide completely free health services to anyone who wants them, 
+and that all visitors have the right to quality care.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox}
