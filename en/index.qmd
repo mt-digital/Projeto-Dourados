@@ -9,91 +9,116 @@ lang: en
 [**To Promote Indigenous Health in the Western Hemisphere**]{.smallcaps}
 :::
 
+_Projeto_ (Project) _Dourados_—pronounced _doe-RAH-doose_, meaning _golden_—began when
+researchers from South and North America met at the Universidade Federal de
+Grande Dourados (UFGD), Mato Grosso do Sul, Brazil.
 
-_Projeto_ (Project) _Dourados_—pronounced _doe-RAH-doose_, meaning _golden_—began when researchers from South
-and North of the Equator met at the Universidade Federal de Grande Dourados
-(UFGD), Mato Grosso do Sul, Brazil. 
+We recognized the need for new efforts to bring together epidemiologists and
+social scientists, and to connect researchers from Brazil and the United States,
+so they could learn from one another and strengthen scientific ties between the
+two largest democracies in the Americas—both with rich Indigenous cultural
+heritage.
 
-We saw the need for new efforts to bring together epidemiologists and social scientists, and to bring together researchers from
-Brazil and the United States to learn from one another and strengthen scientific
-ties as the two largest democracies in the Americas with rich Indigenous
-cultural heritage. 
+In both countries, Indigenous peoples have historically suffered more acutely
+from disease than colonial arrivals for a variety of reasons—and continue to do
+so, as the COVID-19 pandemic made clear.
 
-In both countries, unfortunately, Indigenous peoples have
-historically suffered more acutely from disease than colonial
-arrivals for a variety of reasons—and continue to suffer more, as we saw during
-the COVID-19 pandemic.
+In response, we developed a new educational and research exchange program to
+connect South and North American scientists, beginning with our two institutions,
+UFGD and Stanford University.
 
-In response to this need, we have deveoped a new
-educational and research exchange program to connect South and North American
-scientists, starting with our two institutions, UFGD and Stanford University.
+### Our Project
 
-The project aims to showcase and build on the public health 
-partnerships and research deveoped by Prof. Simone Simionatto, her students, and
-colleagues at UFSC and beyond that has advanced the science and practice of 
-public health in her community: the city of Dourados and the 
-neighboring Dourados Indigenous Reserve. 
+The project builds on public health partnerships and research led by Prof.
+Simone Simionatto, her students, and colleagues at UFSC and beyond, which have
+advanced both the science and practice of public health in her community: the
+city of Dourados and the neighboring Dourados Indigenous Reserve.
 
-**We are currently recruiting students at UFGD to work remotely with researchers in the
-United States**, possibly with visits from researchers from Stanford University
-during the upcoming 2026 academic year. 
+**We are currently recruiting UFGD students to work remotely with researchers in
+the United States**, with the possibility of visits from Stanford University
+researchers during the 2026 academic year.
 
-**Some participants will help tell the
-story of Prof. Simionatto's work**—including adding Guaraní- and Terena-language
-translations of this website and other Projeto documentary and research
-materials.
+**One group of participants will help document and communicate Prof.
+Simionatto’s work**, including producing Guaraní- and Terena-language translations
+of this website and other Projeto Dourados materials.
 
-**Other participants
-will advance the interdisciplinary science of how social behavior affects
-disease spread for improved pandemic preparedness** and public health 
-in the context of the Dourados Reserve and the city of Dourados.
+**Another group will advance interdisciplinary research on how social behavior
+shapes disease spread**, contributing to improved pandemic preparedness and
+public health in Dourados and the surrounding Indigenous Reserve.
 
+::: {.large-link}
+Learn more about how to participate here: [Opportunities](/en/opportunities.qmd).
+:::
+
+::: {.large-link}
+Stay informed:
+:::
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerQly0QI9YOhfjtkBXcCI1o6ktymFB1us33w3zbFd4NPpmIA/viewform?embedded=true"
+        width="640" height="502" frameborder="0" marginheight="0" marginwidth="0">
+Loading…
+</iframe>
 
 ### More on Project Goals
 
-We have two primary short-term goals for project outputs over the next few 
-years: 
+We have two primary short-term goals for project outputs over the next few years:
 
-1. **Document the public health situation at the Dourados Reserve and how Prof.
-   Simionatto puts science to use for public health there.** During the COVID-19
-   pandemic, Prof. Simionatto tracked the spread of different . In ongoing work,
-   she coordinates with a team of hospital epidemiologists 
-   monitoring and researching the origins and trajectories of the latest outbreaks
-   so they can act fast if the next COVID-19—or worse—emerges.
-2. **Develop computational decision-support tools for public health interventions for
-   pandemic preparedness** that explicitly model the effect that various 
-   socio-economic factors have on the spread of disease.
+1. **Document public health conditions in the Dourados Indigenous Reserve and how
+   science is put into practice locally.** During the COVID-19 pandemic, Prof.
+   Simionatto tracked the spread of different SARS-CoV-2 variants. In ongoing
+   work, she coordinates with hospital epidemiologists monitoring the origins
+   and trajectories of new outbreaks to enable rapid response if the next
+   COVID-19—or worse—emerges.
+
+2. **Develop computational decision-support tools for pandemic preparedness**
+   that explicitly model how social and economic factors influence disease
+   spread.
 
 ### How to Contribute
 
-We have opportunities for students in epidemiology, social sciences, political science, international relations, and related fields. We are looking for students interested in contributing to the project during the upcoming academic year.
+We welcome students from epidemiology, social sciences, political science,
+international relations, and related fields who are interested in contributing
+during the upcoming academic year.
 
-If you have a research idea that aligns with the goals of the project, are interested in working with us, or would simply like more information, please contact us at:
-[contato@projeto-dourados.org](mailto:contato@projeto-dourados.org).
-
+If you have a research idea aligned with the project, are interested in working
+with us, or would like more information, please contact us:
+[contato@projeto-dourados.org](mailto:contato@projeto-dourados.org)
 
 #### Timeline and Deliverables
 
-- **Q1 2026:** Recruit UFGD student participants, introductions, begin projects.
-- **Q2 2026:** First drafts of journal articles, premiere some documentary short
-  films about the Reserve and our research (3-minute videos or less produced
-  with phone video cameras), publish first translations and other web content.
-- **Q3 2026:** 
-- **Q4 2026:**
-- **2027 and beyond:**
-
-
+- **Q1 2026:** Recruit UFGD student participants; introductions; begin projects.
+- **Q2 2026:** First journal article drafts; release short documentary films
+  (≤3-minute videos produced with mobile phones); publish initial translations
+  and web content.
+- **Q3 2026:** Revise and submit manuscripts; expand documentary and outreach
+  materials; continue collaboration.
+- **Q4 2026:** Synthesize project outputs; assess next phases of collaboration
+  and funding.
+- **2027 and beyond:** Sustain and expand the exchange program as opportunities
+  allow.
 
 ### Our Team
 
+#### Project Leads
+- Simone Simionatto — UFGD • [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
+- Matheus de Carvalho Hernandez — UFGD • [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
+- Izabela Maurício de Rezende — Stanford University • [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
+- Matthew Turner — Stanford University • [Website](https://mat.phd)
 
-![](/imagens/clipboard-3055226108.png){width=500px fig-align=center}
+#### Student Leaders and Contributors
+- Laís Albuquerque de Oliveira — UFGD • [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
+- Caio Gustavo Simonelli — UFGD • [CNPq Online CV](http://lattes.cnpq.br/5480881995742161)
 
 ### Foundational Support
 
-Founding Projeto Dourados was made possible by the support of Mrs. Jill
-Freidenrich, whose funding provided Rezende and Turner with fellowships for
-salary support and research funds at the Pandemic Preparedness Hub at Stanford
-Medicine. This enabled Rezende to initiate her project with Simionatto, with
-Turner joining after Rezende updated Mrs. Freidenrich and Pandemic Preparedness Hub colleagues during one of our regular meetings—it was clear this was the perfect project for working to advance the practical use of social science for epidemiology. 
+Projeto Dourados was made possible through the support of Mrs. Jill Freidenrich,
+whose funding provided fellowships and research support for Rezende and Turner at
+the Pandemic Preparedness Hub at Stanford Medicine. This support enabled Rezende
+to initiate collaboration with Simionatto, with Turner joining soon after. It
+quickly became clear that this project was a strong fit for advancing the
+practical use of social science in epidemiology.
+
+<br>
+
+![](/imagens/clipboard-3055226108.png){width=500px fig-align=center}
 

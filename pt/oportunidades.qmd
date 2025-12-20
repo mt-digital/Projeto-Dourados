@@ -2,3 +2,84 @@
 title: Oportunidades
 lang: pt
 ---
+
+# Oportunidades para Estudantes
+
+**Conexão comunitária, pesquisa avançada: impacto real em saúde pública**
+
+O Projeto Dourados oferece oportunidades para estudantes motivados que desejam
+contribuir para uma iniciativa interdisciplinar de pesquisa e extensão na
+interface entre ciências sociais, epidemiologia, saúde pública indígena e
+colaboração internacional entre o Brasil e os Estados Unidos.
+
+A participação estudantil pode incluir apoio à pesquisa, documentação e
+produção de narrativas, ou desenvolvimento técnico, de acordo com os interesses
+e a formação de cada pessoa.
+
+<br>
+
+## Objetivos e Resultados de Aprendizagem
+
+**Aprender fazendo. Contribuir de forma significativa.**
+
+### Para Todos os Estudantes
+
+Os participantes irão:
+
+- Aprender sobre saúde pública indígena no Brasil, com foco na Reserva Indígena
+  de Dourados.
+- Ter contato com epidemiologia, ciências sociais e pesquisa interdisciplinar,
+  incluindo intercâmbio e colaboração internacional.
+- Desenvolver habilidades de comunicação de temas de pesquisa complexos para
+  públicos diversos.
+
+
+### Documentação, Narrativas e Extensão
+
+Estudantes interessados em escrita, comunicação ou trabalho voltado à
+comunidade poderão:
+
+- Aprender sobre as línguas indígenas faladas na Reserva, incluindo Guarani e
+  Terena.
+- Estudar a história da Reserva Indígena de Dourados e do sistema de reservas
+  indígenas no Brasil.
+- Comparar contextos de saúde pública indígena em diferentes estados brasileiros,
+  incluindo:
+  - **Mato Grosso do Sul**, onde a cidade de Dourados e a Reserva são vizinhas
+    imediatas,
+  - **Amazonas**, onde comunidades indígenas são geograficamente dispersas e
+    frequentemente distantes dos centros urbanos, e
+  - **Bahia**, onde populações indígenas e não indígenas apresentam maior
+    integração social.
+
+Essas comparações ajudam a situar Dourados em um contexto nacional mais amplo e
+a evidenciar como a estrutura social molda os desafios em saúde pública.
+
+
+### Desenvolvimento de Ferramentas Baseadas em Ciências Sociais e Epidemiologia
+
+Estudantes com interesse em dados, modelagem ou computação poderão:
+
+- Aprender programação em R para análise de dados e modelagem.
+- Contribuir para sites e painéis de dados desenvolvidos com Quarto.
+- Aprender como modelos matemáticos são utilizados para descrever surtos de
+  doenças infecciosas.
+- Aplicar métodos estatísticos bayesianos para estudar como fatores sociais e
+  epidemiológicos influenciam a disseminação de doenças, incluindo:
+  - local de residência (aldeia),
+  - etnia indígena,
+  - e variantes circulantes da COVID-19.
+
+
+## Receba Atualizações
+
+As oportunidades do projeto serão anunciadas nesta página à medida que se
+tornarem disponíveis.
+
+Se desejar receber atualizações por e-mail, preencha o breve formulário abaixo.
+Você também será automaticamente inscrito(a) na newsletter do Projeto Dourados
+para receber notícias e atualizações gerais, a menos que opte por não participar
+desmarcando a opção “Inscrever-se na Newsletter”.
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdaIBANzUJ1UX_FsZxmKXkJvW6oCgQci6fgtexqK6HHxHF8tg/viewform?embedded=true" width="640" height="1283" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

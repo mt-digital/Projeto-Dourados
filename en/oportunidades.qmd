@@ -3,56 +3,91 @@ title: Opportunities
 lang: en
 ---
 
+
+
 # Student Opportunities
 
-**Learn and contribute to professional research with practical impacts**
+
+**Community connection, advanced research: real public-health impact**
 
 
-We may be able to accept several motivated students to assist with this project
-either on the side of...
+Projeto Dourados offers opportunities for motivated students to contribute to
+an interdisciplinary research and outreach initiative at the intersection of
+social science, epidemiology, Indigenous public health, and international
+collaboration between Brazil and the United States.
+
+Student involvement may include research support, documentation and storytelling,
+or technical development, depending on interests and background.
+
+<br>
 
 
 ## Goals and Learning Outcomes
 
-**Learn by doing**
+**Learn by doing. Contribute meaningfully.**
 
-### All Students
 
-1. Learn about Indigenous public health.
-1. Learn about epidemiology, social science, storytelling, and communicating
-  new and complex research topics for a general audience.
+### For All Students
+
+Participants will:
+
+- Learn about Indigenous public health in Brazil, with a focus on the Dourados
+  Indigenous Reserve.
+- Gain exposure to epidemiology, social science, interdisciplinary, and
+  international research.
+- Develop skills in communicating complex research topics clearly to broad
+  audiences.
+
 
 ### Documentation, Storytelling, and Outreach
 
-1. Learn Indigenous languages of the Reserve: Guaraní and Terena.
-1. Learn the history of the Dorados Indigenous Reserve and the Indigenous Reserve
-   system.
-1. Learn about how Indigenous public health works in different context in
-   Brazil, especially in Amazónas and Bahia. 
-   - Amazónas has the most Indigenous residents of any state, followed by Bahia,
-     with Mato Grosso do Sul (Dourados' home state) with the third most
-     Indigenous residents. In Amazónas, Indigenous Reserves and other Indigenous
-     communities are far apart from one another and from urban centers, unlike
-     in Dourados where the city and Reserve neighbor each other, separated only 
-     by a road. 
-   - In Bahia, the situation is rather different: Indigenous peoples are more
-     socially integrated with non-Indigenous peoples than in Dourados. 
-   - If we study these three cases we will therefore produce case studies for 
-     three extremes of 
+Students interested in writing, communication, or community-facing work may:
 
-### Social Science- and Epidemiology-Backed Decision Support Tool Development
+- Learn about Indigenous languages spoken in the Reserve, including Guaraní and
+  Terena.
+- Study the history of the Dourados Indigenous Reserve and Brazil’s Indigenous
+  reserve system.
+- Compare Indigenous public-health contexts across Brazilian states, including:
+  - **Mato Grosso do Sul**, where the city of Dourados and the Reserve are
+    immediate neighbors,
+  - **Amazonas**, where Indigenous communities are geographically dispersed and
+    often distant from urban centers, and
+  - **Bahia**, where Indigenous and non-Indigenous populations are more socially
+    integrated.
+- Publicize stories and findings on social media, in written pieces, and in
+  documentary videos in the four Project languages: Guarani and Terena in
+  addition to Portuguese and English. 
 
-1. Learn R programming
-1. Learn to create, manage, and publish websites using Quarto, and data
-   dashboards using
-1. Learn about using mathematics to describe epidemiological outbreaks
-1. Use Bayesian statistics to infer how much various social and epidemiological
-   factors matter, starting by considering three different ones: (1) the town in which an Indigenous person lived; (2) their ethnicity; and (3) which COVID-19 variant was spreading.
+These comparisons help situate Dourados within a broader national context and
+highlight how social structure shapes public-health challenges.
 
 
-## Stay Notified
+### Social Science and Epidemiology–Based Tool Development
 
-Soon we will officially announce project opportunities on this page. If you
-would like to receive updates about opportunities by email, please answer the
-following questions. Note we also invite you to subscribe to our email 
-newsletter to receive Projeto Dourados updates. 
+Students with interests in data, modeling, or computation may:
+
+- Learn R programming for data analysis and modeling.
+- Contribute to websites and data dashboards built with Quarto.
+- Learn how mathematical models are used to describe infectious-disease
+  outbreaks.
+- Apply Bayesian statistical methods to study how social and epidemiological
+  factors influence disease spread, including:
+  - village of residence,
+  - Indigenous ethnicity,
+  - and circulating COVID-19 variants.
+
+
+## Stay Notified ✌️ 🇧🇷 🇺🇸 🔬👩‍💻 
+
+Project opportunities will be announced on this page as they become available.
+
+If you would like to sign up for our email list to receive updates by email, 
+please complete the short form below. 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5LqOHTUO3O1min3rMYIPQxOax8x5DrgxuY3CCCuk0J6oqiw/viewform?embedded=true" 
+  width="640" 
+  height="960" 
+  frameborder="0" marginheight="0" marginwidth="0"
+  >
+  Loading…
+</iframe>

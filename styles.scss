@@ -11,8 +11,16 @@ main#quarto-document-content {
   font-size: 18.5px !important;
 }
 
+/* Reduce list indentation slightly for narrower text columns */
+main ul,
+main ol {
+  padding-left: 1.2em;
+}
 
-
+main ul ul,
+main ol ol {
+  padding-left: 1.1em;
+}
 
 $title-bg: #4f7d9d;
 $title-bg: #4a789b;
@@ -398,3 +406,10 @@ html[lang="en"] .hero-lang-switch [data-lang="en"] {
 }
 
 
+div.large-link {
+  font-size: 22px !important;
+  font-weight: 400 !important;
+  a {
+    color: $heading-color !important;
+  }
+}

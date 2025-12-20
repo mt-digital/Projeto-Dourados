@@ -11,18 +11,29 @@ Our group of international researchers came together following an article by Bra
 
 This research will first help residents of the Dourados Indigenous Reserve. The lessons we learn will help prepare for and prevent the spread of infectious diseases in other Indigenous communities in Brazil and around the world.
 
+## How Social Structure Shaped COVID-19 in the Reserve
+
+
+![](images/clipboard-2719146699.png)
+
+
 ## Unanswered Questions
 
-**About COVID-19 in the Dourados Reserve**
+**Like all good science, Rezende, Albuquerque, and Simionatto's observations of how social structure shaped COVID-19 in the Reserve raised a new set of questions about** hat Rezende, Albuquerque and Simionatto found raised new.
 
 It is necessary to come into contact with other people in order to contract a disease such as COVID-19, or other illnesses that spread through respiration in close social interaction. Others may be transmitted through blood or sexual contact.
 
-Therefore, if we want to prepare for the next pandemic — or, even better, *prevent* it — we need to better understand how people organize themselves and interact socially.![](images/clipboard-2719146699.png)
+Therefore, if we want to prepare for the next pandemic — or, even better, *prevent* it — we need to better understand how people organize themselves and interact socially.
+
 
 On the other hand, social scientists know that there are opportunities to apply advanced theories from multiple disciplines within the social sciences. However, it is difficult to learn enough epidemiology to contribute directly to improvements in Indigenous health — or, similarly, to other problems and contexts beyond the social sciences.
 
-## Other Research Questions
+## Ongoing Research Project
 
--   **How does the distribution in household size affect disease spread?** We could again use Bayesian data analysis to We can use our parameterized models in agent-based models that could explicitly incorporate social networks.
+Turner is working to formalize the above analysis to answer some of the
+new questions raised by Rezende, Albuquerque, and Simionatto's (2024) work. 
+Specifically, he is developing a mathematical statistical model to understand
+**which social groupings are actually relevant for eipdemiological dynamics?** We could again use Bayesian data analysis to We can use our parameterized models in agent-based models that could explicitly incorporate social networks.
+
 
 ## Long-term Vision
