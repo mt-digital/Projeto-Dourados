@@ -1,6 +1,9 @@
 ---
 title: Home
 lang: en
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 # A Cultural Exchange Program {#index-title .unnumbered}
@@ -9,116 +12,131 @@ lang: en
 [**To Promote Indigenous Health in the Western Hemisphere**]{.smallcaps}
 :::
 
-_Projeto_ (Project) _Dourados_—pronounced _doe-RAH-doose_, meaning _golden_—began when
-researchers from South and North America met at the Universidade Federal de
-Grande Dourados (UFGD), Mato Grosso do Sul, Brazil.
+*Projeto* (Project) *Dourados*—pronounced *doe-RAH-doose*, meaning
+*golden*—began when researchers from South and North America met at the
+Universidade Federal de Grande Dourados (UFGD), Mato Grosso do Sul,
+Brazil.
 
-We recognized the need for new efforts to bring together epidemiologists and
-social scientists, and to connect researchers from Brazil and the United States,
-so they could learn from one another and strengthen scientific ties between the
-two largest democracies in the Americas—both with rich Indigenous cultural
-heritage.
+We recognized the need for new efforts to bring together epidemiologists
+and social scientists, and to connect researchers from Brazil and the
+United States, so they could learn from one another and strengthen
+scientific ties between the two largest democracies in the Americas—both
+with rich Indigenous cultural heritage.
 
-In both countries, Indigenous peoples have historically suffered more acutely
-from disease than colonial arrivals for a variety of reasons—and continue to do
-so, as the COVID-19 pandemic made clear.
+In both countries, Indigenous peoples have historically suffered more
+acutely from disease than colonial arrivals for a variety of reasons—and
+continue to do so, as the COVID-19 pandemic made clear.
 
-In response, we developed a new educational and research exchange program to
-connect South and North American scientists, beginning with our two institutions,
-UFGD and Stanford University.
+In response, we developed a new educational and research exchange
+program to connect South and North American scientists, beginning with
+our two institutions, UFGD and Stanford University.
 
 ### Our Project
 
-The project builds on public health partnerships and research led by Prof.
-Simone Simionatto, her students, and colleagues at UFSC and beyond, which have
-advanced both the science and practice of public health in her community: the
-city of Dourados and the neighboring Dourados Indigenous Reserve.
+The project builds on public health partnerships and research led by
+Prof. Simone Simionatto, her students, and colleagues at UFSC and
+beyond, which have advanced both the science and practice of public
+health in her community: the city of Dourados and the neighboring
+Dourados Indigenous Reserve.
 
-**We are currently recruiting UFGD students to work remotely with researchers in
-the United States**, with the possibility of visits from Stanford University
-researchers during the 2026 academic year.
+**We are currently recruiting UFGD students to work remotely with
+researchers in the United States**, with the possibility of visits from
+Stanford University researchers during the 2026 academic year.
 
 **One group of participants will help document and communicate Prof.
-Simionatto’s work**, including producing Guaraní- and Terena-language translations
-of this website and other Projeto Dourados materials.
+Simionatto’s work**, including producing Guaraní- and Terena-language
+translations of this website and other Projeto Dourados materials.
 
-**Another group will advance interdisciplinary research on how social behavior
-shapes disease spread**, contributing to improved pandemic preparedness and
-public health in Dourados and the surrounding Indigenous Reserve.
+**Another group will advance interdisciplinary research on how social
+behavior shapes disease spread**, contributing to improved pandemic
+preparedness and public health in Dourados and the surrounding
+Indigenous Reserve.
 
-::: {.large-link}
-Learn more about how to participate here: [Opportunities](/en/opportunities.qmd).
+::: large-link
+Learn more about how to participate here:
+[Opportunities](/en/oportunidades.qmd).
 :::
 
-::: {.large-link}
+::: large-link
 Stay informed:
 :::
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerQly0QI9YOhfjtkBXcCI1o6ktymFB1us33w3zbFd4NPpmIA/viewform?embedded=true"
-        width="640" height="502" frameborder="0" marginheight="0" marginwidth="0">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerQly0QI9YOhfjtkBXcCI1o6ktymFB1us33w3zbFd4NPpmIA/viewform?embedded=true" width="640" height="502" frameborder="0" marginheight="0" marginwidth="0">
+
 Loading…
+
 </iframe>
 
 ### More on Project Goals
 
-We have two primary short-term goals for project outputs over the next few years:
+We have two primary short-term goals for project outputs over the next
+few years:
 
-1. **Document public health conditions in the Dourados Indigenous Reserve and how
-   science is put into practice locally.** During the COVID-19 pandemic, Prof.
-   Simionatto tracked the spread of different SARS-CoV-2 variants. In ongoing
-   work, she coordinates with hospital epidemiologists monitoring the origins
-   and trajectories of new outbreaks to enable rapid response if the next
-   COVID-19—or worse—emerges.
+1.  **Document public health conditions in the Dourados Indigenous
+    Reserve and how science is put into practice locally.** During the
+    COVID-19 pandemic, Prof. Simionatto tracked the spread of different
+    SARS-CoV-2 variants. In ongoing work, she coordinates with hospital
+    epidemiologists monitoring the origins and trajectories of new
+    outbreaks to enable rapid response if the next COVID-19—or
+    worse—emerges.
 
-2. **Develop computational decision-support tools for pandemic preparedness**
-   that explicitly model how social and economic factors influence disease
-   spread.
+2.  **Develop computational decision-support tools for pandemic
+    preparedness** that explicitly model how social and economic factors
+    influence disease spread.
 
 ### How to Contribute
 
-We welcome students from epidemiology, social sciences, political science,
-international relations, and related fields who are interested in contributing
-during the upcoming academic year.
+We welcome students from epidemiology, social sciences, political
+science, international relations, and related fields who are interested
+in contributing during the upcoming academic year.
 
-If you have a research idea aligned with the project, are interested in working
-with us, or would like more information, please contact us:
-[contato@projeto-dourados.org](mailto:contato@projeto-dourados.org)
+If you have a research idea aligned with the project, are interested in
+working with us, or would like more information, please contact us:
+[contato\@projeto-dourados.org](mailto:contato@projeto-dourados.org)
 
 #### Timeline and Deliverables
 
-- **Q1 2026:** Recruit UFGD student participants; introductions; begin projects.
-- **Q2 2026:** First journal article drafts; release short documentary films
-  (≤3-minute videos produced with mobile phones); publish initial translations
-  and web content.
-- **Q3 2026:** Revise and submit manuscripts; expand documentary and outreach
-  materials; continue collaboration.
-- **Q4 2026:** Synthesize project outputs; assess next phases of collaboration
-  and funding.
-- **2027 and beyond:** Sustain and expand the exchange program as opportunities
-  allow.
+-   **Q1 2026:** Recruit UFGD student participants; introductions; begin
+    projects.
+-   **Q2 2026:** First journal article drafts; release short documentary
+    films (≤3-minute videos produced with mobile phones); publish
+    initial translations and web content.
+-   **Q3 2026:** Revise and submit manuscripts; expand documentary and
+    outreach materials; continue collaboration.
+-   **Q4 2026:** Synthesize project outputs; assess next phases of
+    collaboration and funding.
+-   **2027 and beyond:** Sustain and expand the exchange program as
+    opportunities allow.
 
 ### Our Team
 
 #### Project Leads
-- Simone Simionatto — UFGD • [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
-- Matheus de Carvalho Hernandez — UFGD • [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
-- Izabela Maurício de Rezende — Stanford University • [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
-- Matthew Turner — Stanford University • [Website](https://mat.phd)
+
+-   Simone Simionatto — UFGD •
+    [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
+-   Matheus de Carvalho Hernandez — UFGD •
+    [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
+-   Izabela Maurício de Rezende — Stanford University •
+    [LinkedIn](https://www.linkedin.com/in/izabela-rezende)
+-   Matthew Turner — Stanford University • [Website](https://mat.phd)
 
 #### Student Leaders and Contributors
-- Laís Albuquerque de Oliveira — UFGD • [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
-- Caio Gustavo Simonelli — UFGD • [CNPq Online CV](http://lattes.cnpq.br/5480881995742161)
+
+-   Laís Albuquerque de Oliveira — UFGD •
+    [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
+-   Caio Gustavo Simonelli — UFGD • [CNPq Online
+    CV](http://lattes.cnpq.br/5480881995742161)
 
 ### Foundational Support
 
-Projeto Dourados was made possible through the support of Mrs. Jill Freidenrich,
-whose funding provided fellowships and research support for Rezende and Turner at
-the Pandemic Preparedness Hub at Stanford Medicine. This support enabled Rezende
-to initiate collaboration with Simionatto, with Turner joining soon after. It
-quickly became clear that this project was a strong fit for advancing the
-practical use of social science in epidemiology.
+Projeto Dourados was made possible through the support of Mrs. Jill
+Freidenrich, whose funding provided fellowships and research support for
+Rezende and Turner at the Pandemic Preparedness Hub at Stanford
+Medicine. This support enabled Rezende to initiate collaboration with
+Simionatto, with Turner joining soon after. It quickly became clear that
+this project was a strong fit for advancing the practical use of social
+science in epidemiology.
 
 <br>
 
-![](/imagens/clipboard-3055226108.png){width=500px fig-align=center}
-
+![](/imagens/clipboard-3055226108.png){width="500px" fig-align="center"}
