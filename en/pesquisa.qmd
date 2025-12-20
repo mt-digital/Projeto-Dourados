@@ -11,10 +11,31 @@ Our group of international researchers came together following an article by Bra
 
 This research will first help residents of the Dourados Indigenous Reserve. The lessons we learn will help prepare for and prevent the spread of infectious diseases in other Indigenous communities in Brazil and around the world.
 
+### A Reserva
+
+![**Um passeio pela Reserva:** Em frente ao hospital da Reserva (a), da esquerda para a direita: Dr. Paulo, juntamente com o padre da igreja católica próxima ao hospital; atrás do Dr. Paulo, Prof. Simionatto e Cais Simionelli. O hospital tem uma capela cristã ao lado de uma estrutura cerimonial indígena com fogueira ritual (b).”](/imagens/clipboard-1663480214.png){width="1000"}
+
+**Map of Dourados Indigenous Reserve villages.** Bororó is light
+blue, Jaguapiru cyan, and the city of Dourados dark blue. Note
+Jaguapiru shares a much longer boundary with the reserve than Dourados,
+which facilitates mobility in and out of the reserve for both Reserve
+and city residents. Maps combined from Cavalcante (2019) for the underlying
+topographic map and Schnaufer et al.~(2023) for the villages, city, and 
+sample collection points (clinics) layer.
+
 ## How Social Structure Shaped COVID-19 in the Reserve
 
 
-![](images/clipboard-2719146699.png)
+![**Time series of COVID-19 spread through the Dourados Indigenous
+Reserve,** with significant events highlighted. The first B.1.1 variant
+cases were introduced by the Guarani ethnicity (1), followed about one
+month later by a rapid rise in cases in Jaguapiru among the Terena
+ethnicity (2); several months later a rapid rise in Bororó was caused by
+a rapid rise among Guarani (3). Zeta was introduced at the end of 2020
+(4), with a rapid rise around the holiday season especially in Jaguapiru
+among Guarani (5); later in February cases rose in Bororó among the
+Terena (6).](images/clipboard-2719146699.png)
+
 
 
 ## Unanswered Questions
