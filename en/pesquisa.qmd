@@ -41,7 +41,8 @@ of the Dourados Reserve (c,d—see map below for the location of these).
 Independent storefronts like the *Mercearia
 Conquista* (mer-say-ah-RI-ah con-QUIS-ta)—or, "the Cornerstore that Persevered"—can be found throughout the
 Dourados Reserve (e). Click image to
-expand and zoom in.](/imagens/clipboard-1663480214.png){width="750" .lightbox}
+expand and zoom in.](/imagens/clipboard-1663480214.png){width="750" .lightbox
+id=fig-passeio-da-reserva}
 
 
 
@@ -52,23 +53,47 @@ and sample collection points.Maps combined from @Cavalcante2019 for the underlyi
 topographic map and @Schnaufer2023 for the villages, city, and 
 sample collection points (clinics) layer. Americas map is public domain; map of
 Brazil from [InfoEscola](https://www.infoescola.com/geografia/mapa-do-brasil/).
-Click image to expand and zoom in.](images/clipboard-1309800952.png){width="750px" .lightbox}
+Click image to expand and zoom
+in.](images/clipboard-1309800952.png){width="750px" .lightbox id=fig-mapas}
 
 ## How Social Structure Shaped COVID-19 in the Reserve
 
 
+Albuquerque, Rezenende, Simionatto, and their co-authors created a system for
+genomic sequencing and monitoring to track the spread of COVID-19 variants in
+the Reserve during the pandemic. Differences in arrival timing could determine
+which public health response would be most effective.  This allowed the
+authors to confirm that SARS-CoV-2 variants arrived in the Reserve when they
+arrived elsewhere in Brazil. However some observed transmission patters seem
+to be uniquely shaped by the social, economic, and geographic structure of the
+Reserve.
 
-![**Time series of COVID-19 spread through the Dourados Indigenous Reserve,** with significant events highlighted. The first B.1.1 variant cases were introduced by the Guarani ethnicity (1), followed about one month later by a rapid rise in cases in Jaguapiru among the Terena ethnicity (2); several months later a rapid rise in Bororó was caused by a rapid rise among Guarani (3). Zeta was introduced at the end of 2020 (4), with a rapid rise around the holiday season especially in Jaguapiru among Guarani (5); later in February cases rose in Bororó among the Terena (6).](images/clipboard-2719146699.png){width="800"}
+In July, 2020, the first COVID cases (variant B.1.1) 
+were detected both in the towns of Jaguapiru and Bororó. Apparently, however,
+only Guarani Kaiowá ethnicity individuals were among the first infected (Time 1
+in @fig-variants-timeseries).  About a month later, a sharp increase
+in cases was detected—but in this case, infections were detected almost
+exclusively among ethnic Terena residents, and only in the Jaguapiru village
+(Time 2 in @fig-variants-timeseries). Variant B.1.1 continued to spread 
+in the Jaguapiru village over September and August, 2020, but infected
+individuals were of a mix of Terena and Guarani ethnicities over these months.
+
+The final surge in cases came 
+
+![**Time series of COVID-19 spread through the Dourados Indigenous Reserve,**
+with significant events highlighted. Variant B.1.1 was first detected in
+the the Guarani ethnicity (1), followed about one month later by a rapid rise in
+cases in Jaguapiru among the Terena ethnicity (2); several months later a rapid
+rise in Bororó was caused by a rapid rise among Guarani (3). Zeta was introduced
+at the end of 2020 (4), with a rapid rise around the holiday season especially
+in Jaguapiru among Guarani (5); later in February cases rose in Bororó among the
+Terena (6).](images/clipboard-2719146699.png){width="800" .lightbox
+id=fig-variants-timeseries}
 
 ### Unanswered Questions
 
-**Like all good science, Rezende, Albuquerque, and Simionatto's observations of how social structure shaped COVID-19 in the Reserve raised a new set of questions about** hat Rezende, Albuquerque and Simionatto found raised new.
+- 
 
-It is necessary to come into contact with other people in order to contract a disease such as COVID-19, or other illnesses that spread through respiration in close social interaction. Others may be transmitted through blood or sexual contact.
-
-Therefore, if we want to prepare for the next pandemic — or, even better, *prevent* it — we need to better understand how people organize themselves and interact socially.
-
-On the other hand, social scientists know that there are opportunities to apply advanced theories from multiple disciplines within the social sciences. However, it is difficult to learn enough epidemiology to contribute directly to improvements in Indigenous health — or, similarly, to other problems and contexts beyond the social sciences.
 
 ## Current Research Project
 
