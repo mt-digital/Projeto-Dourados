@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.39">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Research – Projeto Dourados</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-50f792bb6489d9fd35268808da1062ac.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0266a3854a12a4c572e0b4fea672f787.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-360cd8996661879e284ae81b52d7bef1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-ad180af119ed0d2b4211fe79fa1b3cfe.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<!-- header.html -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&amp;family=Source+Code+Pro:wght@400;500;600;700&amp;display=swap">
+<!-- <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;350;400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@200;300;400;500;600;700&amp;display=swap" rel="stylesheet">
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const normalize = p => p.replace(/\/$/, "/index.html");
+  const currentPath = normalize(location.pathname);
+
+  document.querySelectorAll(".hero-nav a").forEach(link => {
+    try {
+      const linkPath = normalize(new URL(link.href).pathname);
+      if (linkPath === currentPath) {
+        link.classList.add("active");
+      }
+    } catch (e) {
+      // ignore malformed URLs
+    }
+  });
+});
+</script>
+
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const buttons = document.querySelectorAll('[data-bs-toggle="popover"]');
+
+  buttons.forEach(btn => {
+    const url = btn.getAttribute('data-url');
+
+    if (url) {
+      fetch(url)
+        .then(response => response.text())
+        .then(html => {
+          btn.setAttribute('data-bs-content', html);
+
+          // Create the popover AFTER content is loaded
+          new bootstrap.Popover(btn);
+        });
+    } else {
+      // Fallback for inline content
+      new bootstrap.Popover(btn);
+    }
+  });
+});
+</script>
+
+<!-- HERO HEADER -->
+</head><body><div class="hero-header">
+  
+  <div class="hero-title">Projeto Dourados</div>
+ 
+  <nav class="hero-nav nav-pt">
+    <a href="../pt/index.html">Início</a>
+    <a href="../pt/oportunidades.html">Oportunidades</a>
+    <a href="../pt/pesquisa.html">Pesquisa</a>
+    <!-- <a href="/pt/doadores.html">Doadores</a> -->
+  </nav>
+  
+  <nav class="hero-nav nav-en">
+    <a href="../en/index.html">Home</a>
+    <a href="../en/oportunidades.html">Opportunities</a>
+    <a href="../en/pesquisa.html">Research</a>
+    <!-- <a href="/en/doadores.html">Donors</a> -->
+  </nav>
+  
+  <div class="hero-lang-switch">
+    <a id="switch-pt" data-lang="pt">Português 🇧🇷</a>
+    <span class="sep">|</span>
+    <a id="switch-en" data-lang="en">English 🇺🇸</a>
+  </div>
+  
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  
+  function currentPath() {
+    return window.location.pathname;
+  }
+  
+  // Switch to PT
+  document.querySelector("#switch-pt").addEventListener("click", function (e) {
+    e.preventDefault();
+    // Get the last .html file from the current URL
+    const lastPart = window.location.pathname.split("/").pop();
+
+    // Build an absolute URL using the current domain (localhost or production)
+    const newUrl = `${window.location.origin}/pt/${lastPart}`;
+
+    // Navigate to the new URL
+    window.location.href = newUrl;
+  });
+
+  // Switch to EN
+  document.querySelector("#switch-en").addEventListener("click", function (e) {
+    e.preventDefault();
+    // Get the last .html file from the current URL
+    const lastPart = window.location.pathname.split("/").pop();
+
+    // Build an absolute URL using the current domain (localhost or production)
+    const newUrl = `${window.location.origin}/en/${lastPart}`;
+
+    // Navigate to the new URL
+    window.location.href = newUrl;
+  });
+});
+</script>
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+
+
+
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#research-to-improve-indigenous-health" id="toc-research-to-improve-indigenous-health" class="nav-link active" data-scroll-target="#research-to-improve-indigenous-health">Research to Improve Indigenous Health</a>
+  <ul class="collapse">
+  <li><a href="#the-dourados-indigenous-reserve" id="toc-the-dourados-indigenous-reserve" class="nav-link" data-scroll-target="#the-dourados-indigenous-reserve">The Dourados Indigenous Reserve</a></li>
+  <li><a href="#how-social-structure-shaped-covid-19-in-the-reserve" id="toc-how-social-structure-shaped-covid-19-in-the-reserve" class="nav-link" data-scroll-target="#how-social-structure-shaped-covid-19-in-the-reserve">How Social Structure Shaped COVID-19 in the Reserve</a>
+  <ul class="collapse">
+  <li><a href="#unanswered-questions" id="toc-unanswered-questions" class="nav-link" data-scroll-target="#unanswered-questions">Unanswered Questions</a></li>
+  </ul></li>
+  <li><a href="#current-research-project" id="toc-current-research-project" class="nav-link" data-scroll-target="#current-research-project">Current Research Project</a></li>
+  <li><a href="#long-term-vision" id="toc-long-term-vision" class="nav-link" data-scroll-target="#long-term-vision">Long-term Vision</a></li>
+  </ul></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Research</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="research-to-improve-indigenous-health" class="level1">
+<h1>Research to Improve Indigenous Health</h1>
+<p>Indigenous peoples have long faced disproportionate risks from epidemic diseases and precarious health conditions. COVID-19 was no exception <span class="citation" data-cites="Simionatto2020">(<a href="#ref-Simionatto2020" role="doc-biblioref">Simionatto, Barbosa, and Marchioro 2020</a>)</span>.</p>
+<p>Projeto Dourados continues our collaboration that started when Albuquerque, Rezende, and Simionatto—together with other co-authors—tracked the spread of different SARS-CoV-2 variants within the Dourados Indigenous Reserve <span class="citation" data-cites="AlbuquerqueRezende2023">(<a href="#ref-AlbuquerqueRezende2023" role="doc-biblioref">Oliveira et al. 2023</a>)</span>.</p>
+<p>Our current research builds on their work by using original data to explain how social structure shaped transmission in the Reserve during COVID-19. Social structure means who interacts with whom, and how often. Geography shapes social structure: we interact more often with those nearby than far away. Cultural, ethnic, and economic groupings also shape these patterns.</p>
+<p>The goal of this research is to support residents of the Dourados Indigenous Reserve in preparing for future pandemics. We develop computational tools that allow different response strategies to be explored through simulation, making it possible to anticipate trade-offs before crises arise.</p>
+<p>While grounded in the context of Dourados, we intend our work to be adaptable to improve preparedness and disease prevention in other Indigenous communities in Brazil and beyond.</p>
+<section id="the-dourados-indigenous-reserve" class="level3">
+<h3 class="anchored" data-anchor-id="the-dourados-indigenous-reserve">The Dourados Indigenous Reserve</h3>
+<p>The Dourados Indigenous Reserve is located in the state of Mato Grosso do Sul, in southwestern Brazil, adjacent to the city of Dourados (Figure 1). The Reserve lies within a region shaped by long histories of Indigenous settlement, displacement, and state-led reservation policies, which brought together multiple Indigenous groups into a shared territory.</p>
+<p>Today, the Reserve is home to approximately 18,000 residents living in two villages: Bororó and Jaguapiru. Jaguapiru is the larger of the two, with roughly twice the population of Bororó. The population includes members of multiple Indigenous groups, with Guarani Kaiowa and Terena comprising the largest shares of residents.</p>
+<p>The spatial organization of the Reserve reflects its proximity to the city of Dourados while remaining socially and administratively distinct. Figure 1 situates the Reserve within Brazil and shows the relative locations of Bororó and Jaguapiru, along with sites used for public health surveillance during the COVID-19 pandemic.</p>
+<div id="fig-mapas" class="lightbox quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-mapas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/clipboard-1309800952.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Location and geography of the Dourados Indigenous Reserve. The Reserve and its two villages are shown in relation to the city of Dourados and their position within Brazil."><img src="images/clipboard-1309800952.png" class="img-fluid figure-img" width="750"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-mapas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: <strong>Location and geography of the Dourados Indigenous Reserve.</strong> The Reserve and its two villages are shown in relation to the city of Dourados and their position within Brazil.
+</figcaption>
+</figure>
+</div>
+<p>Daily life in the Reserve is supported by a mix of shared institutions and local infrastructure (Figure 2). The Reserve’s hospital serves as a central hub for care and includes both a Christian chapel and an outdoor ceremonial structure with a fire pit used for Indigenous spiritual practices. Smaller public health stations and independent storefronts provide essential services throughout the Reserve.</p>
+<div id="fig-passeio-da-reserva" class="lightbox quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-passeio-da-reserva-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="../imagens/clipboard-1663480214.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;2: Everyday institutions in the Dourados Indigenous Reserve. Scenes from the Reserve include the hospital, public health stations, and local independent storefronts."><img src="../imagens/clipboard-1663480214.png" class="img-fluid figure-img" width="750"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-passeio-da-reserva-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: <strong>Everyday institutions in the Dourados Indigenous Reserve.</strong> Scenes from the Reserve include the hospital, public health stations, and local independent storefronts.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="how-social-structure-shaped-covid-19-in-the-reserve" class="level2">
+<h2 class="anchored" data-anchor-id="how-social-structure-shaped-covid-19-in-the-reserve">How Social Structure Shaped COVID-19 in the Reserve</h2>
+<p>Albuquerque, Rezenende, Simionatto, and their co-authors created a system for genomic sequencing and monitoring to track the spread of COVID-19 variants in the Reserve during the pandemic. Differences in arrival timing could determine which public health response would be most effective. This allowed the authors to confirm that SARS-CoV-2 variants arrived in the Reserve when they arrived elsewhere in Brazil. However several observed transmission patters seem to be uniquely shaped by the social, economic, and geographic structure of the Reserve.</p>
+<div id="fig-variants-timeseries" class="lightbox quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-variants-timeseries-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/clipboard-2719146699.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Figure&nbsp;3: Time series of COVID-19 spread through the Dourados Indigenous Reserve, with significant events highlighted. Variant B.1.1 was first detected in the the Guarani ethnicity (1), followed about one month later by a rapid rise in cases in Jaguapiru among the Terena ethnicity (2); several months later a rapid rise in Bororó was caused by a rapid rise among Guarani (3). Zeta was introduced at the end of 2020 (4), with a rapid rise around the holiday season especially in Jaguapiru among Guarani (5); later in February cases rose in Bororó among the Terena (6)."><img src="images/clipboard-2719146699.png" class="img-fluid figure-img" width="800"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-variants-timeseries-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: <strong>Time series of COVID-19 spread through the Dourados Indigenous Reserve,</strong> with significant events highlighted. Variant B.1.1 was first detected in the the Guarani ethnicity (1), followed about one month later by a rapid rise in cases in Jaguapiru among the Terena ethnicity (2); several months later a rapid rise in Bororó was caused by a rapid rise among Guarani (3). Zeta was introduced at the end of 2020 (4), with a rapid rise around the holiday season especially in Jaguapiru among Guarani (5); later in February cases rose in Bororó among the Terena (6).
+</figcaption>
+</figure>
+</div>
+<p>In July, 2020, the first COVID cases (variant B.1.1) were detected both in the towns of Jaguapiru and Bororó. Apparently, however, only Guarani Kaiowá ethnicity individuals were among the first infected (Time 1 in <a href="#fig-variants-timeseries" class="quarto-xref">Figure&nbsp;3</a>). About a month later, a sharp increase in cases was detected—but in this case, infections were detected almost exclusively among ethnic Terena residents, and only in the Jaguapiru village (Time 2 in <a href="#fig-variants-timeseries" class="quarto-xref">Figure&nbsp;3</a>). Variant B.1.1 continued to spread in the Jaguapiru village over September and August, 2020, but infected individuals were of a mix of Terena and Guarani ethnicities over these months.</p>
+<p>The final surge in variant B.1.1 cases occurred several months later and was concentrated primarily in the Bororó village (Time 3 in <a href="#fig-variants-timeseries" class="quarto-xref">Figure&nbsp;3</a>). Unlike earlier phases of spread, this increase was driven largely by infections among Guarani individuals. By this point, the variant had already circulated within Jaguapiru across multiple ethnic groups, suggesting that the later rise in Bororó reflected delayed transmission along interaction pathways linking the two villages rather than a new introduction.</p>
+<p>A similar pattern was observed following the introduction of the Zeta (P.2) variant at the end of 2020. Zeta cases rose rapidly in Jaguapiru around the holiday season, particularly among Guarani individuals (Times 4–5 in <a href="#fig-variants-timeseries" class="quarto-xref">Figure&nbsp;3</a>), before appearing later in Bororó, where infections were again concentrated among Terena residents (Time 6). Because many individuals had already been infected during earlier waves, this surge is consistent with a combination of new infections and reinfections, rather than simple spread through a fully susceptible population.</p>
+<p>Across both variants, transmission followed a repeated sequence: early increases within specific ethnic groups and villages, followed by delayed spread to other groups and locations. The recurrence of this pattern under different variants, and under conditions where prior infection was common, suggests that socially structured interaction pathways continued to shape transmission even in the presence of partial immunity.</p>
+<p>Taken together, these patterns indicate that COVID-19 transmission within the Reserve was shaped not only by when variants arrived, but by how social interactions were structured across ethnic and village boundaries. Rather than diffusing uniformly through the population, infections appear to have moved along socially patterned pathways, reflecting differences in contact frequency and mixing across groups. These dynamics motivate a closer examination of social structure as a key driver of disease spread within the Reserve.</p>
+<section id="unanswered-questions" class="level3">
+<h3 class="anchored" data-anchor-id="unanswered-questions">Unanswered Questions</h3>
+<p>The patterns described above suggest that social structure played a central role in shaping COVID-19 transmission within the Reserve. However, several key questions remain unresolved.</p>
+<p>Perhaps Jaguapiru’s proximity to the city drove higher infection rates there. If this were true, future pandemic preparedness plans might do well to focus resources on Jaguapiru residents who travel to the city due to economic necessity.</p>
+<p>More generally, no matter how SARS-CoV-2 entered the Reserve, the structure of social interaction determines how it—and any other pathogen—spreads. What remains unclear is which way of defining social groups best represents the observed COVID-19 dynamics.</p>
+</section>
+</section>
+<section id="current-research-project" class="level2">
+<h2 class="anchored" data-anchor-id="current-research-project">Current Research Project</h2>
+<p>Turner is leading an effort to formalize the hypotheses above into an epidemiological simulation and statistical model of COVID-19 transmission in the Reserve. The goal is to support public health planning for interventions such as incentivizing staying home, so that residents do not feel economically compelled to travel during outbreaks.</p>
+<p>We begin by using data gathered by Albuquerque, Rezende, and Simionatto to <em>fit</em> the simulation model using statistical inference. In practice, this means identifying which model configurations generate simulated data that most closely match observed epidemiological patterns.</p>
+<p>The model represents disease transmission through travel between the Reserve and the city of Dourados, followed by local spread shaped by interpersonal contact networks. A schematic overview of this structure is shown in <a href="#fig-model" class="quarto-xref">Figure&nbsp;4</a>, where mobility and contact behaviors for different social groups are represented symbolically.</p>
+<p>To determine which version of this model most faithfully represents COVID-19 in the Reserve, we infer the following:</p>
+<ol type="1">
+<li>Which social groupings (village, ethnicity, or village × ethnicity) produce models that best match the observed data?</li>
+<li>Was travel to the city a significant factor in importing different variants?</li>
+<li>Did reinfection play a significant role in the Zeta outbreak in the Reserve?</li>
+</ol>
+<div id="fig-model" class="lightbox quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-model-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/clipboard-2581785424.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Figure&nbsp;4: Sketch of the mobility, social mixing, and interaction model for epidemiological dynamics. The parameters c_{gg'} indicate how frequently members of groups g and g' interact, grouped by village or ethnicity. \gamma_g indicates how frequently each group travels to the city of Dourados."><img src="images/clipboard-2581785424.png" class="img-fluid figure-img" width="650"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-model-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: <strong>Sketch of the mobility, social mixing, and interaction model for epidemiological dynamics.</strong> The parameters <span class="math inline">\(c_{gg'}\)</span> indicate how frequently members of groups <span class="math inline">\(g\)</span> and <span class="math inline">\(g'\)</span> interact, grouped by village or ethnicity. <span class="math inline">\(\gamma_g\)</span> indicates how frequently each group travels to the city of Dourados.
+</figcaption>
+</figure>
+</div>
+<p>While understanding these dynamics is valuable in its own right, our primary aim is to use this knowledge to prepare effective social interventions before outbreaks escalate. Once a faithful model has been inferred, it can be put to work evaluating intervention strategies.</p>
+<p>We use the model to infer which intervention strategies most effectively limit the number of cases under constrained resources. Different strategies correspond to different expenditures aimed at producing specific social changes. In the model, these changes are represented as adjustments to parameters governing mobility and social contact structure.</p>
+<p>For example, public funds might be used to reduce travel to the city for one, several, or all social groups. Resources need not be allocated evenly. Given Jaguapiru’s proximity to the city, one might plausibly expect residents of Jaguapiru to travel more frequently than those in Bororó.</p>
+<div id="fig-results-sketch" class="lightbox quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-results-sketch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/clipboard-721006767.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure&nbsp;5: Sketches of model outcomes for planning public health interventions under limited resources. Groups benefit differently from quarantine-based interventions that target all groups equally, assuming zero reinfections (a). Targeted strategies can achieve more efficient and equitable outcomes, even when resource allocation itself is unequal (b)."><img src="images/clipboard-721006767.png" class="img-fluid figure-img" width="750"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-results-sketch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: <strong>Sketches of model outcomes for planning public health interventions under limited resources.</strong> Groups benefit differently from quarantine-based interventions that target all groups equally, assuming zero reinfections (a). Targeted strategies can achieve more efficient and equitable outcomes, even when resource allocation itself is unequal (b).
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="long-term-vision" class="level2">
+<h2 class="anchored" data-anchor-id="long-term-vision">Long-term Vision</h2>
+<p>Efficiency is essential: resources are limited, and we do not have the time or capacity to experiment freely in the real world.</p>
+<p>Statistical and simulation studies are valuable not only because they help us understand and predict real-world phenomena, but also because they highlight gaps in our knowledge. These gaps can point to where additional basic research—such as anthropological or ethnographic work—would be most valuable.</p>
+<p>We see a unique opportunity to advance public health for Indigenous communities. Our long-term vision includes building a vibrant team of faculty and student researchers working on the ground in Dourados, documenting the Reserve and the public health efforts taking place there. This on-the-ground engagement is essential for grounding the development of effective computational tools for public health policy.</p>
+</section>
+</section>
+<section id="references" class="level1">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-AlbuquerqueRezende2023" class="csl-entry" role="listitem">
+Oliveira, Laís Albuquerque de, Izabela Mauricio de Rezende, Vinicius João Navarini, Silvana Beutinger Marchioro, Alex José; Leite Torres, Julio Croda, Mariana Garcia Croda, et al. 2023. <span>“<span class="nocase">Genomic characterization of SARS-CoV-2 from an indigenous reserve in Mato Grosso do Sul, Brazil</span>.”</span> <em>Frontiers in Public Health</em> 11 (October): 1–11. <a href="https://doi.org/10.3389/fpubh.2023.1195779">https://doi.org/10.3389/fpubh.2023.1195779</a>.
+</div>
+<div id="ref-Simionatto2020" class="csl-entry" role="listitem">
+Simionatto, Simone, Marcelo Barbosa, and Silvana Beutinger Marchioro. 2020. <span>“<span class="nocase">Covid-19 in brazilian indigenous people: A new threat to old problems</span>.”</span> <em>Revista Da Sociedade Brasileira de Medicina Tropical</em> 53: 1–3. <a href="https://doi.org/10.1590/0037-8682-0476-2020">https://doi.org/10.1590/0037-8682-0476-2020</a>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/projeto-dourados\.org");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
+
+
+
+</body></html>
