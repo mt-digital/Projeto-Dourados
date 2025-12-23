@@ -58,10 +58,10 @@ Students interested in writing, communication, or community-facing work may:
 These comparisons help situate Dourados within a broader national context and
 highlight how social structure shapes public-health challenges.
 
-
-![**A hospital in the city of Dourados displays both Portuguese and Guarani names of locations in hospital signage.**](images/clipboard-1239915012.png){width="710"}
-
-
+![**A hospital in the city of Dourados displays both Portuguese and Guarani
+names of locations in hospital
+signage.**](/imagens/clipboard-1239915012.png){width="710"
+#fig-hospital-bilingual}
 
 ### Social Science and Epidemiology–Based Tool Development
 

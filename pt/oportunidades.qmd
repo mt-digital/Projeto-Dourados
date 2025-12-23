@@ -58,7 +58,10 @@ comunidade poderão:
 Essas comparações ajudam a situar Dourados em um contexto nacional mais amplo e
 a evidenciar como a estrutura social molda os desafios em saúde pública.
 
-![**A hospital in the city of Dourados displays both Portuguese and Guarani names of locations in hospital signage.**](images/clipboard-1239915012.png){width="710"}
+![**A hospital in the city of Dourados displays both Portuguese and Guarani
+names of locations in hospital
+signage.**](/imagens/clipboard-1239915012.png){width="710"
+#fig-hospital-bilingual}
 
 
 ### Desenvolvimento de Ferramentas em Ciências Sociais e Epidemiologia

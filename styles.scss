@@ -1,4 +1,8 @@
 /*-- scss:rules --*/
+iframe {
+  max-width: 100%;
+  min-height: 200px;
+}
 
 div#quarto-content {
   max-width: 1050px;
@@ -367,14 +371,20 @@ html[lang="en"] .nav-en { display: flex; }
    MOBILE SWITCHER – centered under title
 -------------------------------------------*/
 @media (max-width: 700px) {
+  .hero-header {
+    
+  }
   .hero-lang-switch {
-    position: static;
-    margin-top: 0.4rem;
+    /* position: static; */
+    /* margin-top: 0.4rem; */
     justify-content: center;
     color: #eee;
   }
   h1 {
-    max-width: 70%;
+    max-width: 80%;
+  }
+  p {
+    font-size: 16px; 
   }
 }
 
@@ -393,3 +403,73 @@ div.large-link {
     color: $heading-color !important;
   }
 }
+
+
+/* ============================================
+   HERO FIX — MOBILE
+============================================ */
+
+@media (max-width: 700px) {
+
+  .hero-header {
+    height: auto;              /* critical */
+    padding: 1.2rem 1rem 1.6rem;
+    background-position: center;
+  }
+
+  div.hero-title {
+    font-size: 2.4rem;         /* down from 4.5rem */
+    margin-top: 0.5rem;
+    margin-bottom: 0.6rem;
+    text-align: center;
+    line-height: 1.1;
+  }
+
+  /* Stack nav naturally */
+  .hero-nav {
+    position: static;          /* removes overlap */
+    width: 100%;
+    margin-top: 0.6rem;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.6rem 1rem;
+    text-align: center;
+  }
+    .hero-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Order elements */
+  .hero-title {
+    order: 1;
+  }
+
+  .hero-lang-switch {
+    order: 2;                 /* ⬆ moves above nav */
+    margin-top: 0.3rem;
+    margin-bottom: 0.6rem;
+    justify-content: center;
+    position: static;
+  }
+
+  .hero-nav {
+    order: 3;
+  }
+
+  .hero-nav a {
+    font-size: 1.1rem;         /* down from 1.75rem */
+  }
+
+  /* Center language switcher under title */
+  .hero-lang-switch {
+    position: static;
+    margin-top: 0.4rem;
+    justify-content: center;
+    font-size: 0.85rem;
+  }
+
+}
+
