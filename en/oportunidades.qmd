@@ -6,9 +6,7 @@ lang: en
 
 # Student Opportunities
 
-
-**Community connection, advanced research: real public-health impact**
-
+**Community connection and advanced research with real public-health impact**
 
 Projeto Dourados offers opportunities for motivated students to contribute to
 an interdisciplinary research and outreach initiative at the intersection of
@@ -16,7 +14,7 @@ social science, epidemiology, Indigenous public health, and international
 collaboration between Brazil and the United States.
 
 Student involvement may include research support, documentation and storytelling,
-or technical development, depending on interests and background.
+or technical development, depending on individual interests and background.
 
 <br>
 
@@ -46,6 +44,9 @@ Students interested in writing, communication, or community-facing work may:
   Terena.
 - Study the history of the Dourados Indigenous Reserve and Brazil’s Indigenous
   reserve system.
+- Publicize stories and findings on social media, in written pieces, and in
+  documentary videos in the four Project languages: Guarani and Terena in
+  addition to Portuguese and English. 
 - Compare Indigenous public-health contexts across Brazilian states, including:
   - **Mato Grosso do Sul**, where the city of Dourados and the Reserve are
     immediate neighbors,
@@ -53,9 +54,6 @@ Students interested in writing, communication, or community-facing work may:
     often distant from urban centers, and
   - **Bahia**, where Indigenous and non-Indigenous populations are more socially
     integrated.
-- Publicize stories and findings on social media, in written pieces, and in
-  documentary videos in the four Project languages: Guarani and Terena in
-  addition to Portuguese and English. 
 
 These comparisons help situate Dourados within a broader national context and
 highlight how social structure shapes public-health challenges.

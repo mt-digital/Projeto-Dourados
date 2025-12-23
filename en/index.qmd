@@ -52,12 +52,14 @@ behavior shapes disease spread**, contributing to improved pandemic
 preparedness and public health in Dourados and the surrounding
 Indigenous Reserve.
 
-::: large-link
+- ::: large-link
 Learn more about how to participate here:
 [Opportunities](/en/oportunidades.qmd).
 :::
-
-::: large-link
+- ::: large-link
+Learn more about our work: [Research](/en/oportunidades.qmd).
+:::
+- ::: large-link
 Stay informed:
 :::
 

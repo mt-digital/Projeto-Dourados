@@ -5,7 +5,7 @@ lang: pt
 
 # Oportunidades para Estudantes
 
-**Conexão comunitária, pesquisa avançada: impacto real em saúde pública**
+**Conexão com a comunidade e pesquisa avançada, com impacto real em saúde pública**
 
 O Projeto Dourados oferece oportunidades para estudantes motivados que desejam
 contribuir para uma iniciativa interdisciplinar de pesquisa e extensão na
@@ -13,8 +13,8 @@ interface entre ciências sociais, epidemiologia, saúde pública indígena e
 colaboração internacional entre o Brasil e os Estados Unidos.
 
 A participação estudantil pode incluir apoio à pesquisa, documentação e
-produção de narrativas, ou desenvolvimento técnico, de acordo com os interesses
-e a formação de cada pessoa.
+de acordo com os interesses e a formação de cada estudante.
+produção de narrativas, ou desenvolvimento técnico, 
 
 <br>
 
@@ -43,6 +43,9 @@ comunidade poderão:
   Terena.
 - Estudar a história da Reserva Indígena de Dourados e do sistema de reservas
   indígenas no Brasil.
+- Divulgar histórias e resultados em redes sociais, textos e vídeos
+  documentais, utilizando os quatro idiomas do Projeto: Guarani, Terena,
+  Português e Inglês.
 - Comparar contextos de saúde pública indígena em diferentes estados brasileiros,
   incluindo:
   - **Mato Grosso do Sul**, onde a cidade de Dourados e a Reserva são vizinhas
@@ -55,8 +58,10 @@ comunidade poderão:
 Essas comparações ajudam a situar Dourados em um contexto nacional mais amplo e
 a evidenciar como a estrutura social molda os desafios em saúde pública.
 
+![**A hospital in the city of Dourados displays both Portuguese and Guarani names of locations in hospital signage.**](images/clipboard-1239915012.png){width="710"}
 
-### Desenvolvimento de Ferramentas Baseadas em Ciências Sociais e Epidemiologia
+
+### Desenvolvimento de Ferramentas em Ciências Sociais e Epidemiologia
 
 Estudantes com interesse em dados, modelagem ou computação poderão:
 
@@ -71,7 +76,7 @@ Estudantes com interesse em dados, modelagem ou computação poderão:
   - e variantes circulantes da COVID-19.
 
 
-## Receba Atualizações
+## Receba Atualizações ✌️ 🇧🇷 🇺🇸 🔬👩‍💻 
 
 As oportunidades do projeto serão anunciadas nesta página à medida que se
 tornarem disponíveis.

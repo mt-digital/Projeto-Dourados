@@ -12,7 +12,7 @@ partir de um estudo de Albuquerque, Rezende e Simionatto, entre outros
 coautores, que acompanhou a disseminação de diferentes variantes do SARS-CoV-2
 na Reserva Indígena de Dourados [@AlbuquerqueRezende2023].
 
-Nossa pesquisa atual parte desse trabalho para investigar como a **estrutura
+Nossa pesquisa corrente parte desse trabalho para investigar como a **estrutura
 social** influenciou a transmissão da COVID-19 dentro da Reserva. Por estrutura
 social, entendemos algo simples: quem interage com quem — e com que frequência.
 A geografia molda essas interações, já que tendemos a nos encontrar mais com
@@ -40,7 +40,7 @@ longas histórias de ocupação indígena, deslocamentos forçados e políticas
 estatais que reuniram diferentes povos indígenas em um mesmo território.
 
 Atualmente, a Reserva abriga cerca de 18.000 moradores, distribuídos em duas
-aldeias: Bororó e Jaguapiru. Jaguapiru é a maior das duas, com aproximadamente o
+aldeias: Jaguapiru e Bororó. Jaguapiru é a maior das duas, com aproximadamente o
 dobro da população de Bororó. A população da Reserva inclui diferentes grupos
 indígenas, sendo os Guarani Kaiowá e os Terena os mais numerosos.
 
@@ -49,9 +49,11 @@ Dourados, mas também mantém dinâmicas sociais próprias. O mapa abaixo mostra
 localização da Reserva no Brasil, a relação entre as duas aldeias e a cidade, e
 os pontos utilizados para vigilância em saúde pública durante a pandemia.
 
-![**Mapa da Reserva Indígena de Dourados e da cidade no contexto do Brasil.**  
-A Reserva e suas duas aldeias são mostradas em relação à cidade de Dourados e à
-sua localização no território brasileiro.](../en/images/clipboard-1309800952.png){width="750px" .lightbox}
+![**Mapa da Reserva Indígena de Dourados e da cidade no contexto do Brasil.** A
+Reserva e suas duas aldeias são mostradas em relação à cidade de Dourados e à
+sua localização no território
+brasileiro.](../en/images/clipboard-1309800952.png){width="750px" .lightbox
+#fig-mapas}
 
 O cotidiano na Reserva depende de uma combinação de instituições coletivas e
 infraestrutura local. O hospital da Reserva funciona como um ponto central de
@@ -66,7 +68,7 @@ Paulo, Prof. Simionatto e Cais Simionelli. O hospital possui uma capela cristã 
 lado de uma estrutura cerimonial indígena com fogueira ritual (b). Estações
 públicas de saúde estão distribuídas pelo interior da Reserva (c,d). Comércios
 independentes, como a _Mercearia Conquista_, fazem parte da vida cotidiana na
-Reserva (e).](/imagens/clipboard-1663480214.png){width="1000"}
+Reserva (e).](/imagens/clipboard-1663480214.png){width="1000" #fig-um-passeio}
 
 
 ## Como a Estrutura Social Moldou a COVID-19 na Reserva
@@ -86,7 +88,8 @@ forma específica pela estrutura social, econômica e geográfica da Reserva.
 ![**Série temporal da disseminação da COVID-19 na Reserva Indígena de
 Dourados.**  
 Os gráficos mostram a evolução dos casos por aldeia e por etnia, com eventos
-importantes destacados.](../en/images/clipboard-2719146699.png){width="800"}
+importantes destacados.](../en/images/clipboard-2719146699.png){width="800"
+#fig-variants-timeseries}
 
 Em julho de 2020, os primeiros casos de COVID-19 (variante B.1.1) foram
 detectados tanto em Jaguapiru quanto em Bororó. Nesse momento inicial, porém,
@@ -141,7 +144,6 @@ análise mais detalhada da estrutura social como um fator central na dinâmica d
 transmissão da doença na Reserva.
 
 
-
 ### Questões em Aberto
 
 Os padrões descritos acima indicam que a estrutura social teve um papel central
@@ -167,8 +169,7 @@ baseado em simulações e métodos estatísticos. O modelo representa a transmis
 da doença a partir do deslocamento entre a Reserva e a cidade de Dourados,
 seguido da disseminação local moldada pelas redes de contato entre pessoas.
 
-![**Esboço do modelo de mobilidade, mistura social e interação para a dinâmica epidemiológica.**  
-Os parâmetros $c_{gg'}$ indicam a frequência de interação entre indivíduos de
+![**Esboço do modelo de mobilidade, mistura social e interação para a dinâmica epidemiológica.** Os parâmetros $c_{gg'}$ indicam a frequência de interação entre indivíduos de
 diferentes grupos $g$ e $g'$, definidos por aldeia ou etnia. O parâmetro
 $\gamma_g$ indica a frequência com que cada grupo se desloca até a cidade de
 Dourados.](../en/images/clipboard-2581785424.png){width=650 #fig-model .lightbox}

@@ -39,10 +39,10 @@ and state-led reservation policies, which brought together multiple Indigenous
 groups into a shared territory.
 
 Today, the Reserve is home to approximately 18,000 residents living in two
-distinct villages: Bororó and Jaguapiru. Jaguapiru is the larger of the two, with
+villages: Bororó and Jaguapiru. Jaguapiru is the larger of the two, with
 roughly twice the population of Bororó. The population includes members of
 multiple Indigenous groups, with Guarani Kaiowa and Terena comprising the largest
-shares of residents [PLACEHOLDER: population by ethnicity, if needed].
+shares of residents. 
 
 The spatial organization of the Reserve reflects its proximity to the city of
 Dourados while remaining socially and administratively distinct. Figure 1
@@ -50,9 +50,9 @@ situates the Reserve within Brazil and shows the relative locations of Bororó a
 Jaguapiru, along with sites used for public health surveillance during the
 COVID-19 pandemic.
 
-![**Location and geography of the Dourados Indigenous Reserve.**  
-The Reserve and its two villages are shown in relation to the city of Dourados and
-their position within Brazil.](images/clipboard-1309800952.png){width="750px"
+![**Location and geography of the Dourados Indigenous Reserve.** The Reserve and
+its two villages are shown in relation to the city of Dourados and their
+position within Brazil.](images/clipboard-1309800952.png){width="750px"
 .lightbox #fig-mapas}
 
 Daily life in the Reserve is supported by a mix of shared institutions and local
@@ -61,10 +61,10 @@ and includes both a Christian chapel and an outdoor ceremonial structure with a
 fire pit used for Indigenous spiritual practices. Smaller public health stations
 and independent storefronts provide essential services throughout the Reserve.
 
-![**Everyday institutions in the Dourados Indigenous Reserve.**  
-Scenes from the Reserve include the hospital, public health stations, and local
-independent storefronts.]( /imagens/clipboard-1663480214.png){width="750"
-.lightbox #fig-passeio-da-reserva}
+![**Everyday institutions in the Dourados Indigenous Reserve.** Scenes from the
+Reserve include the hospital, public health stations, and local independent
+storefronts.]( /imagens/clipboard-1663480214.png){width="750" .lightbox
+#fig-passeio-da-reserva}
 
 
 ## How Social Structure Shaped COVID-19 in the Reserve
