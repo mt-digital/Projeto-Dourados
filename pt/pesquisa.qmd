@@ -3,79 +3,213 @@ title: Pesquisa
 lang: pt
 ---
 
-# Um Programa para Melhorar a Saúde Indígena
+# Pesquisa para Melhorar a Saúde Indígena
 
-Povos indígenas têm sofrido mais com doenças epidêmicas e condições de saúde
-precárias do que outros grupos — e a COVID-19 não foi exceção [@Simionatto2020].
-Nosso grupo se formou a partir de um artigo de Albuquerque, Rezende e
-Simionatto, entre outros, que acompanhou diferentes variantes do SARS-CoV-2 à
-medida que se espalhavam pela Reserva Indígena de Dourados
-[@AlbuquerqueRezende2023].
+Povos indígenas têm enfrentado, historicamente, riscos maiores associados a
+doenças epidêmicas e condições de saúde precárias — e a COVID-19 não foi exceção
+[@Simionatto2020]. Este projeto dá continuidade a uma colaboração iniciada a
+partir de um estudo de Albuquerque, Rezende e Simionatto, entre outros
+coautores, que acompanhou a disseminação de diferentes variantes do SARS-CoV-2
+na Reserva Indígena de Dourados [@AlbuquerqueRezende2023].
 
-Esta pesquisa pode, em primeiro lugar, ajudar os moradores da Reserva Indígena
-de Dourados a se prepararem para futuras pandemias, ao fornecer uma ferramenta
-para avaliar computacionalmente estratégias de intervenção por meio de
-simulação. 
+Nossa pesquisa atual parte desse trabalho para investigar como a **estrutura
+social** influenciou a transmissão da COVID-19 dentro da Reserva. Por estrutura
+social, entendemos algo simples: quem interage com quem — e com que frequência.
+A geografia molda essas interações, já que tendemos a nos encontrar mais com
+pessoas que vivem perto de nós do que com aquelas que vivem longe. Além disso,
+agrupamentos culturais, étnicos e econômicos também influenciam esses padrões de
+contato.
 
-Gestores de saúde pública podem usar os resultados de estratégias de
-intervenção simuladas para selecionar e implementar aquela que promove a saúde
-de forma mais eficiente, salva vidas e conserva recursos de saúde pública em
-caso de emergências subsequentes. 
+O objetivo central desta pesquisa é apoiar os moradores da Reserva Indígena de
+Dourados na preparação para futuras pandemias. Para isso, desenvolvemos
+ferramentas computacionais que permitem testar diferentes estratégias de
+resposta por meio de simulações, ajudando a antecipar escolhas difíceis antes
+que crises aconteçam.
 
-As lições aprendidas ajudarão a preparar e
-prevenir a disseminação de doenças infecciosas em outras comunidades indígenas
-no Brasil e ao redor do mundo.
+Embora o trabalho esteja ancorado no contexto específico de Dourados, nossa
+intenção é que as ideias e métodos desenvolvidos aqui possam ser adaptados para
+fortalecer a prevenção e o controle de doenças em outras comunidades indígenas
+no Brasil e em outros países.
 
 
 ### A Reserva Indígena de Dourados
 
-- A Reserva Indígena de Dourados abriga cerca de 18.000 residentes, com uma
-  diversidade de etnias, vivendo em duas aldeias distintas: Bororó e Jaguapiru.
-  Jaguapiru é a maior delas, com aproximadamente o dobro da população de Bororó.
-- Dois grupos étnicos possuem os maiores contingentes populacionais na Reserva:
-  Guarani Kaiowá e Terena.
+A Reserva Indígena de Dourados está localizada no estado de Mato Grosso do Sul,
+no sudoeste do Brasil, ao lado da cidade de Dourados. Essa região é marcada por
+longas histórias de ocupação indígena, deslocamentos forçados e políticas
+estatais que reuniram diferentes povos indígenas em um mesmo território.
 
-![**Um passeio pela Reserva:** Em frente ao hospital da Reserva (a), da esquerda
-para a direita: Dr. Paulo, juntamente com o padre da igreja católica próxima ao
-hospital; atrás do Dr. Paulo, Prof. Simionatto e Cais Simionelli. O hospital tem
-uma capela cristã ao lado de uma estrutura cerimonial indígena com fogueira
-ritual (b). Servícios públicos de saúde são disponíveis às estações distribuido
-pela Reserva (c,d—veja o mapa abaixo para ver a localização das estações).
-Na Reserva, existem muitas lojas e outros pontos da atividade economica como a _Mercearia
-Conquista_ (e).](/imagens/clipboard-1663480214.png){width="1000"}
+Atualmente, a Reserva abriga cerca de 18.000 moradores, distribuídos em duas
+aldeias: Bororó e Jaguapiru. Jaguapiru é a maior das duas, com aproximadamente o
+dobro da população de Bororó. A população da Reserva inclui diferentes grupos
+indígenas, sendo os Guarani Kaiowá e os Terena os mais numerosos.
 
+A organização espacial da Reserva reflete sua proximidade com a cidade de
+Dourados, mas também mantém dinâmicas sociais próprias. O mapa abaixo mostra a
+localização da Reserva no Brasil, a relação entre as duas aldeias e a cidade, e
+os pontos utilizados para vigilância em saúde pública durante a pandemia.
 
-![**Mapa da Reserva Indígena de Dourados e da cidade no contexto do Brasil,** com detalhes adicionais mostrando a localização do Brasil nas Américas; a geografia das aldeias da Reserva, Bororó e Jaguapiru, em relação entre si e à cidade de Dourados; e os pontos de coleta de amostras. Mapas combinados a partir de @Cavalcante2019 para o mapa topográfico subjacente e @Schnaufer2023 para as camadas de aldeias, cidade e pontos de coleta de amostras (clínicas). O mapa das Américas é de domínio público; o mapa do Brasil é do [InfoEscola](https://www.infoescola.com/geografia/mapa-do-brasil/). Clique na imagem para ampliar e aplicar zoom.](../en/images/clipboard-1309800952.png){width="750px" .lightbox}
+![**Mapa da Reserva Indígena de Dourados e da cidade no contexto do Brasil.**  
+A Reserva e suas duas aldeias são mostradas em relação à cidade de Dourados e à
+sua localização no território brasileiro.](../en/images/clipboard-1309800952.png){width="750px" .lightbox}
+
+O cotidiano na Reserva depende de uma combinação de instituições coletivas e
+infraestrutura local. O hospital da Reserva funciona como um ponto central de
+atendimento e inclui tanto uma capela cristã quanto uma estrutura cerimonial
+indígena ao ar livre, com fogueira ritual. Além disso, estações públicas de
+saúde distribuídas pelo território oferecem atendimento básico, e comércios
+locais atendem às necessidades do dia a dia.
+
+![**Um passeio pela Reserva.** Em frente ao hospital da Reserva (a), da esquerda para a direita: Dr. Paulo,
+juntamente com o padre da igreja católica próxima ao hospital; atrás do Dr.
+Paulo, Prof. Simionatto e Cais Simionelli. O hospital possui uma capela cristã ao
+lado de uma estrutura cerimonial indígena com fogueira ritual (b). Estações
+públicas de saúde estão distribuídas pelo interior da Reserva (c,d). Comércios
+independentes, como a _Mercearia Conquista_, fazem parte da vida cotidiana na
+Reserva (e).](/imagens/clipboard-1663480214.png){width="1000"}
+
 
 ## Como a Estrutura Social Moldou a COVID-19 na Reserva
 
+Albuquerque, Rezende, Simionatto e seus coautores desenvolveram um sistema de
+sequenciamento genômico e monitoramento epidemiológico para acompanhar a
+disseminação de variantes da COVID-19 na Reserva ao longo da pandemia. Como o
+momento de chegada de uma variante pode determinar quais respostas de saúde
+pública são mais eficazes, esse sistema permitiu confirmar que as variantes do
+SARS-CoV-2 chegaram à Reserva aproximadamente ao mesmo tempo em que chegaram a
+outras regiões do Brasil.
+
+No entanto, os padrões observados de transmissão dentro da Reserva não foram
+uniformes. Em vários momentos, a disseminação da doença pareceu ser moldada de
+forma específica pela estrutura social, econômica e geográfica da Reserva.
 
 ![**Série temporal da disseminação da COVID-19 na Reserva Indígena de
-Dourados,** com eventos significativos destacados. Os primeiros casos da
-variante B.1.1 foram introduzidos pela etnia Guarani (1), seguidos cerca de um
-mês depois por um rápido aumento de casos em Jaguapiru entre a etnia Terena (2);
-vários meses depois, um rápido aumento em Bororó foi causado por um crescimento
-acelerado entre os Guarani (3). A variante Zeta foi introduzida no final de 2020
-(4), com um aumento rápido em torno do período de festas, especialmente em
-Jaguapiru entre os Guarani (5); posteriormente, em fevereiro, os casos
-aumentaram em Bororó entre os Terena (6).](../en/images/clipboard-2719146699.png){width="800"}
+Dourados.**  
+Os gráficos mostram a evolução dos casos por aldeia e por etnia, com eventos
+importantes destacados.](../en/images/clipboard-2719146699.png){width="800"}
+
+Em julho de 2020, os primeiros casos de COVID-19 (variante B.1.1) foram
+detectados tanto em Jaguapiru quanto em Bororó. Nesse momento inicial, porém,
+os casos estavam restritos a indivíduos da etnia Guarani Kaiowá (Tempo 1 em
+@fig-variants-timeseries). Cerca de um mês depois, observou-se um aumento
+acentuado de casos, mas dessa vez quase exclusivamente entre residentes da
+etnia Terena — e apenas na aldeia Jaguapiru (Tempo 2 em
+@fig-variants-timeseries).
+
+A variante B.1.1 continuou a circular em Jaguapiru ao longo de agosto e setembro
+de 2020. Durante esse período, os casos passaram a incluir indivíduos tanto da
+etnia Terena quanto da etnia Guarani, indicando uma ampliação progressiva do
+alcance da transmissão dentro da aldeia.
+
+O surto final associado à variante B.1.1 ocorreu vários meses depois e esteve
+concentrado principalmente na aldeia Bororó (Tempo 3 em
+@fig-variants-timeseries). Diferentemente das fases anteriores, esse aumento foi
+impulsionado sobretudo por infecções entre indivíduos Guarani. Como a variante
+já havia circulado anteriormente em Jaguapiru entre diferentes grupos étnicos,
+esse padrão sugere que o aumento tardio em Bororó refletiu uma transmissão
+retardada ao longo de trajetórias de interação entre as duas aldeias, e não uma
+nova introdução independente da variante.
+
+Um padrão semelhante foi observado após a introdução da variante Zeta (P.2) no
+final de 2020. Os casos de Zeta aumentaram rapidamente em Jaguapiru durante o
+período das festas de fim de ano, especialmente entre indivíduos Guarani
+(Tempos 4–5 em @fig-variants-timeseries). Posteriormente, os casos passaram a
+crescer em Bororó, novamente concentrados entre residentes da etnia Terena
+(Tempo 6).
+
+Como muitos indivíduos já haviam sido infectados em ondas anteriores, esse
+aumento é consistente com uma combinação de novas infecções e reinfecções, e
+não apenas com a disseminação em uma população totalmente suscetível. Ainda
+assim, mesmo sob condições de imunidade parcial, a sequência de disseminação
+entre aldeias e grupos étnicos se manteve.
+
+Consideradas em conjunto, as ondas associadas às variantes B.1.1 e Zeta exibem
+um padrão recorrente: aumentos iniciais concentrados em grupos e localidades
+específicos, seguidos por uma disseminação posterior para outros grupos e
+aldeias. A repetição desse padrão sob variantes distintas — e em contextos com
+históricos diferentes de infecção — sugere que trajetórias de interação
+socialmente estruturadas continuaram a moldar a transmissão da COVID-19 na
+Reserva.
+
+Esses resultados indicam que a disseminação da COVID-19 na Reserva foi moldada
+não apenas pelo momento de chegada das variantes, mas pela forma como as
+interações sociais estavam organizadas entre aldeias e grupos étnicos. Em vez
+de se espalhar de maneira homogênea por toda a população, a doença parece ter
+seguido caminhos de contato social estruturados, refletindo diferenças na
+frequência e nos padrões de interação entre grupos. Esses achados motivam uma
+análise mais detalhada da estrutura social como um fator central na dinâmica de
+transmissão da doença na Reserva.
+
+
+
+### Questões em Aberto
+
+Os padrões descritos acima indicam que a estrutura social teve um papel central
+na disseminação da COVID-19 na Reserva. Ainda assim, algumas questões importantes
+permanecem em aberto.
+
+Uma possibilidade é que a proximidade da aldeia Jaguapiru com a cidade de
+Dourados tenha contribuído para taxas mais altas de infecção. Se isso for o
+caso, estratégias futuras de preparação para pandemias poderiam se beneficiar
+do foco em moradores que precisam se deslocar à cidade por motivos econômicos.
+
+De forma mais ampla, independentemente de como um patógeno entra na Reserva, é
+a estrutura das interações sociais que determina como ele se espalha. O desafio
+é identificar quais formas de agrupar a população — por aldeia, por etnia, ou
+pela combinação dessas categorias — melhor representam a dinâmica observada da
+COVID-19.
 
 
 ## Projeto de Pesquisa Corrente
 
-![**Sketch of the mobility, social mixing, and interaction model for
-epidemiological dynamics.** The symbols $c_{gg'}$ indicate how frequnetly
-members from different groups $g$ and $g'$ interact—grouped by town residency or ethnicity.
-$\gamma_g$ indicates how frequenly each group travels to the city of
-Dourados.](../en/images/clipboard-2581785424.png){width=650}
+Este projeto busca formalizar essas ideias por meio de um modelo epidemiológico
+baseado em simulações e métodos estatísticos. O modelo representa a transmissão
+da doença a partir do deslocamento entre a Reserva e a cidade de Dourados,
+seguido da disseminação local moldada pelas redes de contato entre pessoas.
 
-We hypothesize that the 
+![**Esboço do modelo de mobilidade, mistura social e interação para a dinâmica epidemiológica.**  
+Os parâmetros $c_{gg'}$ indicam a frequência de interação entre indivíduos de
+diferentes grupos $g$ e $g'$, definidos por aldeia ou etnia. O parâmetro
+$\gamma_g$ indica a frequência com que cada grupo se desloca até a cidade de
+Dourados.](../en/images/clipboard-2581785424.png){width=650 #fig-model .lightbox}
 
-![**Sketches of model outcomes for the current project to plan a public health
-intervention under limited
-resources.** Groups will benefit differently to a quarantine
-public health intervention that targets all groups equally, and assuming zero
-reinfections (a). Intervention strategies can be tuned to achieve more efficient
-and equitable outcomes, even if that means unequitable allocation of resources
-(b).](../en/images/clipboard-721006767.png){width=750 .lightbox}
+Utilizamos dados empíricos para ajustar o modelo e identificar quais
+configurações produzem resultados mais próximos do que foi observado na
+pandemia. Com isso, buscamos responder a perguntas como:
 
+- quais agrupamentos sociais explicam melhor os dados observados;
+- se o deslocamento até a cidade teve um papel importante na introdução de
+  variantes;
+- se reinfecções contribuíram para ondas posteriores da doença.
+
+O modelo também permite comparar diferentes estratégias de intervenção quando
+os recursos são limitados, representando mudanças sociais como alterações nos
+parâmetros que controlam mobilidade e contato social.
+
+![**Esboços de resultados do modelo para o planejamento de intervenções de saúde
+pública sob recursos limitados.**  
+Os grupos se beneficiam de maneira diferente de uma intervenção de quarentena
+que trata todos de forma igual, assumindo ausência de reinfecções (a).
+Estratégias direcionadas podem produzir resultados mais eficientes e mais
+equitativos, mesmo quando a alocação de recursos não é igualitária (b).](../en/images/clipboard-721006767.png){width=750 #fig-results-sketch .lightbox}
+
+
+
+## Visão de Longo Prazo
+
+A eficiência é fundamental: recursos são limitados, e não é possível testar
+intervenções livremente no mundo real durante uma crise sanitária. Modelos e
+simulações ajudam não apenas a prever cenários, mas também a revelar lacunas em
+nosso conhecimento.
+
+Essas lacunas indicam onde pesquisas adicionais — como estudos antropológicos
+ou etnográficos — podem ser mais úteis. Vemos, assim, uma oportunidade concreta
+de fortalecer a saúde pública em comunidades indígenas, combinando trabalho de
+campo, colaboração local e ferramentas computacionais.
+
+Nossa visão de longo prazo é construir uma equipe ativa de pesquisadores e
+estudantes trabalhando em diálogo direto com a Reserva Indígena de Dourados,
+garantindo que o desenvolvimento de modelos e políticas esteja sempre ancorado
+na realidade local.
+
+# Referências

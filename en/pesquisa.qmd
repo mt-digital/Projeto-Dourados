@@ -3,87 +3,80 @@ title: Research
 lang: en 
 ---
 
+
 # Research to Improve Indigenous Health
 
-Indigenous peoples have suffered more from epidemic diseases and precarious
-health conditions than groups—COVID-19 was no exception [@Simionatto2020].  Our
-group came together following an article by Albuquerque, Rezende, Simionatto,
-with others, that tracked different SARS-CoV-2 variants as they spread through
-the Dourados Indigenous Reserve [@AlbuquerqueRezende2023].
+Indigenous peoples have long faced disproportionate risks from epidemic diseases
+and precarious health conditions. COVID-19 was no exception [@Simionatto2020].
 
-This research can first help residents of the Dourados Indigenous Reserve
-prepare for future pandemics by providing a tool to copmutationally evaluate
-intervention strategies through simulation. Public health planners can use the
-result of simulated intervention strategies to select and implement that best
-one that most efficiently promotes health, saves lives, and conserves public
-health resources in case of follow-on emergencies.  The lessons we learn will
-help prepare for and prevent the spread of infectious diseases in other
-Indigenous communities in Brazil and around the world.
+Projeto Dourados continues our collaboration that started when
+Albuquerque, Rezende, and Simionatto—together with other co-authors—tracked the
+spread of different SARS-CoV-2 variants within the Dourados Indigenous Reserve
+[@AlbuquerqueRezende2023].
 
+Our current research builds on their work by using original data to explain how
+social structure shaped transmission in the Reserve during COVID-19. Social
+structure means who interacts with whom, and how often. Geography shapes social
+structure: we interact more often with those nearby than far away. Cultural,
+ethnic, and economic groupings also shape these patterns.
+
+The goal of this research is to support residents of the Dourados Indigenous
+Reserve in preparing for future pandemics. We develop computational tools that
+allow different response strategies to be explored through simulation, making it
+possible to anticipate trade-offs before crises arise. 
+
+While grounded in the context of Dourados, we intend our work to be adaptable to 
+improve preparedness and disease prevention in other Indigenous communities in
+Brazil and beyond.
 
 
 ### The Dourados Indigenous Reserve
 
-- More about where the Reserve is, referring to the big Brazil map. 
-- History of Indigenous peoples, the Reserva system, planting some seeds for
-  explaining how Terena + Guarani Kaiowa and other Guarani came to live 
-  in this particular Reserve.
+The Dourados Indigenous Reserve is located in the state of Mato Grosso do Sul, in
+southwestern Brazil, adjacent to the city of Dourados (Figure 1). The Reserve lies
+within a region shaped by long histories of Indigenous settlement, displacement,
+and state-led reservation policies, which brought together multiple Indigenous
+groups into a shared territory.
 
-![**Map of Dourados Indigenous Reserve and city within Brazil.** with extra
-detail showing location of Brazil in the Americas; the geography of the Reserve
-towns Bororó and Jaguapiru in relation to each other and the city of Dourados;
-and sample collection points.Maps combined from @Cavalcante2019 for the underlying
-topographic map and @Schnaufer2023 for the villages, city, and 
-sample collection points (clinics) layer. Americas map is public domain; map of
-Brazil from [InfoEscola](https://www.infoescola.com/geografia/mapa-do-brasil/).
-Click image to expand and zoom
-in.](images/clipboard-1309800952.png){width="750px" .lightbox #fig-mapas}
+Today, the Reserve is home to approximately 18,000 residents living in two
+distinct villages: Bororó and Jaguapiru. Jaguapiru is the larger of the two, with
+roughly twice the population of Bororó. The population includes members of
+multiple Indigenous groups, with Guarani Kaiowa and Terena comprising the largest
+shares of residents [PLACEHOLDER: population by ethnicity, if needed].
 
-- The Dourados Indigenous Reserve is home to about 18,000 residents with a
-  variety of ethnicities, living in two distinct villages: Bororó and Jaguapiru.
-  Jaguapiru is the larger, with about twice the population of Bororó.
-- Two ethnic groups have the largest population size on the Reserve: Guarani
-  Kaiowa and Terena. 
+The spatial organization of the Reserve reflects its proximity to the city of
+Dourados while remaining socially and administratively distinct. Figure 1
+situates the Reserve within Brazil and shows the relative locations of Bororó and
+Jaguapiru, along with sites used for public health surveillance during the
+COVID-19 pandemic.
 
-![**A walk through the Reserve.** In (a), from left to right: Dr. Paulo—with
-the father of the Reserve's catholic church behind him, Prof. Simionatto,
-Caio Simonelli, and Matt Turner. The Reserve's hospital has both a Christian
-chapel and an outdoor ceremonial structure with a fire pit for Indigenous
-spiritual practices (b). 
-Public health stations in the interior of the Reserve 
-provide essential primary care for residents
-of the Dourados Reserve (c,d—see map below for the location of these). 
-Independent storefronts like the *Mercearia
-Conquista* (mer-say-ah-RI-ah con-QUIS-ta)—or, "the Cornerstore that Persevered"—can be found throughout the
-Dourados Reserve (e). Click image to
-expand and zoom in.](/imagens/clipboard-1663480214.png){width="750" .lightbox
-#fig-passeio-da-reserva}
+![**Location and geography of the Dourados Indigenous Reserve.**  
+The Reserve and its two villages are shown in relation to the city of Dourados and
+their position within Brazil.](images/clipboard-1309800952.png){width="750px"
+.lightbox #fig-mapas}
 
+Daily life in the Reserve is supported by a mix of shared institutions and local
+infrastructure (Figure 2). The Reserve’s hospital serves as a central hub for care
+and includes both a Christian chapel and an outdoor ceremonial structure with a
+fire pit used for Indigenous spiritual practices. Smaller public health stations
+and independent storefronts provide essential services throughout the Reserve.
+
+![**Everyday institutions in the Dourados Indigenous Reserve.**  
+Scenes from the Reserve include the hospital, public health stations, and local
+independent storefronts.]( /imagens/clipboard-1663480214.png){width="750"
+.lightbox #fig-passeio-da-reserva}
 
 
 ## How Social Structure Shaped COVID-19 in the Reserve
-
 
 Albuquerque, Rezenende, Simionatto, and their co-authors created a system for
 genomic sequencing and monitoring to track the spread of COVID-19 variants in
 the Reserve during the pandemic. Differences in arrival timing could determine
 which public health response would be most effective.  This allowed the
 authors to confirm that SARS-CoV-2 variants arrived in the Reserve when they
-arrived elsewhere in Brazil. However some observed transmission patters seem
+arrived elsewhere in Brazil. However several observed transmission patters seem
 to be uniquely shaped by the social, economic, and geographic structure of the
 Reserve.
-
-In July, 2020, the first COVID cases (variant B.1.1) 
-were detected both in the towns of Jaguapiru and Bororó. Apparently, however,
-only Guarani Kaiowá ethnicity individuals were among the first infected (Time 1
-in @fig-variants-timeseries). About a month later, a sharp increase
-in cases was detected—but in this case, infections were detected almost
-exclusively among ethnic Terena residents, and only in the Jaguapiru village
-(Time 2 in @fig-variants-timeseries). Variant B.1.1 continued to spread 
-in the Jaguapiru village over September and August, 2020, but infected
-individuals were of a mix of Terena and Guarani ethnicities over these months.
-
-The final surge in variant B.1.1 cases came...
 
 ![**Time series of COVID-19 spread through the Dourados Indigenous Reserve,**
 with significant events highlighted. Variant B.1.1 was first detected in
@@ -95,94 +88,137 @@ in Jaguapiru among Guarani (5); later in February cases rose in Bororó among th
 Terena (6).](images/clipboard-2719146699.png){width="800" .lightbox
 #fig-variants-timeseries}
 
+In July, 2020, the first COVID cases (variant B.1.1) 
+were detected both in the towns of Jaguapiru and Bororó. Apparently, however,
+only Guarani Kaiowá ethnicity individuals were among the first infected (Time 1
+in @fig-variants-timeseries). About a month later, a sharp increase
+in cases was detected—but in this case, infections were detected almost
+exclusively among ethnic Terena residents, and only in the Jaguapiru village
+(Time 2 in @fig-variants-timeseries). Variant B.1.1 continued to spread 
+in the Jaguapiru village over September and August, 2020, but infected
+individuals were of a mix of Terena and Guarani ethnicities over these months.
+
+The final surge in variant B.1.1 cases occurred several months later and was
+concentrated primarily in the Bororó village (Time 3 in
+@fig-variants-timeseries). Unlike earlier phases of spread, this increase was
+driven largely by infections among Guarani individuals. By this point, the
+variant had already circulated within Jaguapiru across multiple ethnic groups,
+suggesting that the later rise in Bororó reflected delayed transmission along
+interaction pathways linking the two villages rather than a new introduction.
+
+A similar pattern was observed following the introduction of the Zeta (P.2)
+variant at the end of 2020. Zeta cases rose rapidly in Jaguapiru around the
+holiday season, particularly among Guarani individuals (Times 4–5 in
+@fig-variants-timeseries), before appearing later in Bororó, where infections
+were again concentrated among Terena residents (Time 6). Because many
+individuals had already been infected during earlier waves, this surge is
+consistent with a combination of new infections and reinfections, rather than
+simple spread through a fully susceptible population.
+
+Across both variants, transmission followed a repeated sequence: early increases
+within specific ethnic groups and villages, followed by delayed spread to other
+groups and locations. The recurrence of this pattern under different variants,
+and under conditions where prior infection was common, suggests that socially
+structured interaction pathways continued to shape transmission even in the
+presence of partial immunity.
+
+Taken together, these patterns indicate that COVID-19 transmission within the
+Reserve was shaped not only by when variants arrived, but by how social
+interactions were structured across ethnic and village boundaries. Rather than
+diffusing uniformly through the population, infections appear to have moved along
+socially patterned pathways, reflecting differences in contact frequency and
+mixing across groups. These dynamics motivate a closer examination of social
+structure as a key driver of disease spread within the Reserve.
+
 
 ### Unanswered Questions
 
-Perhaps Jaguapiru's proximity to the city drives infection rates there. If this
-were true, then future pandemic preparedness plans might do well to focus
-resources on Jaguapiru residents who travel to the city due to economic
-necessity. 
+The patterns described above suggest that social structure played a central role
+in shaping COVID-19 transmission within the Reserve. However, several key
+questions remain unresolved.
 
-No matter how SARS-CoV-2 entered the Reserve, the structure of social
-interaction determines how it, or any other pathogen, spreads. But we do not
-know exactly which formula for creating groups best represents the COVID-19
-data. 
+Perhaps Jaguapiru’s proximity to the city drove higher infection rates there. If
+this were true, future pandemic preparedness plans might do well to focus
+resources on Jaguapiru residents who travel to the city due to economic
+necessity.
+
+More generally, no matter how SARS-CoV-2 entered the Reserve, the structure of
+social interaction determines how it—and any other pathogen—spreads. What
+remains unclear is which way of defining social groups best represents the
+observed COVID-19 dynamics.
 
 
 ## Current Research Project
 
-Turner is leading the effort to formalize the hypotheses above into an
-epidemiology simulation and statistical model of COVID-19 transmission 
-in the Reserve to plan public health interventions like incentivizing 
-staying home so residents do not feel it to be economically necessary. 
+Turner is leading an effort to formalize the hypotheses above into an
+epidemiological simulation and statistical model of COVID-19 transmission in the
+Reserve. The goal is to support public health planning for interventions such as
+incentivizing staying home, so that residents do not feel economically compelled
+to travel during outbreaks.
 
-We first use data gathered by Albuquerque, Rezende, and Simionatto
-to _fit_ the simulation model using statistics. This means we figure out how our
-computer model works by seeing which model configuration creates simulated data
-that best matches epidemiological observations. 
+We begin by using data gathered by Albuquerque, Rezende, and Simionatto to *fit*
+the simulation model using statistical inference. In practice, this means
+identifying which model configurations generate simulated data that most closely
+match observed epidemiological patterns.
 
-Our model represents transmission of disease through travel between Reserve and
-City, followed by the spread of disease, which is shaped by
-interpersonal contact networks. See the sketch of this model in @fig-model where mobility and interpersonal contact
-behaviors for different groups are represented by mathematical symbols—see figure caption for details. 
+The model represents disease transmission through travel between the Reserve and
+the city of Dourados, followed by local spread shaped by interpersonal contact
+networks. A schematic overview of this structure is shown in @fig-model, where
+mobility and contact behaviors for different social groups are represented
+symbolically.
 
-To figure out which version of this model most faithfully represents COVID-19 
-in the Reserve. In other words, we must _infer_ the following:
+To determine which version of this model most faithfully represents COVID-19 in
+the Reserve, we infer the following:
 
-1. Which social groupings (village, ethnicity, village$\times$ethnicity)
-   result in models that best match observations?
-2. Was travel to the city a significant factor for importing different variants?
-3. Did reinfection play a significant role in the Zeta outbreak in the Reserve? 
-
+1. Which social groupings (village, ethnicity, or village × ethnicity) produce
+   models that best match the observed data?
+2. Was travel to the city a significant factor in importing different variants?
+3. Did reinfection play a significant role in the Zeta outbreak in the Reserve?
 
 ![**Sketch of the mobility, social mixing, and interaction model for
-epidemiological dynamics.** The symbols $c_{gg'}$ indicate how frequnetly
-members from different groups $g$ and $g'$ interact—grouped by town residency or
-ethnicity.  $\gamma_g$ indicates how frequenly each group travels to the city of
-Dourados.](images/clipboard-2581785424.png){width=650 #fig-model .lightbox}
+epidemiological dynamics.** The parameters $c_{gg'}$ indicate how frequently
+members of groups $g$ and $g'$ interact, grouped by village or ethnicity.
+$\gamma_g$ indicates how frequently each group travels to the city of Dourados.](images/clipboard-2581785424.png){width=650 #fig-model .lightbox}
 
-While understanding is nice, we plan to do all this so that we can more 
-reliably prepare social interventions to stem the spread of disease once it 
-starts. Once we infer how a faithful model works, we can put it to work 
-planning interventions.
+While understanding these dynamics is valuable in its own right, our primary aim
+is to use this knowledge to prepare effective social interventions before
+outbreaks escalate. Once a faithful model has been inferred, it can be put to
+work evaluating intervention strategies.
 
-We use our method to infer which intervention strategy best limits the number of
-cases. Different intervention strategies are defined by their expenditure to
-achieve different social changes. In our model we represent social changes by
-changes in the parameter values that define mobility and social contact
-structure.
+We use the model to infer which intervention strategies most effectively limit
+the number of cases under constrained resources. Different strategies correspond
+to different expenditures aimed at producing specific social changes. In the
+model, these changes are represented as adjustments to parameters governing
+mobility and social contact structure.
 
-For example, say the government could spend money reduce the rate at which
-people travel to the city for one, several, or all of the social groups. The
-resources do not have to be spent evenly. One might imagine that since Jaguapiru
-is closer to the Reserve, that perhaps more Jaguapiru residents regularly travel
-to the city.
+For example, public funds might be used to reduce travel to the city for one,
+several, or all social groups. Resources need not be allocated evenly. Given
+Jaguapiru’s proximity to the city, one might plausibly expect residents of
+Jaguapiru to travel more frequently than those in Bororó.
 
-
-![**Sketches of model outcomes for the current project to plan a public health
-intervention under limited resources.** Groups will benefit differently to a
-quarantine public health intervention that targets all groups equally, and
-assuming zero reinfections (a). Intervention strategies can be tuned to achieve
-more efficient and equitable outcomes, even if that means unequitable allocation
-of resources (b).](images/clipboard-721006767.png){width=750 #fig-results-sketch .lightbox}
+![**Sketches of model outcomes for planning public health interventions under
+limited resources.** Groups benefit differently from quarantine-based
+interventions that target all groups equally, assuming zero reinfections (a).
+Targeted strategies can achieve more efficient and equitable outcomes, even when
+resource allocation itself is unequal (b).](images/clipboard-721006767.png){width=750 #fig-results-sketch .lightbox}
 
 
 ## Long-term Vision
 
-Efficiency is essential since resources are limited—we don't have the
-resources or time to experiment in the real world. 
+Efficiency is essential: resources are limited, and we do not have the time or
+capacity to experiment freely in the real world.
 
-Statistical and simulation trials are of course useful because they help us
-understand and predict real-world phenomena. However they serve another purpose
-that is not so directly seen. Models help highlight gaps in our understanding,
-that reveal where our efforts for additional basic anthropological research, 
-for example, could be best spent.
+Statistical and simulation studies are valuable not only because they help us
+understand and predict real-world phenomena, but also because they highlight gaps
+in our knowledge. These gaps can point to where additional basic research—such as
+anthropological or ethnographic work—would be most valuable.
 
-We have a unique and powerful opportunity to advance public health for
-Indigenous peoples. We plan to have a vibrant team of faculty and student researchers on the ground
-in Dourados documenting the Reserve and the epidemiological work being done
-there. This side of the project is essential to ground our development
-of powerful computational tools for public health policy.
+We see a unique opportunity to advance public health for Indigenous communities.
+Our long-term vision includes building a vibrant team of faculty and student
+researchers working on the ground in Dourados, documenting the Reserve and the
+public health efforts taking place there. This on-the-ground engagement is
+essential for grounding the development of effective computational tools for
+public health policy.
 
 
 # References
