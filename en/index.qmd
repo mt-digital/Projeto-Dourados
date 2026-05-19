@@ -136,17 +136,19 @@ the biological and social complexity of public health.
 {{< include /bio/_MatthewTurner-en.qmd >}}
 
 
-### Innovation and Research Interns
+### Trainees
 
-Student internships are our primary method for building capacity in Indigenous
-public health for Dourados, Brazil, and beyond. Innovation Interns focus on
-expanding access to our educational public health resources for residents of
-Indigenous Reserves. Research Interns help create and evaluate new methods,
-technologies, and knowledge while learning the latest science and techniques
-from the Directors and faculty leaders.
+Our trainees bring diverse expertise and backgrounds to Instituto Dourados,
+contributing to research, infrastructure, and outreach while developing
+their skills in an international, interdisciplinary environment. From
+student interns to early-career scientists, our trainees play a central
+role in advancing our mission and building capacity in Indigenous public
+health.
 
 
 {{< include /bio/_MarianaAlcantara-en.qmd >}}
+
+{{< include /bio/_ManjariMishra-en.qmd >}}
 
 
 ### Brazilian Faculty Leadership

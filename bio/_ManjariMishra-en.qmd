@@ -1,0 +1,27 @@
+<h4 class=name>Dr. Manjari Mishra - Assistant Executive Scientist</h4>
+![](/bio/foto/ManjariSingh.png){.float-left height=210px}
+Manjari is a biophysicist, pharmacologist, and infectious disease biologist
+specializing in analytical sciences and targeted therapeutics. She earned her
+Ph.D. in Membrane Biophysics and Chemical Biology from the Indian Institute of
+Technology Bombay, India, where she studied how pathogenic lipids from
+Mycobacterium tuberculosis alter host cellular functions through membrane
+organization and signaling pathways.
+
+Her research has since expanded into virology, antiviral strategies, and
+translational therapeutics, with a focus on understanding host–virus
+interactions and developing approaches for future pandemic preparedness. In
+addition to her research activities, Manjari serves as a consultant through GLG
+advisory engagements, is a member of the Stanford Science Consulting Group, and
+serves on the editorial board of Frontiers journals.
+
+Manjari became connected with Instituto Dourados through founders Izabela and
+Matt during the Stanford Pandemic Preparedness fellowship network, where she had
+the opportunity to learn about their impactful work in public health, indigenous
+health equity, and community-centered scientific initiatives. Inspired by their
+vision and commitment to social reform, she joined the institute to contribute
+her scientific expertise toward advancing global collaborations, strengthening
+research accessibility, and supporting initiatives focused on indigenous health,
+pandemic preparedness, and equitable healthcare innovation.
+
+Outside of research, she enjoys cooking, traveling, and mentoring young
+scientists.

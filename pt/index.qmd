@@ -137,17 +137,17 @@ da saúde pública.
 {{< include /bio/_MatthewTurner-pt.qmd >}}
 
 
-### Os Estagiários da Inovação e da Infraestrutura
+### Trainees
 
-Os estágios estudantis são nosso principal meio de desenvolver capacidade em
-saúde pública indígena em Dourados, Brasil, e além. Estagiários de Inovação
-concentram-se em ampliar o acesso aos nossos recursos educacionais de saúde
-pública para residentes de Reservas Indígenas. Estagiários de Pesquisa ajudam a
-criar e avaliar novos métodos, tecnologias e conhecimentos, ao mesmo tempo em
-que aprendem as mais recentes abordagens científicas e técnicas com os
-Diretores e docentes associados líderes.
+Nossos trainees trazem consigo uma diversidade de expertises e formações para o Instituto Dourados,
+contribuindo para a pesquisa, a infraestrutura e as ações de extensão, ao mesmo tempo em que
+desenvolvem suas habilidades em um ambiente internacional e interdisciplinar. De
+estagiários a cientistas em início de carreira, nossos trainees desempenham um papel central
+no avanço de nossa missão e na capacitação em saúde pública indígena.
 
 {{< include /bio/_MarianaAlcantara-pt.qmd >}}
+
+{{< include /bio/_ManjariMishra-pt.qmd >}}
 
 
 ### Coordenação do Instituto
