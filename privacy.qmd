@@ -1,0 +1,27 @@
+---
+title: "Privacy"
+---
+
+::: {#index-subtitle style="font-size: 1.7rem;"}
+Privacy / Privacidade
+:::
+
+🇺🇸 **The Instituto Dourados respects your privacy.**
+
+We collect only the information that you voluntarily provide to us, such as when you contact us by email. We do not sell or share personal information for advertising purposes.
+
+Some pages on this website include content provided by third parties, such as Google Maps and GoFundMe. These services may use cookies, collect technical information (such as your IP address or browser information), or process personal data in accordance with their own privacy policies. By interacting with embedded content, you may also be subject to the privacy practices of those providers.
+
+If you have questions about how your information is handled, please [**contact us
+by email**](contacto@institutodourados.org**).
+
+---
+
+🇧🇷 **O Instituto Dourados respeita a sua privacidade.**
+
+Coletamos apenas as informações que você nos fornece voluntariamente, como ao entrar em contato por e-mail. Não vendemos nem compartilhamos informações pessoais para fins de publicidade.
+
+Algumas páginas deste site incluem conteúdo fornecido por terceiros, como o Google Maps e o GoFundMe. Esses serviços podem utilizar cookies, coletar informações técnicas (como seu endereço IP ou informações do navegador) ou tratar dados pessoais de acordo com suas próprias políticas de privacidade. Ao interagir com esse conteúdo incorporado, você também poderá estar sujeito às práticas de privacidade desses fornecedores.
+
+Se você tiver dúvidas sobre o tratamento de suas informações, entre em
+[contato conosco pelo e-mail](contacto@institutodourados.org).

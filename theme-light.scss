@@ -7,8 +7,12 @@ $font-family-monospace: "Source Code Pro";
 $font-family-sans-serif:    "Inter:wght@300", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 $font-weight-base: 400 !default;
 
+
 code, pre {
   font-weight: 400; // or 300, or 400
 }
 
 
+// span.role {
+//   color: #303030;
+// }

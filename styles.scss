@@ -1,5 +1,6 @@
 /*-- scss:rules --*/
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Source+Code+Pro:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;300;400;500;600;700&family=Source+Code+Pro:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;350;400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@200;300;400;500;600;700&display=swap");
 
@@ -10,16 +11,25 @@ iframe {
 }
 
 div#quarto-content {
-  max-width: 1050px;
-  margin: 0 auto;
+  // max-width: 1050px;
+  // margin: auto auto;
+  a {
+    text-decoration: none;
+    // color: #29F;
+  }
 }
 
 main#quarto-document-content {
-  text-align: justify !important;
-  max-width: 54ch;
-  font-size: 18.5px !important;
+
+  // Paragraph settings
+  text-align: justify;
+  max-width: 64ch;
+  margin-left: auto;
+  margin-right: auto;
+  // Font settings
+  font-family: "Noto Sans";
   // font-family: "Source Sans Pro";
-  font-family: "Inter";
+  font-size: 17px;
 }
 
 /* Reduce list indentation slightly for narrower text columns */
@@ -68,24 +78,27 @@ $subtitle-fg: #fdfaf6;
 $heading-color: #849972;
 
 
-div#index-subtitle {
+div#index-subtitle p {
   color: $heading-color;
   font-weight: 600;
-  font-size: 25px;
+  font-size: 1.3rem;
   letter-spacing: 0.06rem;
   text-align: center;
   font-family: "Source Serif Pro";
 }
 
+
 .quarto-title-block .quarto-title-author {
   flex: 1 1 auto;
 }
+
 
 .quarto-title-block .quarto-title-date {
   flex: 0 0 auto;
   margin-left: auto;
   text-align: right;
 }
+
 
 .separator::before {
   content: "•";
@@ -182,30 +195,30 @@ div.hero-title {
   text-shadow: 0 3px 8px rgba(0,0,0,0.5);
 
   &:hover {
-    color: #FFEC58 !important; 
+    color: #FFEC58 !important;
     font-weight: 400 !important;
   }
-
 }
+
+
 .hero-nav a.active {
   color: #FFEC58 !important;
-  /* font-weight: 400 !important; */
 }
 
 
-/* PT nav */
-body.page-index   .nav-pt a[href="/pt/index.html"],
-body.page-oportunidades .nav-pt a[href="/pt/oportunidades.html"],
-body.page-pesquisa .nav-pt a[href="/pt/pesquisa.html"],
+// /* PT nav */
+// body.page-index   .nav-pt a[href="/pt/index.html"],
+// body.page-oportunidades .nav-pt a[href="/pt/oportunidades.html"],
+// body.page-pesquisa .nav-pt a[href="/pt/pesquisa.html"],
 
-/* EN nav */
-body.page-index   .nav-en a[href="/en/index.html"],
-body.page-oportunidades .nav-en a[href="/en/oportunidades.html"],
-body.page-pesquisa .nav-en a[href="/en/pesquisa.html"] {
-  font-weight: 600 !important;
-  color: #FFDF00;
-  border-bottom: 2px solid #FFDF00;
-}
+// /* EN nav */
+// body.page-index   .nav-en a[href="/en/index.html"],
+// body.page-oportunidades .nav-en a[href="/en/oportunidades.html"],
+// body.page-pesquisa .nav-en a[href="/en/pesquisa.html"] {
+//   font-weight: 600 !important;
+//   color: #FFDF00;
+//   border-bottom: 2px solid #FFDF00;
+// }
 
 
 /* Mobile 2-column nav -------------------------------------------------- */
@@ -226,37 +239,62 @@ body.page-pesquisa .nav-en a[href="/en/pesquisa.html"] {
   }
 }
 
-/* Hide Quarto-generated navbar since we replaced it ------------------- */
+/* Hide Quarto-generated navbar since we replaced it */
 .navbar,
 .navbar-container,
 #quarto-header {
   display: none !important;
 }
 
-/* Serious UNESCO-like typography for hero and headings */
+/* Sorta "institutional" headings with serif */
 .hero-title,
 .hero-nav a,
 .hero-lang a,
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Source Serif Pro", serif !important;
-  font-weight: 200;
+  font-family: "Source Serif Pro", serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  color: #849972;
+  // font-weight: 400;
 }
 
 
 h2 {
+
   border-bottom: 0.7px solid #dee2e6;
-  padding-bottom: .5rem;
-  font-size: 24px;
+  padding-bottom: .05rem;
+  font-weight: 500;
+  font-size: 1.40rem;
   margin-top: 1rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #849972;
-  font-weight: 400;
+
+h3.bioname {
+
+  margin-bottom: 0.25rem;
 }
-// .hero-nav a {
-//   font-weight: 200 !important;
-// }
+
+
+div.role {
+
+  color: $heading-color;
+  font-size: 1.45rem;
+  font-weight: 300;
+  font-family: 'Source Sans Pro';
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.05rem;
+  opacity: 0.85;
+}
+
+
+h2.team-header {
+  font-size: 1.6rem;
+  margin-top: 1.5rem;
+}
+
+
 .hero-title {
   font-weight: 300 !important;
   letter-spacing: 0.05em;
@@ -375,7 +413,7 @@ html[lang="en"] .nav-en { display: flex; }
 -------------------------------------------*/
 @media (max-width: 700px) {
   .hero-header {
-    
+
   }
   .hero-lang-switch {
     /* position: static; */
@@ -387,7 +425,7 @@ html[lang="en"] .nav-en { display: flex; }
     max-width: 80%;
   }
   p {
-    font-size: 16px; 
+    font-size: 16px;
   }
 }
 
@@ -406,6 +444,7 @@ div.large-link {
     color: $heading-color !important;
   }
 }
+
 
 
 /* ============================================
@@ -476,12 +515,18 @@ div.large-link {
 
   html[lang="pt"] h1 { font-size: 18px; }
   html[lang="en"] h1 { font-size: 22px; }
-  
+
+  // footer.footer div.nav-footer {
+  //   bottom: -0.35rem;
+  //   max-height: 20%;
+  // }
+
 }
 
 .brand-header {
   color: #3d5056;
 }
+
 .brand-subtitle {
   color: #b0c7c4;
 }
@@ -497,11 +542,28 @@ div.large-link {
 
   // resize automatically
   display: block;
-  max-width:200px;
+  max-width: 200px;
   width: auto;
+}
 
-  // 
-  /* width: 300px; */
-  /* margin-top: 0.75rem; */
-  /* margin-bottom: 1.5em; */
+
+footer.footer div.nav-footer {
+  position: fixed;
+  bottom: -1.3rem;
+  // bottom: 0;
+  // margin-bottom: 0.05rem;
+  width: 100%;
+  background: #333;
+  font-size: 1rem;
+  color: #AAA;
+
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: $heading-color;
+  }
 }

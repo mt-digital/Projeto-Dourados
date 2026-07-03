@@ -1,14 +1,27 @@
+##
+# Document structure and metadata specification for institutodourados.org
+#
+# Author: Matt Turner
+# Date: 25 June 2026
+#
+
 project:
   type: website
-  resources:
-    - qr/**
-    - imagens/qrcode_**
-    - contato.vcf
+
+
 
 website:
   title: "Instituto Dourados"
 
   favicon: sticker-favicon.jpg
+
+  page-footer:
+    left: |
+      [Accessibility](/accessibility.qmd) · [Privacy](/privacy.qmd)
+    center: |
+      © 2026 Instituto Dourados, California
+    right: |
+      [Contact](mailto:contacto@institutodourados.org)
 
 languages:
   pt:
@@ -21,15 +34,20 @@ languages:
 
 format:
   html:
+
     toc: true
     number-sections: false
+    # Navigation between languages is partly handled in css
+    css: langnav.css
+    # Custom HTML for the header, not Quarto/Boostrap default
     include-in-header: header.html
-    theme: 
+
+    theme:
       light:
         - styles.scss
         - theme-light.scss
       dark:
-        - darkly 
+        - darkly
         - styles.scss
         - theme-dark.scss
     fontsize: 1.1em

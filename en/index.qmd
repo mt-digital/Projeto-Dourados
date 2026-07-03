@@ -4,95 +4,64 @@ lang: en
 ---
 
 ::: {#index-subtitle}
-Indigenous Health and Social Dynamics in Vulnerable Communities
+Supporting Indigenous Peoples to Reclaim Their Public Health Autonomy
 :::
 
-The *Instituto Dourados* began when researchers from South and North America met at the
-Universidade Federal de Grande Dourados (UFGD), Mato Grosso do Sul,
-Brazil. *Dourado* means *golden* in English, so beyond the literal translation
-of *Instituto Dourados* to the *Dourados Institute*, our name is 
-a double meaning of something like "The Golden Institute".
+Instituto Dourados is an educational and research organization that supports Indigenous communities seeking greater autonomy in planning and guiding their own public health futures.
 
-We recognized the need for new efforts to bring together epidemiologists
-and social scientists, and to connect researchers from Brazil and the
-United States, so they could learn from one another and strengthen
-scientific ties between the two largest democracies in the Americas—both
-with rich Indigenous cultural heritage.
+Our mission is to translate basic research into practical tools that strengthen
+community capacity for public health. We combine epidemiology, quantitative
+social science, computational modeling, and long-term partnerships to build
+sustainable scientific and computational infrastructure that communities can
+own, operate, and improve themselves. Learn more about our long-term vision on
+our [Mission](mission.qmd) page.
 
-In both countries, Indigenous peoples have historically suffered more
-acutely from disease than colonial arrivals for a variety of reasons—and
-continue to do so, as the COVID-19 pandemic made clear.
+By openly documenting our methods, software, and research whenever possible, we
+hope others can build on our successes and learn from our challenges.
 
-In response, we developed a new educational and research exchange
-program to connect South and North American scientists, beginning with
-our two institutions, UFGD and Stanford University.
+We carry out this work in partnership with organizations in the Dourados
+Indigenous Reserve and with faculty, researchers, and students at the
+Universidade Federal da Grande Dourados (UFGD).
 
 
-## Current Fundraiser: Help Support our Bridge Year!
+### 501(c)(3) Tax-Exempt Status
 
-In Q1 of 2026, the last of the seed funding paid Dr. Turner's salary supporting
-his Instiuto Dourados work. Now we have a two-phase fundraising effort:
+Donations to Instituto Dourados are tax-deductible in the United States. We are a Flagship Institute of the federally recognized 501(c)(3) public charity, the [Generation of Participation in Democracy (GPD)](https://gpdamericas.org).
 
-1. **Help us avoid founder burnout** by providing support for work already done this
-   quarter (Q2 2026) by Drs. Turner and Rezende.
-2. **Fund the Instituto for the rest of 2026:** second half of Q2, all of Q3 and Q4.
+<span style="font-size: 1.075rem;">**Employer Identification Number (EIN): 41-4992913**</span>
 
-Once this is completed we will plan and launch a follow-up fundraiser for 2027
-and beyond to hire more amazing staff and serve more amazing student interns. 
+The Generation of Participation in Democracy is a California public benefit corporation registered with the California Department of Justice, as required for charitable organizations operating in the state.
 
-Please see the Generation of Participation in Democracy's detailed
-bridge year budget and spending plan:
-[gpdamericas.org/institutodourados](https://gpdamericas.org/institutodourados).
+### Help Launch Instituto Dourados
 
-Please support us! If you'd like to give less than \$1000, please contribute to
-the GoFundMe below. This serves as a rapid support system for 
+With our 501(c)(3) status now in place, we are launching our first fundraising campaign to support Instituto Dourados.
 
-If you would like to donate \$1000 or more, please contact the Giving team at
-our parent organization, the Generation of Participation in Democracy (GPD), by email:
-[giving@gpdamericas.org](mailto:giving@gpdamericas.org). This will enable us to
-avoid the 3% fee on all donations made via GoFundMe.
+During the remainder of 2026, we will recruit and train our first four interns from the Universidade Federal da Grande Dourados (UFGD), visit our partners in Dourados, deliver public lectures and workshops, and continue building our programs alongside the Indigenous communities we serve.
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-
-We are setting out to help vulnerable communities receive better healthcare by building stronger and more resilient public health infrastructure. We will achieve this by translating academic research we performed as postdoctoral fellows with the Stanford Medicine Pandemic Preparedness Hub, supported by our original benefactor, philanthropist Mrs. Jill Freidenrich of Atherton, California.
-
-This is not just computing and research infrastructure, but also human capacity infrastructure: we will vigorously build community with educational exchange, community outreach efforts, and publishing public health and educational materials in Guarani and Terena languages spoken at the Dourados Indigenous Reserve.
+A detailed overview of our planned activities, budget, and long-term fundraising goals is available on the [Instituto Dourados section of the GPD website](https://gpdamericas.org/institutodourados).
 
 
-## Our Institute
-
-The project builds on public health partnerships and research led by
-Prof. Simone Simionatto, her students, and colleagues at UFGD and
-beyond, which have advanced both the science and practice of public
-health in her community: the city of Dourados and the neighboring
-Dourados Indigenous Reserve.
-
-**We are currently recruiting UFGD students to work remotely with
-researchers in the United States**, with the possibility of visits from
-Stanford University researchers during the 2026 academic year.
-
-**One group of participants will help document and communicate Prof.
-Simionatto’s work**, including producing Guaraní- and Terena-language
-translations of this website and other Instituto Dourados materials.
-
-**Another group will advance interdisciplinary research on how social
-behavior shapes disease spread**, contributing to improved pandemic
-preparedness and public health in Dourados and the surrounding
-Indigenous Reserve.
+<!-- ***  GO FUND ME EMBED gfm-embed  *** -->
+<div
+  class="gfm-embed"
+  data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"
+>
+</div>
+<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<!-- ***  END GO FUND ME EMBED  *** -->
 
 
-### More Information and Updates
+For gifts of up to $1,000, we invite you to support us through our GoFundMe campaign.
 
-- ::: large-link
-Learn more about how to participate here:
-[Opportunities](/en/oportunidades.qmd).
-:::
-- ::: large-link
-Learn more about our work: [Research](/en/oportunidades.qmd).
-:::
-- ::: large-link
-Stay informed:
-:::
+If you are considering a larger contribution, please contact the Giving team at
+our parent organization, the Generation of Participation in Democracy (GPD), at
+[giving@gpdamericas.org](mailto:giving@gpdamericas.org). Donations made directly
+help us avoid GoFundMe processing fees, allowing more of your contribution to
+support our programs.
+
+
+
+### Stay Connected
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerQly0QI9YOhfjtkBXcCI1o6ktymFB1us33w3zbFd4NPpmIA/viewform?embedded=true" width="640" height="502" frameborder="0" marginheight="0" marginwidth="0">
 
@@ -100,116 +69,12 @@ Loading…
 
 </iframe>
 
-### Project Goals
-
-We have two primary short-term goals for project outputs over the next
-few years:
-
-1.  **Document public health conditions in the Dourados Indigenous
-    Reserve and how science is put into practice locally.** During the
-    COVID-19 pandemic, Prof. Simionatto tracked the spread of different
-    SARS-CoV-2 variants. In ongoing work, she coordinates with hospital
-    epidemiologists monitoring the origins and trajectories of new
-    outbreaks to enable rapid response if the next COVID-19—or
-    worse—emerges.
-
-2.  **Develop computational decision-support tools for pandemic
-    preparedness** that explicitly model how social and economic factors
-    influence disease spread.
-
-### How to Contribute
-
-We welcome students from epidemiology, social sciences, political
-science, international relations, and related fields who are interested
-in contributing during the upcoming academic year.
-
-If you have a research idea aligned with the project, are interested in
-working with us, or would like more information, please contact us:
-[contato\@projeto-dourados.org](mailto:contato@projeto-dourados.org)
-
-#### Timeline and Deliverables
-
--   **Q1 2026:** Recruit UFGD student participants; introductions; begin
-    projects.
--   **Q2 2026:** First journal article drafts; release short documentary
-    films (≤3-minute videos produced with mobile phones); publish
-    initial translations and web content.
--   **Q3 2026:** Revise and submit manuscripts; expand documentary and
-    outreach materials; continue collaboration.
--   **Q4 2026:** Synthesize project outputs; assess next phases of
-    collaboration and funding.
--   **2027 and beyond:** Sustain and expand the exchange program as
-    opportunities allow.
-
-
-
-## Our Team
-
-Our team is lean, founder-led, and execution-focused. We integrate research,
-education, and field deployment into a single pipeline, enabling rapid
-translation from theory to practice. Partnerships and internships expand
-capacity while keeping the work grounded in real-world impact. Interns
-contribute immediately, rapidly developing transferable skills and a global
-perspective.
-
-
-### Founding Directors
-
-Founders of Instituto Dourados and current directors, they first collaborated as
-inaugural postdoctoral fellows at the Pandemic Preparedness Hub at Stanford
-Medicine. Recognizing a shared commitment to Indigenous public health—shaped by
-distinct technical approaches—they converged on a model that is community-based,
-multidisciplinary, and multilingual. Instituto Dourados was established to
-cultivate a critical mass of researchers and policymakers equipped to address
-the biological and social complexity of public health.
-
-{{< include /bio/_IzabelaRezende-en.qmd >}}
-
-{{< include /bio/_MatthewTurner-en.qmd >}}
-
-
-### Innovation and Research Interns
-
-Student internships are our primary method for building capacity in Indigenous
-public health for Dourados, Brazil, and beyond. Innovation Interns focus on
-expanding access to our educational public health resources for residents of
-Indigenous Reserves. Research Interns help create and evaluate new methods,
-technologies, and knowledge while learning the latest science and techniques
-from the Directors and faculty leaders.
-
-
-{{< include /bio/_MarianaAlcantara-en.qmd >}}
-
-
-### Brazilian Faculty Leadership
-
-
--   Simone Simionatto — UFGD •
-    [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
--   Matheus de Carvalho Hernandez — UFGD •
-    [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
-
-### Student Leaders and Contributors
-
--   Laís Albuquerque de Oliveira — UFGD •
-    [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
--   Caio Gustavo Simonelli — UFGD • [CNPq Online
-    CV](http://lattes.cnpq.br/5480881995742161)
-
-## Foundational Support
-
-Instituto Dourados was made possible through the support of Mrs. Jill
-Freidenrich, whose funding provided fellowships and research support for
-Drs. Rezende and Turner at the Pandemic Preparedness Hub at Stanford
-Medicine. This support enabled Dr. Rezende to initiate collaboration with
-Prof. Simionatto, which Dr. Turner then joined. 
 
 <br>
 
-![**From left: Laís Albuquerque, Caio Simonelli, Simone Simionatto, and Matt
-Turner** at the Dourados Indigenous Reserve Hospital—the sign above us
-explains that the government health program SUS operates the hosopital to
-provide completely free health services to anyone who wants them, 
-and that all visitors have the right to quality
-care.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox
-width=420px}
+
+<div style="display: block; margin-left: auto; margin-right: auto; width: 27.5%;">
+![](/sticker-favicon.jpg)
+</div>
+
+

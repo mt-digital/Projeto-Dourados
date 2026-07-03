@@ -1,7 +1,9 @@
-<!-- header.html -->
-<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Source+Code+Pro:wght@400;500;600;700&display=swap">
-<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;350;400;500;600;700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@200;300;400;500;600;700&display=swap" rel="stylesheet"> -->
+<!--
+-- Multilingual header
+--
+-- Author: Matt Turner <matt@mat.phd>
+-- Date: 25 June 2026
+-->
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
@@ -48,40 +50,40 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
-<!-- HERO HEADER -->
+
+<!-- CUSTOM HEADER using the term "hero" perhaps idiosyncratically -->
 <div class="hero-header">
-  
+
   <div class="hero-title">Instituto Dourados</div>
- 
+
   <nav class="hero-nav nav-pt">
     <a href="/pt/index.html">Início</a>
-    <a href="/pt/oportunidades.html">Oportunidades</a>
-    <a href="/pt/pesquisa.html">Pesquisa</a>
-    <!-- <a href="/pt/doadores.html">Doadores</a> -->
+    <a href="/pt/team.html">Equipe</a>
+    <a href="/pt/mission.html">Missão</a>
   </nav>
-  
+
   <nav class="hero-nav nav-en">
-    <a href="/en/index.html">Home</a>
-    <a href="/en/oportunidades.html">Opportunities</a>
-    <a href="/en/pesquisa.html">Research</a>
-    <!-- <a href="/en/doadores.html">Donors</a> -->
+    <a href="/en/index.html">Welcome</a>
+    <a href="/en/team.html">Team</a>
+    <a href="/en/mission.html">Mission</a>
   </nav>
-  
+
   <div class="hero-lang-switch">
     <a id="switch-pt" data-lang="pt">Português 🇧🇷</a>
     <span class="sep">|</span>
     <a id="switch-en" data-lang="en">English 🇺🇸</a>
   </div>
-  
+
 </div>
+
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  
+
   function currentPath() {
     return window.location.pathname;
   }
-  
+
   // Switch to PT
   document.querySelector("#switch-pt").addEventListener("click", function (e) {
     e.preventDefault();
@@ -109,6 +111,16 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
+
+
+<script>
+
+$(document).ready(function () {
+  $('#div-spacer').css("height",$('.card-transaction:last').css("height"));
+});
+
+</script>
+
 
 </div>
 

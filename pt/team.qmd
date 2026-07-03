@@ -1,0 +1,159 @@
+---
+title: Equipe
+lang: pt
+---
+
+::: {#index-subtitle style="font-size: 1.7rem;"}
+Nossa Equipe
+:::
+
+## Liderança Fundadora {.team-header}
+
+O *Instituto Dourados* nasceu quando dois pesquisadores de Stanford, uma do
+Brasil e outro dos Estados Unidos, receberam bolsas de pesquisa para aplicar
+técnicas analíticas avançadas ao fortalecimento da preparação para futuras
+pandemias.
+
+Essa colaboração inicial permitiu que desenvolvêssemos nosso programa de
+pesquisa em conjunto e aprofundássemos nossas parcerias no Brasil. Desde então,
+ambos os fundadores viajam regularmente ao país para ouvir, observar, aprender
+e construir esse trabalho ao lado de nossos colaboradores brasileiros.
+
+### Dra. Izabela Mauricio de Rezende {.bioname}
+
+<div class="role">Diretora e Epidemiologista-Chefe</div>
+
+![](/bio/foto/IzabelaRezende.png){.float-left height=210px}
+
+A Dra. Rezende é virologista e pesquisadora na Faculdade de Medicina da
+Universidade Stanford, onde lidera estudos interdisciplinares sobre
+epidemiologia de doenças infecciosas e evolução viral. Seu trabalho integra
+vigilância genômica e intervenções em saúde pública para proteger populações
+vulneráveis, especialmente a partir das lições aprendidas durante a pandemia de
+COVID-19 no Brasil.
+
+No Instituto, Izabela coordena o recrutamento e as atividades do Conselho
+Científico Consultivo, garantindo que nossas iniciativas sejam fundamentadas em
+pesquisa rigorosa e colaboração internacional. Ela dedica-se ao fortalecimento
+de parcerias sustentáveis entre instituições locais, como a Universidade Federal
+da Grande Dourados (UFGD), e centros internacionais de pesquisa para promover a
+equidade em saúde indígena.
+
+Izabela é doutora em Microbiologia/Virologia pela Universidade Federal de Minas
+Gerais, mestre em Doenças Infecciosas e bacharel em Ciências Biológicas pela
+Universidade Federal de Juiz de Fora.
+
+### Dr. Matthew A. Turner {.bioname}
+
+<div class="role">Cientista Social-Chefe</div>
+
+![](/bio/foto/MatthewTurner.png){.float-left width=120px style="margin-top:1rem;"}
+
+O Dr. Turner é cientista social quantitativo e desenvolve pesquisa
+translacional voltada à construção de sociedades mais sustentáveis. Em 2023,
+recebeu o prêmio *Diversity and Social Inequality Award* da Cognitive Science
+Society por demonstrar como sociedades se tornam mais bem-sucedidas quando
+incluem grupos minoritários em seus processos de adaptação. Para ele, a saúde
+pública faz parte da sustentabilidade: uma população saudável é condição
+fundamental para a participação em sistemas sustentáveis.
+
+O Dr. Turner desenvolveu e ministrou disciplinas em ciência social quantitativa
+na Stanford Doerr School of Sustainability da Universidade Stanford. É doutor em
+Ciências Cognitivas e da Informação pela University of California, Merced,
+mestre em Física Aplicada pela Rice University e bacharel em Matemática e Física
+pela Syracuse University. Também trabalhou durante vários anos como
+desenvolvedor de software.
+
+## Cientistas {.team-header}
+
+### Dra. Manjari Mishra {.bioname}
+
+<div class="role">Epidemiologista</div>
+
+![](/bio/foto/ManjariMishra.png){.float-left width=120px style="margin-top:1rem;"}
+
+A Dra. Mishra é biofísica, farmacologista e bióloga especializada em doenças
+infecciosas, com atuação em ciências analíticas e terapias direcionadas.
+Concluiu seu doutorado em Biofísica de Membranas e Biologia Química no Indian
+Institute of Technology Bombay, onde investigou como lipídios patogênicos de
+*Mycobacterium tuberculosis* alteram funções celulares por meio da organização
+de membranas e de vias de sinalização. Desde então, sua pesquisa expandiu-se
+para virologia, estratégias antivirais e terapias translacionais, com foco na
+compreensão das interações entre hospedeiros e vírus e no desenvolvimento de
+abordagens para futuras pandemias.
+
+A Dra. Mishra integra o Instituto Dourados por compartilhar nosso compromisso
+com a equidade em saúde indígena e com iniciativas científicas centradas nas
+comunidades para fortalecer autonomia e capacidade em populações historicamente
+marginalizadas. Ela contribuirá para ampliar colaborações internacionais,
+expandir o acesso à pesquisa e liderar novas iniciativas voltadas à inovação em
+saúde.
+
+Fora da pesquisa, gosta de cozinhar, viajar e orientar jovens cientistas.
+
+## Estudantes Bolsistas {.team-header}
+
+Os estudantes bolsistas no Brasil, vinculados à Universidade Federal da Grande
+Dourados, desenvolvem suas atividades próximos à Reserva Indígena de Dourados e
+ajudam a ampliar o acesso da comunidade aos produtos e materiais desenvolvidos
+pelo Instituto.
+
+Os estudantes nos Estados Unidos contribuem para ampliar a capacidade de
+pesquisa do Instituto, participando de projetos científicos, da manutenção do
+site institucional e da coordenação de contribuições de software entre os
+bolsistas.
+
+### Mariana Barreto Alcantara {.bioname}
+
+<div class="role">Pesquisadora Bolsista</div>
+
+![](/bio/foto/MarianaAlcantara.png){.float-left style="margin-top:1rem;"}
+
+Mariana é estudante do primeiro ano da University of California, Berkeley,
+onde cursa dupla graduação em Neurociência e Administração de Empresas.
+Natural de Salvador, Bahia, viveu os últimos quatro anos nos Estados Unidos.
+Seu objetivo é aplicar os conhecimentos desenvolvidos no Instituto Dourados para
+fortalecer a saúde pública brasileira por meio da integração entre pesquisa
+científica interdisciplinar e impacto comunitário.
+
+No Instituto, Mariana contribui para pesquisas básicas, ações de comunicação em
+saúde pública voltadas à promoção de hábitos saudáveis e iniciativas de educação
+científica. Seu trabalho também abrange ciências sociais e epidemiologia
+computacional, desenvolvendo sistemas para visualização de dados em saúde
+pública e identificação dos fatores sociais que mais influenciam a disseminação
+de doenças em diferentes contextos.
+
+## Liderança Acadêmica Brasileira {.team-header}
+
+- Simone Simionatto — UFGD •
+  [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
+- Matheus de Carvalho Hernandez — UFGD •
+  [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
+
+### Lideranças Estudantis e Colaboradores
+
+- Laís Albuquerque de Oliveira — UFGD •
+  [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
+- Caio Gustavo Simonelli — UFGD •
+  [Currículo Lattes](http://lattes.cnpq.br/5480881995742161)
+
+![A fundadora Dra. Rezende com a Dra. Simone Simionatto e a pós-graduanda Laís
+Albuquerque de Oliveira no MedTrop 2024, em São
+Paulo.](/imagens/selected/simone-lais-iza.jpg){width=350px}
+
+## Apoio Fundador {.team-header}
+
+O Instituto Dourados tornou-se possível graças ao apoio da Sra. Jill
+Freidenrich, cujo financiamento proporcionou bolsas e apoio à pesquisa para os
+Drs. Rezende e Turner no Pandemic Preparedness Hub da Faculdade de Medicina da
+Universidade Stanford. Esse apoio permitiu que a Dra. Rezende iniciasse a
+colaboração com a Profa. Simone Simionatto, à qual o Dr. Turner se integrou
+posteriormente.
+
+<br>
+
+![**Da esquerda para a direita: Laís Albuquerque, Caio Simonelli, Simone
+Simionatto e Matt Turner** no Hospital da Reserva Indígena de Dourados. A placa
+ao fundo informa que o Sistema Único de Saúde (SUS) oferece atendimento gratuito
+e universal, garantindo a todas as pessoas o direito a serviços de saúde de
+qualidade.](/imagens/clipboard-3055226108.png){fig-align="center" .lightbox width=420px}
