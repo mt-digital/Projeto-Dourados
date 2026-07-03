@@ -56,6 +56,48 @@
     "text": "Apoiando Povos Indígenas na Construção da Autonomia em Saúde Pública\n\nO Instituto Dourados é uma organização de pesquisa e educação que apoia comunidades indígenas na construção de maior autonomia para planejar e conduzir seus próprios futuros em saúde pública.\nNossa missão é transformar pesquisa básica em ferramentas práticas que fortaleçam a capacidade comunitária em saúde pública. Combinamos epidemiologia, ciência social quantitativa, modelagem computacional e parcerias de longo prazo para desenvolver infraestrutura científica e computacional sustentável que as próprias comunidades possam operar, manter e aperfeiçoar. Saiba mais sobre nossa visão de longo prazo na página de Missão.\nAo documentarmos abertamente nossos métodos, softwares e pesquisas sempre que possível, esperamos que outras pessoas e organizações possam ampliar nossos sucessos e aprender com nossos desafios.\nRealizamos esse trabalho em parceria com organizações da Reserva Indígena de Dourados e com docentes, pesquisadores e estudantes da Universidade Federal da Grande Dourados (UFGD).\n\nOrganização Beneficente 501(c)(3)\nAs doações destinadas ao Instituto Dourados são dedutíveis do imposto de renda nos Estados Unidos. Somos um Instituto-Bandeira da organização beneficente reconhecida pelo governo federal dos Estados Unidos como isenta de impostos sob a seção 501(c)(3), a Generation of Participation in Democracy (GPD).\nEmployer Identification Number (EIN): 41-4992913\nA Generation of Participation in Democracy é uma corporação de benefício público registrada no Estado da Califórnia e em conformidade com as exigências do Departamento de Justiça da Califórnia para organizações beneficentes.\n\n\nAjude a Lançar o Instituto Dourados\nCom nosso reconhecimento como organização beneficente 501(c)(3), iniciamos nossa primeira campanha de arrecadação de recursos em apoio ao Instituto Dourados.\nAté o final de 2026, recrutaremos e capacitaremos nossos quatro primeiros estagiários da Universidade Federal da Grande Dourados (UFGD), visitaremos nossos parceiros em Dourados, ofereceremos palestras e oficinas e continuaremos desenvolvendo nossos programas em colaboração com as comunidades indígenas com as quais trabalhamos.\nUma descrição detalhada de nossas atividades planejadas, orçamento e metas de captação de recursos está disponível na página do Instituto Dourados no site da GPD.\n\n\n\n\nPara doações de até US$ 1.000, convidamos você a apoiar nosso trabalho por meio de nossa campanha no GoFundMe.\nCaso esteja considerando uma contribuição de maior valor, entre em contato com a equipe de captação de recursos de nossa organização mantenedora, a Generation of Participation in Democracy (GPD), pelo e-mail giving@gpdamericas.org. As doações feitas diretamente ajudam a evitar as taxas cobradas pelo GoFundMe, permitindo que uma parcela maior de sua contribuição seja destinada aos nossos programas.\n\n\nFique Conectado\n\n&lt;p&gt;Loading…&lt;/p&gt;"
   },
   {
+    "objectID": "en/mission.html",
+    "href": "en/mission.html",
+    "title": "Instituto Dourados",
+    "section": "",
+    "text": "Build Computational Autonomy for Indigenous Public Health\nInstituto Dourados develops the scientific, computational, and organizational capacity needed for Indigenous communities to guide their own public health futures.\nWe translate basic research into practical tools for public health planning by combining epidemiology, quantitative social science, computational modeling, and long-term community partnerships. Our work emphasizes computational autonomy: communities should be able to own, operate, and improve the scientific infrastructure they rely upon.\nOur long-term goal is to build privacy-preserving AI assistants powered by renewable energy. The same infrastructure will also serve as a publicly accessible distributed scientific computing cluster, strengthening local computational capacity.\nWe believe sustainable public health depends on strengthening local capacity rather than long-term dependence on external or expensive resources. To support this vision, we develop open-source software and sustainable computing systems that communities can operate, maintain, and improve themselves.\nModern science, artificial intelligence, and the technology industry are built upon an enormous foundation of open-source software. Just as industrial economies depended upon access to transportation networks and energy resources, meaningful participation in today’s computational economy depends upon access to this shared digital infrastructure.\nInstituto Dourados helps communities participate in the global open-source ecosystem not only as users, but also as contributors, innovators, and leaders. We believe Indigenous communities should have the same opportunity to build scientific software, computational infrastructure, and new technologies that reflect their own priorities while contributing to—and benefiting from—scientific and technological progress worldwide."
+  },
+  {
+    "objectID": "en/mission.html#foundations",
+    "href": "en/mission.html#foundations",
+    "title": "Instituto Dourados",
+    "section": "Foundations",
+    "text": "Foundations\nOur work builds on a long standing collaboration in the Dourados Indigenous Reserve. During the COVID-19 pandemic, Dr. Rezende and collaborators developed epidemiological information systems to track the arrival and spread of SARS-CoV-2 variants within the Reserve (Simionatto et al. 2020; Oliveira et al. 2023).\nThat work demonstrated the importance of understanding local social structure for public health planning. Instituto Dourados extends this foundation by developing computational methods that help communities anticipate future outbreaks, evaluate intervention strategies, and adapt these approaches to Indigenous communities throughout Brazil and beyond.\n\n\n\n\n\n\nFigure 1: Time series of COVID-19 spread through the Dourados Indigenous Reserve. Variant B.1.1 was first detected among the Guarani (1), followed about one month later by a rapid rise in cases in Jaguapiru among the Terena (2). Several months later, cases increased in Bororó following a rise among the Guarani (3). The Zeta variant was introduced at the end of 2020 (4), followed by a rapid rise in cases around the holiday season, especially in Jaguapiru among the Guarani (5), and later among the Terena in Bororó (6)."
+  },
+  {
+    "objectID": "en/mission.html#the-dourados-indigenous-reserve",
+    "href": "en/mission.html#the-dourados-indigenous-reserve",
+    "title": "Instituto Dourados",
+    "section": "The Dourados Indigenous Reserve",
+    "text": "The Dourados Indigenous Reserve\nThe Dourados Indigenous Reserve is located in the state of Mato Grosso do Sul in southwestern Brazil, adjacent to the city of Dourados. The Reserve lies within a region shaped by long histories of Indigenous settlement, displacement, and state-led reservation policies that brought multiple Indigenous peoples together in a shared territory.\n\n\n\n\n\n\nFigure 2: Location and geography of the Dourados Indigenous Reserve. The Reserve and its two villages are shown in relation to the city of Dourados and their location within Brazil.\n\n\n\nToday, approximately 18,000 people live in the Reserve’s two villages, Bororó and Jaguapiru. The population includes members of several Indigenous peoples, with the Guarani Kaiowá and Terena comprising the largest communities.\nThe Reserve is both the home of our collaborators and the place where our research is developed and evaluated in partnership with the local community.\n\n\n\n\n\n\nFigure 3: Everyday life in the Dourados Indigenous Reserve. The Reserve’s schools, public health facilities, local businesses, and community spaces form the everyday setting in which our work takes place."
+  },
+  {
+    "objectID": "en/mission.html#understanding-disease-transmission",
+    "href": "en/mission.html#understanding-disease-transmission",
+    "title": "Instituto Dourados",
+    "section": "Understanding Disease Transmission",
+    "text": "Understanding Disease Transmission\nDisease transmission depends not only on biology, but also on how people live, work, travel, and interact. We combine epidemiology with quantitative social science to understand how social structure shapes the spread of infectious diseases.\nOur current research asks several questions:\n\nWhich social groupings (village, ethnicity, or village × ethnicity) best explain observed transmission patterns?\nHow important is travel to the city in introducing new variants?\nUnder what conditions does reinfection substantially alter epidemic dynamics?\n\n\n\n\n\n\n\nFigure 4: Conceptual model of mobility and social mixing. Parameters \\(c_{gg'}\\) represent interaction frequencies between social groups, while \\(\\gamma_g\\) represents travel between each group and the city of Dourados."
+  },
+  {
+    "objectID": "en/mission.html#computational-public-health",
+    "href": "en/mission.html#computational-public-health",
+    "title": "Instituto Dourados",
+    "section": "Computational Public Health",
+    "text": "Computational Public Health\nUnderstanding disease transmission is only the first step. Our goal is to translate scientific understanding into practical decision-support tools for communities and public health professionals.\nWe develop computational models that allow alternative intervention strategies to be explored before future outbreaks occur. These models help evaluate how limited resources can be allocated to reduce disease transmission while balancing efficiency, equity, and local priorities.\n\n\n\n\n\n\nFigure 5: Evaluating public health interventions under limited resources. Different intervention strategies produce different public health outcomes. Targeted approaches can improve both efficiency and equity while operating under the same resource constraints."
+  },
+  {
+    "objectID": "en/mission.html#long-term-vision",
+    "href": "en/mission.html#long-term-vision",
+    "title": "Instituto Dourados",
+    "section": "Long-term Vision",
+    "text": "Long-term Vision\nOur long-term vision is to build a vibrant community of Indigenous partners, faculty, students, and researchers working together to advance Indigenous public health through open science and computational autonomy.\nBy combining community partnerships, sustainable computing infrastructure, and open-source scientific software, we aim to create public health systems that communities can understand, govern, and improve themselves. We believe this integration of field research, computational science, and local ownership offers a durable foundation for Indigenous public health in Brazil and beyond."
+  },
+  {
     "objectID": "en/index.html",
     "href": "en/index.html",
     "title": "Home",
@@ -103,48 +145,6 @@
     "title": "Team",
     "section": "Foundational Support",
     "text": "Foundational Support\nInstituto Dourados was made possible through the support of Mrs. Jill Freidenrich, whose funding provided fellowships and research support for Drs. Rezende and Turner at the Pandemic Preparedness Hub at Stanford Medicine. This support enabled Dr. Rezende to initiate collaboration with Prof. Simionatto, which Dr. Turner then joined.\n\n\n\n\n\n\n\n\nFrom left: Laís Albuquerque, Caio Simonelli, Simone Simionatto, and Matt Turner at the Dourados Indigenous Reserve Hospital—the sign above us explains that the government health program SUS operates the hosopital to provide completely free health services to anyone who wants them, and that all visitors have the right to quality care."
-  },
-  {
-    "objectID": "en/mission.html",
-    "href": "en/mission.html",
-    "title": "Instituto Dourados",
-    "section": "",
-    "text": "Build Computational Autonomy for Indigenous Public Health\nInstituto Dourados develops the scientific, computational, and organizational capacity needed for Indigenous communities to guide their own public health futures.\nWe translate basic research into practical tools for public health planning by combining epidemiology, quantitative social science, computational modeling, and long-term community partnerships. Our work emphasizes computational autonomy: communities should be able to own, operate, and improve the scientific infrastructure they rely upon.\nOur long-term goal is to build privacy-preserving AI assistants powered by renewable energy. The same infrastructure will also serve as a publicly accessible distributed scientific computing cluster, strengthening local computational capacity.\nWe believe sustainable public health depends on strengthening local capacity rather than long-term dependence on external or expensive resources. To support this vision, we develop open-source software and sustainable computing systems that communities can operate, maintain, and improve themselves.\nModern science, artificial intelligence, and the technology industry are built upon an enormous foundation of open-source software. Just as industrial economies depended upon access to transportation networks and energy resources, meaningful participation in today’s computational economy depends upon access to this shared digital infrastructure.\nInstituto Dourados helps communities participate in the global open-source ecosystem not only as users, but also as contributors, innovators, and leaders. We believe Indigenous communities should have the same opportunity to build scientific software, computational infrastructure, and new technologies that reflect their own priorities while contributing to—and benefiting from—scientific and technological progress worldwide."
-  },
-  {
-    "objectID": "en/mission.html#foundations",
-    "href": "en/mission.html#foundations",
-    "title": "Instituto Dourados",
-    "section": "Foundations",
-    "text": "Foundations\nOur work builds on a long standing collaboration in the Dourados Indigenous Reserve. During the COVID-19 pandemic, Dr. Rezende and collaborators developed epidemiological information systems to track the arrival and spread of SARS-CoV-2 variants within the Reserve (Simionatto et al. 2020; Oliveira et al. 2023).\nThat work demonstrated the importance of understanding local social structure for public health planning. Instituto Dourados extends this foundation by developing computational methods that help communities anticipate future outbreaks, evaluate intervention strategies, and adapt these approaches to Indigenous communities throughout Brazil and beyond.\n\n\n\n\n\n\nFigure 1: Time series of COVID-19 spread through the Dourados Indigenous Reserve. Variant B.1.1 was first detected among the Guarani (1), followed about one month later by a rapid rise in cases in Jaguapiru among the Terena (2). Several months later, cases increased in Bororó following a rise among the Guarani (3). The Zeta variant was introduced at the end of 2020 (4), followed by a rapid rise in cases around the holiday season, especially in Jaguapiru among the Guarani (5), and later among the Terena in Bororó (6)."
-  },
-  {
-    "objectID": "en/mission.html#the-dourados-indigenous-reserve",
-    "href": "en/mission.html#the-dourados-indigenous-reserve",
-    "title": "Instituto Dourados",
-    "section": "The Dourados Indigenous Reserve",
-    "text": "The Dourados Indigenous Reserve\nThe Dourados Indigenous Reserve is located in the state of Mato Grosso do Sul in southwestern Brazil, adjacent to the city of Dourados. The Reserve lies within a region shaped by long histories of Indigenous settlement, displacement, and state-led reservation policies that brought multiple Indigenous peoples together in a shared territory.\n\n\n\n\n\n\nFigure 2: Location and geography of the Dourados Indigenous Reserve. The Reserve and its two villages are shown in relation to the city of Dourados and their location within Brazil.\n\n\n\nToday, approximately 18,000 people live in the Reserve’s two villages, Bororó and Jaguapiru. The population includes members of several Indigenous peoples, with the Guarani Kaiowá and Terena comprising the largest communities.\nThe Reserve is both the home of our collaborators and the place where our research is developed and evaluated in partnership with the local community.\n\n\n\n\n\n\nFigure 3: Everyday life in the Dourados Indigenous Reserve. The Reserve’s schools, public health facilities, local businesses, and community spaces form the everyday setting in which our work takes place."
-  },
-  {
-    "objectID": "en/mission.html#understanding-disease-transmission",
-    "href": "en/mission.html#understanding-disease-transmission",
-    "title": "Instituto Dourados",
-    "section": "Understanding Disease Transmission",
-    "text": "Understanding Disease Transmission\nDisease transmission depends not only on biology, but also on how people live, work, travel, and interact. We combine epidemiology with quantitative social science to understand how social structure shapes the spread of infectious diseases.\nOur current research asks several questions:\n\nWhich social groupings (village, ethnicity, or village × ethnicity) best explain observed transmission patterns?\nHow important is travel to the city in introducing new variants?\nUnder what conditions does reinfection substantially alter epidemic dynamics?\n\n\n\n\n\n\n\nFigure 4: Conceptual model of mobility and social mixing. Parameters \\(c_{gg'}\\) represent interaction frequencies between social groups, while \\(\\gamma_g\\) represents travel between each group and the city of Dourados."
-  },
-  {
-    "objectID": "en/mission.html#computational-public-health",
-    "href": "en/mission.html#computational-public-health",
-    "title": "Instituto Dourados",
-    "section": "Computational Public Health",
-    "text": "Computational Public Health\nUnderstanding disease transmission is only the first step. Our goal is to translate scientific understanding into practical decision-support tools for communities and public health professionals.\nWe develop computational models that allow alternative intervention strategies to be explored before future outbreaks occur. These models help evaluate how limited resources can be allocated to reduce disease transmission while balancing efficiency, equity, and local priorities.\n\n\n\n\n\n\nFigure 5: Evaluating public health interventions under limited resources. Different intervention strategies produce different public health outcomes. Targeted approaches can improve both efficiency and equity while operating under the same resource constraints."
-  },
-  {
-    "objectID": "en/mission.html#long-term-vision",
-    "href": "en/mission.html#long-term-vision",
-    "title": "Instituto Dourados",
-    "section": "Long-term Vision",
-    "text": "Long-term Vision\nOur long-term vision is to build a vibrant community of Indigenous partners, faculty, students, and researchers working together to advance Indigenous public health through open science and computational autonomy.\nBy combining community partnerships, sustainable computing infrastructure, and open-source scientific software, we aim to create public health systems that communities can understand, govern, and improve themselves. We believe this integration of field research, computational science, and local ownership offers a durable foundation for Indigenous public health in Brazil and beyond."
   },
   {
     "objectID": "pt/mission.html",
