@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://institutodourados.org/pt/index.html</loc>
-    <lastmod>2026-05-16T02:03:45.344Z</lastmod>
+    <loc>https://institutodourados.org/privacy.html</loc>
+    <lastmod>2026-07-02T23:30:24.452Z</lastmod>
   </url>
   <url>
-    <loc>https://institutodourados.org/pt/oportunidades.html</loc>
-    <lastmod>2026-04-16T12:39:50.493Z</lastmod>
+    <loc>https://institutodourados.org/pt/team.html</loc>
+    <lastmod>2026-07-02T21:53:50.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://institutodourados.org/pt/index.html</loc>
+    <lastmod>2026-07-02T19:28:47.588Z</lastmod>
   </url>
   <url>
     <loc>https://institutodourados.org/oportunidades.html</loc>
-    <lastmod>2026-04-16T12:39:50.487Z</lastmod>
+    <lastmod>2026-06-14T05:22:58.549Z</lastmod>
   </url>
   <url>
     <loc>https://institutodourados.org/en/index.html</loc>
-    <lastmod>2026-05-16T02:03:45.344Z</lastmod>
+    <lastmod>2026-07-03T00:06:30.214Z</lastmod>
   </url>
   <url>
-    <loc>https://institutodourados.org/en/oportunidades.html</loc>
-    <lastmod>2026-04-16T12:39:50.370Z</lastmod>
+    <loc>https://institutodourados.org/en/team.html</loc>
+    <lastmod>2026-07-02T14:58:43.631Z</lastmod>
   </url>
   <url>
-    <loc>https://institutodourados.org/en/pesquisa.html</loc>
-    <lastmod>2026-04-16T12:39:50.370Z</lastmod>
+    <loc>https://institutodourados.org/en/mission.html</loc>
+    <lastmod>2026-07-02T20:57:28.417Z</lastmod>
   </url>
   <url>
     <loc>https://institutodourados.org/index.html</loc>
-    <lastmod>2026-04-16T12:39:50.487Z</lastmod>
+    <lastmod>2026-06-14T05:22:58.549Z</lastmod>
   </url>
   <url>
     <loc>https://institutodourados.org/pesquisa.html</loc>
-    <lastmod>2026-04-16T12:39:50.487Z</lastmod>
+    <lastmod>2026-06-14T05:22:58.549Z</lastmod>
   </url>
   <url>
-    <loc>https://institutodourados.org/pt/pesquisa.html</loc>
-    <lastmod>2026-04-16T12:39:50.493Z</lastmod>
+    <loc>https://institutodourados.org/pt/mission.html</loc>
+    <lastmod>2026-07-02T21:43:52.214Z</lastmod>
+  </url>
+  <url>
+    <loc>https://institutodourados.org/accessibility.html</loc>
+    <lastmod>2026-07-02T23:15:25.711Z</lastmod>
   </url>
 </urlset>

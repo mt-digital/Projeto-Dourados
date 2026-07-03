@@ -1,0 +1,21 @@
+/**
+ * Multilingual navbar routing ergonomically handled in CSS.
+ *
+ * Author: Matt Turner <matt@mat.phd>
+ * Date: 25 June 2026
+ */
+
+
+/* PT nav */
+body.page-index   .nav-pt a[href="/pt/index.html"],
+body.page-oportunidades .nav-pt a[href="/pt/oportunidades.html"],
+body.page-pesquisa .nav-pt a[href="/pt/pesquisa.html"],
+
+/* EN nav */
+body.page-index   .nav-en a[href="/en/index.html"],
+body.page-oportunidades .nav-en a[href="/en/oportunidades.html"],
+body.page-pesquisa .nav-en a[href="/en/pesquisa.html"] {
+  font-weight: 600 !important;
+  color: #FFDF00;
+  border-bottom: 2px solid #FFDF00;
+}
