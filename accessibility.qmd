@@ -7,8 +7,8 @@ lang: en
 Acessibilidade/Accessibility
 :::
 
- 🇧🇷 Estamos comprometidos em tornar o site do Instituto Dourados acessível e
-utilizável para todas as pessoas visitantes.
+ 🇧🇷 **Estamos comprometidos em tornar o site do Instituto Dourados acessível e
+utilizável para todas as pessoas visitantes.**
 
 Este site ainda está em desenvolvimento, e a acessibilidade faz parte ativa
 desse trabalho. Estamos revisando nossas páginas, estrutura, imagens, cores,
@@ -16,12 +16,12 @@ links e linguagem para que mais pessoas possam ler, navegar e usar o site com
 conforto.
 
 Se você encontrar uma barreira de acessibilidade ou tiver uma sugestão, entre em
-[contato conosco pelo e-mail](contacto@institutodourados.org).
+[contato conosco pelo e-mail](mailto:contato@institutodourados.org).
 
 ---
 
-🇺🇸 We are committed to making the Instituto Dourados website accessible and usable
-for all visitors.
+🇺🇸 **We are committed to making the Instituto Dourados website accessible and usable
+for all visitors.**
 
 This website is still growing, and accessibility is an active part of that
 work.
@@ -29,4 +29,4 @@ We are reviewing our pages, structure, images, colors, links, and language so
 that more people can read, navigate, and use the site comfortably.
 
 If you experience an accessibility barrier or have a suggestion, please
-[click here to email us](mailto:contacto@institutodourados.org).
+[click here to email us](mailto:contato@institutodourados.org).
