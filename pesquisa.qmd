@@ -1,3 +1,0 @@
-<script>
-  location.replace("/pt/pesquisa.html");
-</script>
