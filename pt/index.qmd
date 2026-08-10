@@ -40,34 +40,34 @@ a seção 501(c)(3), a [Generation of Participation in Democracy
 A Generation of Participation in Democracy é uma corporação de benefício público registrada no Estado da Califórnia e em conformidade com as exigências do Departamento de Justiça da Califórnia para organizações beneficentes.
 
 
-### Ajude a Lançar o Instituto Dourados
+<!-- ### Ajude a Lançar o Instituto Dourados -->
 
-Com nosso reconhecimento como organização beneficente 501(c)(3), iniciamos nossa
-primeira campanha de arrecadação de recursos em apoio ao Instituto Dourados.
+<!-- Com nosso reconhecimento como organização beneficente 501(c)(3), iniciamos nossa -->
+<!-- primeira campanha de arrecadação de recursos em apoio ao Instituto Dourados. -->
 
-Até o final de 2026, recrutaremos e capacitaremos nossos quatro primeiros
-estagiários da Universidade Federal da Grande Dourados (UFGD), visitaremos
-nossos parceiros em Dourados, ofereceremos palestras e oficinas e continuaremos
-desenvolvendo nossos programas em colaboração com as comunidades indígenas com
-as quais trabalhamos.
+<!-- Até o final de 2026, recrutaremos e capacitaremos nossos quatro primeiros -->
+<!-- estagiários da Universidade Federal da Grande Dourados (UFGD), visitaremos -->
+<!-- nossos parceiros em Dourados, ofereceremos palestras e oficinas e continuaremos -->
+<!-- desenvolvendo nossos programas em colaboração com as comunidades indígenas com -->
+<!-- as quais trabalhamos. -->
 
-Uma descrição detalhada de nossas atividades planejadas, orçamento e metas de
-captação de recursos está disponível na [página do Instituto Dourados no site da
-GPD](https://gpdamericas.org/institutodourados).
+<!-- Uma descrição detalhada de nossas atividades planejadas, orçamento e metas de -->
+<!-- captação de recursos está disponível na [página do Instituto Dourados no site da -->
+<!-- GPD](https://gpdamericas.org/institutodourados). -->
 
-<div class="gfm-embed"
-data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"></div><script
-defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<!-- <div class="gfm-embed" -->
+<!-- data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"></div><script -->
+<!-- defer src="https://www.gofundme.com/static/js/embed.js"></script> -->
 
-Para doações de até US$ 1.000, convidamos você a apoiar nosso trabalho por meio
-de nossa campanha no GoFundMe.
+<!-- Para doações de até US$ 1.000, convidamos você a apoiar nosso trabalho por meio -->
+<!-- de nossa campanha no GoFundMe. -->
 
-Caso esteja considerando uma contribuição de maior valor, entre em contato com a
-equipe de captação de recursos de nossa organização mantenedora, a Generation of
-Participation in Democracy (GPD), pelo e-mail
-[giving@gpdamericas.org](mailto:giving@gpdamericas.org). As doações feitas
-diretamente ajudam a evitar as taxas cobradas pelo GoFundMe, permitindo que uma
-parcela maior de sua contribuição seja destinada aos nossos programas.
+<!-- Caso esteja considerando uma contribuição de maior valor, entre em contato com a -->
+<!-- equipe de captação de recursos de nossa organização mantenedora, a Generation of -->
+<!-- Participation in Democracy (GPD), pelo e-mail -->
+<!-- [giving@gpdamericas.org](mailto:giving@gpdamericas.org). As doações feitas -->
+<!-- diretamente ajudam a evitar as taxas cobradas pelo GoFundMe, permitindo que uma -->
+<!-- parcela maior de sua contribuição seja destinada aos nossos programas. -->
 
 
 

@@ -12,17 +12,11 @@ O Instituto Dourados desenvolve a capacidade científica, computacional e
 organizacional necessária para que comunidades indígenas possam conduzir seus
 próprios futuros em saúde pública.
 
-Nossa visão de longo prazo é desenvolver assistentes de inteligência artificial
-que preservem a privacidade dos usuários e sejam alimentados por fontes de
-energia renovável. A mesma infraestrutura também servirá como um cluster
-distribuído de computação científica compartilhado, fortalecendo a capacidade
-computacional local.
-
-Nossa visão de longo prazo é desenvolver assistentes de inteligência artificial
-(IA) que preservem a privacidade dos usuários e sejam alimentados por fontes de
-energia renovável. A mesma infraestrutura que sustenta esses assistentes de IA
-também servirá como plataforma distribuída para computação científica,
-fortalecendo a capacidade computacional local.
+<!-- Nossa visão de longo prazo é desenvolver assistentes de inteligência artificial -->
+<!-- que preservem a privacidade dos usuários e sejam alimentados por fontes de -->
+<!-- energia renovável. A mesma infraestrutura também servirá como um cluster -->
+<!-- distribuído de computação científica compartilhado, fortalecendo a capacidade -->
+<!-- computacional local. -->
 
 Acreditamos que uma saúde pública sustentável depende do fortalecimento da
 capacidade local, em vez da dependência de longo prazo de recursos externos ou
@@ -39,31 +33,40 @@ contemporânea depende do acesso a essa infraestrutura digital compartilhada.
 O Instituto Dourados ajuda comunidades a participarem do ecossistema global de
 código aberto não apenas como usuárias, mas também como colaboradoras,
 inovadoras e lideranças. Acreditamos que comunidades indígenas devem ter
-oportunidade de desenvolver software científico, infraestrutura computacional e
-novas tecnologias alinhadas às suas próprias prioridades, contribuindo para
+a oportunidade de desenvolver software científico, infraestrutura computacional,
+e novas tecnologias alinhadas às suas próprias prioridades, contribuindo para
 avanços científicos e tecnológicos em todo o mundo enquanto também se beneficiam
 deles.
 
 
 ## Fundamentos
 
-Nosso trabalho baseia-se em uma colaboração de longa data na Reserva Indígena de Dourados. Durante a pandemia de COVID-19, a Dra. Rezende e seus colaboradores desenvolveram sistemas de informação epidemiológica para acompanhar a chegada e a disseminação de variantes do SARS-CoV-2 na Reserva [@Simionatto2020; @AlbuquerqueRezende2023].
+Nosso trabalho baseia-se em uma colaboração de longa data na Reserva Indígena de
+Dourados. Durante a pandemia de COVID-19, a Dra. Rezende e seus colaboradores
+desenvolveram sistemas de informação epidemiológica para acompanhar a chegada e
+a disseminação de variantes do SARS-CoV-2 na Reserva [@Simionatto2020;
+@AlbuquerqueRezende2023].
 
-Esse trabalho demonstrou a importância de compreender a estrutura social local para o planejamento em saúde pública. O Instituto Dourados amplia essa base ao desenvolver métodos computacionais que ajudam comunidades a antecipar futuros surtos, avaliar estratégias de intervenção e adaptar essas abordagens a comunidades indígenas em todo o Brasil e além.
+Esse trabalho demonstrou a importância de compreender a estrutura social local
+para o planejamento em saúde pública. O Instituto Dourados amplia essa base ao
+desenvolver métodos computacionais que ajudam comunidades a antecipar futuros
+surtos, avaliar estratégias de intervenção e adaptar essas abordagens a
+comunidades indígenas em todo o Brasil e além.
 
 ![**Série temporal da disseminação da COVID-19 na Reserva Indígena de Dourados.** A variante B.1.1 foi detectada inicialmente entre os Guarani (1), seguida cerca de um mês depois por um rápido aumento de casos em Jaguapiru entre os Terena (2). Alguns meses depois, os casos cresceram em Bororó após um aumento entre os Guarani (3). A variante Zeta foi introduzida no final de 2020 (4), seguida por um rápido crescimento de casos durante o período de festas, especialmente em Jaguapiru entre os Guarani (5), e posteriormente entre os Terena em Bororó (6).](/imagens/clipboard-2719146699.png){width="800" .lightbox #fig-variants-timeseries}
+
 
 ## A Reserva Indígena de Dourados
 
 A Reserva Indígena de Dourados está localizada no estado de Mato Grosso do Sul, no sudoeste do Brasil, ao lado da cidade de Dourados. A Reserva situa-se em uma região marcada por longas histórias de ocupação indígena, deslocamentos populacionais e políticas estatais que reuniram diferentes povos indígenas em um território compartilhado.
 
-![**Localização e geografia da Reserva Indígena de Dourados.** A Reserva e suas duas aldeias são apresentadas em relação à cidade de Dourados e à sua localização no Brasil.](/imagens/clipboard-1309800952.png){width="750px" .lightbox #fig-mapas}
+<!-- ![**Localização e geografia da Reserva Indígena de Dourados.** A Reserva e suas duas aldeias são apresentadas em relação à cidade de Dourados e à sua localização no Brasil.](/imagens/clipboard-1309800952.png){width="750px" .lightbox #fig-mapas} -->
 
 Hoje, aproximadamente 18 mil pessoas vivem nas duas aldeias da Reserva, Bororó e Jaguapiru. A população é composta por diversos povos indígenas, sendo os Guarani Kaiowá e os Terena os grupos mais numerosos.
 
 A Reserva é o lar de nossos colaboradores e o local onde nossa pesquisa é desenvolvida e avaliada em parceria com a comunidade local.
 
-![**Cotidiano na Reserva Indígena de Dourados.** Escolas, unidades de saúde, pequenos comércios e espaços comunitários ilustram o ambiente social que nossa pesquisa busca compreender e fortalecer.](/imagens/clipboard-1663480214.png){width="750px" .lightbox #fig-passeio-da-reserva}
+<!-- ![**Cotidiano na Reserva Indígena de Dourados.** Escolas, unidades de saúde, pequenos comércios e espaços comunitários ilustram o ambiente social que nossa pesquisa busca compreender e fortalecer.](/imagens/clipboard-1663480214.png){width="750px" .lightbox #fig-passeio-da-reserva} -->
 
 ## Compreendendo a Transmissão de Doenças
 
@@ -77,6 +80,7 @@ Nossa pesquisa atual procura responder a diversas questões:
 
 ![**Modelo conceitual de mobilidade e interação social.** Os parâmetros $c_{gg'}$ representam a frequência de interação entre grupos sociais, enquanto $\gamma_g$ representa a frequência de deslocamento de cada grupo para a cidade de Dourados.](/imagens/clipboard-2581785424.png){width="650" .lightbox #fig-model}
 
+
 ## Saúde Pública Computacional
 
 Compreender a transmissão de doenças é apenas o primeiro passo. Nosso objetivo é transformar conhecimento científico em ferramentas práticas de apoio à tomada de decisões por comunidades e profissionais da saúde pública.
@@ -89,6 +93,12 @@ Desenvolvemos modelos computacionais que permitem explorar diferentes estratégi
 
 Nossa visão de longo prazo é construir uma comunidade vibrante de parceiros indígenas, docentes, estudantes e pesquisadores trabalhando em conjunto para promover a saúde pública indígena por meio da ciência aberta e da autonomia computacional.
 
-Ao integrar parcerias comunitárias, infraestrutura computacional sustentável e software científico de código aberto, buscamos criar sistemas de saúde pública que as próprias comunidades possam compreender, governar e aperfeiçoar. Acreditamos que essa integração entre pesquisa de campo, ciência computacional e autonomia local oferece uma base duradoura para a saúde pública indígena no Brasil e além.
+Ao integrar parcerias comunitárias, infraestrutura computacional sustentável e
+software científico de código aberto, buscamos criar sistemas de saúde pública
+que as próprias comunidades possam compreender, governar e aperfeiçoar.
+
+Acreditamos que essa integração entre pesquisa de campo, ciência computacional e
+autonomia local oferece uma base duradoura para a saúde pública indígena no
+Brasil e além.
 
 # Referências

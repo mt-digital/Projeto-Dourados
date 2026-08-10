@@ -19,7 +19,7 @@ pesquisa em conjunto e aprofundássemos nossas parcerias no Brasil. Desde então
 ambos os fundadores viajam regularmente ao país para ouvir, observar, aprender
 e construir esse trabalho ao lado de nossos colaboradores brasileiros.
 
-### Dra. Izabela Mauricio de Rezende {.bioname}
+### Izabela Mauricio de Rezende, PhD {.bioname}
 
 <div class="role">Diretora e Epidemiologista-Chefe</div>
 
@@ -43,7 +43,7 @@ Izabela é doutora em Microbiologia/Virologia pela Universidade Federal de Minas
 Gerais, mestre em Doenças Infecciosas e bacharel em Ciências Biológicas pela
 Universidade Federal de Juiz de Fora.
 
-### Dr. Matthew A. Turner {.bioname}
+### Matthew A. Turner, PhD {.bioname}
 
 <div class="role">Cientista Social-Chefe</div>
 
@@ -66,7 +66,7 @@ desenvolvedor de software.
 
 ## Cientistas {.team-header}
 
-### Dra. Manjari Mishra {.bioname}
+### Manjari Mishra, PhD {.bioname}
 
 <div class="role">Epidemiologista</div>
 
@@ -118,20 +118,19 @@ científica interdisciplinar e impacto comunitário.
 
 No Instituto, Mariana contribui para pesquisas básicas, ações de comunicação em
 saúde pública voltadas à promoção de hábitos saudáveis e iniciativas de educação
-científica. Seu trabalho também abrange ciências sociais e epidemiologia
+científica.
+
+Seu trabalho também abrange ciências sociais e epidemiologia
 computacional, desenvolvendo sistemas para visualização de dados em saúde
 pública e identificação dos fatores sociais que mais influenciam a disseminação
 de doenças em diferentes contextos.
 
-## Liderança Acadêmica Brasileira {.team-header}
+## Pesquisadores da UFGD que Atuam em Pesquisa na Temática de Saúde Indígena {.team-header}
 
-- Simone Simionatto — UFGD •
+- Profesora. Simone Simionatto — UFGD •
   [ResearchGate](https://www.researchgate.net/profile/Simone-Simionatto)
-- Matheus de Carvalho Hernandez — UFGD •
+- Profesor Matheus de Carvalho Hernandez — UFGD •
   [ResearchGate](https://www.researchgate.net/profile/Matheus-De-Carvalho-Hernandez)
-
-### Lideranças Estudantis e Colaboradores
-
 - Laís Albuquerque de Oliveira — UFGD •
   [LinkedIn](https://www.linkedin.com/in/la%C3%ADsalbuquerque/?originalSubdomain=br)
 - Caio Gustavo Simonelli — UFGD •
@@ -140,6 +139,7 @@ de doenças em diferentes contextos.
 ![A fundadora Dra. Rezende com a Dra. Simone Simionatto e a pós-graduanda Laís
 Albuquerque de Oliveira no MedTrop 2024, em São
 Paulo.](/imagens/selected/simone-lais-iza.jpg){width=350px}
+
 
 ## Apoio Fundador {.team-header}
 

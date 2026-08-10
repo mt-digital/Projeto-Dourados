@@ -12,11 +12,6 @@ long-term community partnerships. Our work emphasizes computational autonomy:
 communities should be able to own, operate, and improve the scientific
 infrastructure they rely upon.
 
-Our long-term goal is to build privacy-preserving AI assistants powered by
-renewable energy. The same infrastructure will also serve as a publicly
-accessible distributed scientific computing cluster, strengthening local
-computational capacity.
-
 We believe sustainable public health depends on strengthening local capacity
 rather than long-term dependence on external or expensive resources. To support
 this vision, we develop open-source software and sustainable computing systems
@@ -30,11 +25,11 @@ this shared digital infrastructure.
 
 Instituto Dourados helps communities participate in the global open-source
 ecosystem not only as users, but also as contributors, innovators, and leaders.
-We believe Indigenous communities should have the same opportunity to build
-scientific software, computational infrastructure, and new technologies that
-reflect their own priorities while contributing to—and benefiting from—scientific
-and technological progress worldwide.
 
+We believe Indigenous communities should have equal opportunity to build
+scientific software, computational infrastructure, and new technologies that
+reflect their own priorities, while contributing back as leaders in the global
+scientific and technological software ecosystem.
 
 
 ## Foundations
@@ -54,21 +49,25 @@ Zeta variant was introduced at the end of 2020 (4), followed by a rapid rise in
 cases around the holiday season, especially in Jaguapiru among the Guarani (5),
 and later among the Terena in Bororó (6).](/imagens/clipboard-2719146699.png){width="800" .lightbox #fig-variants-timeseries}
 
+
 ## The Dourados Indigenous Reserve
 
 The Dourados Indigenous Reserve is located in the state of Mato Grosso do Sul in southwestern Brazil, adjacent to the city of Dourados. The Reserve lies within a region shaped by long histories of Indigenous settlement, displacement, and state-led reservation policies that brought multiple Indigenous peoples together in a shared territory.
 
-![**Location and geography of the Dourados Indigenous Reserve.** The Reserve and
-its two villages are shown in relation to the city of Dourados and their
-location within Brazil.](/imagens/clipboard-1309800952.png){width="750px" .lightbox #fig-mapas}
+<!-- ![**Location and geography of the Dourados Indigenous Reserve.** The Reserve and -->
+<!-- its two villages are shown in relation to the city of Dourados and their -->
+<!-- location within Brazil.](/imagens/clipboard-1309800952.png){width="750px" .lightbox #fig-mapas} -->
 
-Today, approximately 18,000 people live in the Reserve's two villages, Bororó and Jaguapiru. The population includes members of several Indigenous peoples, with the Guarani Kaiowá and Terena comprising the largest communities.
+Today, approximately 18,000 people live in the Reserve's two villages, Bororó
+and Jaguapiru. The population includes members of several Indigenous peoples,
+with the Guarani Kaiowá and Terena comprising the largest communities.
 
-The Reserve is both the home of our collaborators and the place where our research is developed and evaluated in partnership with the local community.
+The Reserve is both the home of our collaborators and the place where our
+research is developed and evaluated in partnership with the local community.
 
-![**Everyday life in the Dourados Indigenous Reserve.** The Reserve's schools,
-public health facilities, local businesses, and community spaces form the
-everyday setting in which our work takes place.](/imagens/clipboard-1663480214.png){width="750px" .lightbox #fig-passeio-da-reserva}
+<!-- ![**Everyday life in the Dourados Indigenous Reserve.** The Reserve's schools, -->
+<!-- public health facilities, local businesses, and community spaces form the -->
+<!-- everyday setting in which our work takes place.](/imagens/clipboard-1663480214.png){width="750px" .lightbox #fig-passeio-da-reserva} -->
 
 
 ## Understanding Disease Transmission
@@ -104,15 +103,18 @@ resource constraints.](/imagens/clipboard-721006767.png){width="750" .lightbox #
 
 ## Long-term Vision
 
-Our long-term vision is to build a vibrant community of Indigenous partners,
-faculty, students, and researchers working together to advance Indigenous public
-health through open science and computational autonomy.
+Our long-term vision is to build a vibrant community of Indigenous and
+non-Indigenous partners, faculty, students, and researchers working together to
+advance Indigenous public health through open science and computational
+autonomy.
 
 By combining community partnerships, sustainable computing infrastructure, and
 open-source scientific software, we aim to create public health systems that
-communities can understand, govern, and improve themselves. We believe this
-integration of field research, computational science, and local ownership offers
-a durable foundation for Indigenous public health in Brazil and beyond.
+communities can understand, govern, and improve themselves.
+
+We believe this integration of field research, computational science, and local
+ownership offers a durable foundation for Indigenous public health in Brazil and
+beyond.
 
 
 

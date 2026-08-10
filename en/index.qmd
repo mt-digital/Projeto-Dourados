@@ -26,7 +26,7 @@ Universidade Federal da Grande Dourados (UFGD).
 
 ### 501(c)(3) Tax-Exempt Status
 
-Donations to Instituto Dourados are tax-deductible in the United States. We are a Flagship Institute of the federally recognized 501(c)(3) public charity, the [Generation of Participation in Democracy (GPD)](https://gpdamericas.org).
+Donations to Instituto Dourados are tax deductible in the United States. We are a Flagship Institute of the federally recognized 501(c)(3) public charity, the [Generation of Participation in Democracy (GPD)](https://gpdamericas.org).
 
 <span style="font-size: 1.075rem;">**Employer Identification Number (EIN): 41-4992913**</span>
 
@@ -41,27 +41,21 @@ During the remainder of 2026, we will recruit and train our first four interns f
 A detailed overview of our planned activities, budget, and long-term fundraising goals is available on the [Instituto Dourados section of the GPD website](https://gpdamericas.org/institutodourados).
 
 
-<!-- ***  GO FUND ME EMBED gfm-embed  *** -->
-<div
-  class="gfm-embed"
-  data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"
->
-</div>
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-<!-- ***  END GO FUND ME EMBED  *** -->
+<!-- <!-1- ***  GO FUND ME EMBED gfm-embed  *** -1-> --> <!-- <div --> <!--   class="gfm-embed" --> <!--   data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7" --> <!-- > --> <!-- </div> --> <!-- <script defer src="https://www.gofundme.com/static/js/embed.js"></script> --> <!-- <!-1- ***  END GO FUND ME EMBED  *** -1-> -->
 
 
-For gifts of up to $1,000, we invite you to support us through our GoFundMe campaign.
+<!-- For gifts of up to \$1,000, we invite you to support us through our GoFundMe campaign. -->
 
-If you are considering a larger contribution, please contact the Giving team at
-our parent organization, the Generation of Participation in Democracy (GPD), at
-[giving@gpdamericas.org](mailto:giving@gpdamericas.org). Donations made directly
-help us avoid GoFundMe processing fees, allowing more of your contribution to
-support our programs.
+<!-- If you are considering a larger contribution, please contact the Giving team at -->
+<!-- our parent organization, the Generation of Participation in Democracy (GPD), at -->
+<!-- [giving@gpdamericas.org](mailto:giving@gpdamericas.org). Donations made directly -->
+<!-- help us avoid GoFundMe processing fees, allowing more of your contribution to -->
+<!-- support our programs. -->
 
 
 
 ### Stay Connected
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerQly0QI9YOhfjtkBXcCI1o6ktymFB1us33w3zbFd4NPpmIA/viewform?embedded=true" width="640" height="502" frameborder="0" marginheight="0" marginwidth="0">
 
