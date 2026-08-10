@@ -26,7 +26,9 @@ Universidade Federal da Grande Dourados (UFGD).
 
 ### 501(c)(3) Tax-Exempt Status
 
-Donations to Instituto Dourados are tax deductible in the United States. We are a Flagship Institute of the federally recognized 501(c)(3) public charity, the [Generation of Participation in Democracy (GPD)](https://gpdamericas.org).
+Donations to Instituto Dourados are tax deductible in the United States. We are
+a Flagship Institute of the federally recognized 501(c)(3) public charity, the
+[Generation of Participation in Democracy (GPD)](https://gpd.network).
 
 <span style="font-size: 1.075rem;">**Employer Identification Number (EIN): 41-4992913**</span>
 
